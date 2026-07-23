@@ -9,6 +9,7 @@
  * Provider-specific env vars — see src/providers/ for full list.
  */
 
+import "dotenv/config";
 import fs from "node:fs";
 import path from "node:path";
 import {
@@ -66,7 +67,7 @@ const {
 // Helpers
 // ---------------------------------------------------------------------------
 
-function requireEnv(name: string): string {
+function _requireEnv(name: string): string {
   const value = process.env[name];
   if (!value) throw new Error(`Missing required environment variable: ${name}`);
   return value;
@@ -287,7 +288,10 @@ async function generateSummaries(
 // ---------------------------------------------------------------------------
 
 async function main(): Promise<void> {
-  requireEnv("GITHUB_TOKEN");
+  const githubToken = process.env["GITHUB_TOKEN"] ?? "";
+  if (!githubToken) {
+    console.warn("[warn] GITHUB_TOKEN not set — GitHub repo tracking will be skipped.");
+  }
 
   const now = new Date();
   const since = new Date(now.getTime() - 24 * 60 * 60 * 1000);

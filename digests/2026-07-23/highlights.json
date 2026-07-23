@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.218发布，修复macOS文件调用失败",
+      "OpenAI Codex迭代Rust版，解决Windows稳定性差",
+      "Gemini CLI修复A2A协议，优化子代理恢复机制",
+      "GitHub Copilot补丁修复Windows僵尸进程问题",
+      "Qwen Code内部测试Goal v3状态协议优化",
+      "DeepSeek TUI规划上下文瘦身与统一技能管理器"
+    ],
+    "ai-agents": [
+      "OpenClaw日处理144个Issue，500个PR高效协同",
+      "支持Microsoft Teams多Bot身份配置",
+      "修复Slack渠道兼容性，优化App Home命令",
+      "加固OpenAI实时语音WebSocket握手超时限制",
+      "CLI与Agent子进程调用全面增加超时保护",
+      "Docker latest标签回退旧版，CI/CD配置混乱"
+    ],
+    "ai-trending": [
+      "Ollama持续支持Kimi-K2.6等主流模型推理",
+      "ECC系统优化Claude Code等编码代理性能",
+      "Hermes Agent迭代，强调随用户成长能力",
+      "Agent-Reach赋予Agent全网视觉突破API限制",
+      "Kronos金融市场语言模型预示金融AI细分升温",
+      "awesome-claude-skills汇总Claude技能列表"
+    ],
+    "ai-web": [
+      "Anthropic推出经济指数连接器，数据民主化",
+      "Anthropic设立2亿美元基金研究AI经济冲击",
+      "追加捐赠2000万美元推动理性AI安全政策",
+      "Claude Opus 4.8迭代强化编码与动态工作流",
+      "Project Glasswing管理网络安全风险披露",
+      "OpenAI疑似推进Presence新产品及品牌举措"
+    ],
+    "ai-hn": [
+      "陶哲轩用ChatGPT探讨雅可比猜想引发热议",
+      "Kimi K3与Fable模型表现优异被视为SOTA",
+      "GigaToken宣称分词速度提升千倍直击痛点",
+      "DeepSQL自托管DBA Agent回应运维需求",
+      "Millwright基于Rust构建自托管LLM路由",
+      "Gemini API更新部分采样参数已失效忽略"
+    ],
+    "ai-arxiv": [
+      "提出证据感知强化学习克服长上下文重复复制",
+      "量化提示格式与指令数量对LLM幻觉的影响",
+      "GAMUT基准测试关注长文生成事实完整性",
+      "Off-Context GRPO利用特权信息解决难问题",
+      "综述智能体从研究原型向生产级部署挑战",
+      "Supra Cognitive Modes探索认知模式新架构"
+    ],
+    "ai-hf": [
+      "Gemma-4-31B-it下载破千万稳居HF榜首",
+      "GLM-5.2采用MoE DSA架构成国产顶尖代表",
+      "百度Unlimited-OCR无限上下文识别需求刚性",
+      "Qwythos-9B主打1M上下文与推理增强",
+      "Qwen3.6无限制微调版受社区强烈兴趣",
+      "Bonsai-27B极致1-bit量化适配消费级硬件"
+    ],
+    "ai-community": [
+      "Substack AI检测器存在盲区需批判性思维",
+      "保留学习摩擦在AI时代对技术传承至关重要",
+      "通俗解析上下文窗口本质澄清非无限记忆",
+      "三分之一直播MCP服务器实际可用性堪忧",
+      "防止Agent通过作弊手段满足测试指标策略",
+      "剖析AI供应链中常被忽视的安全漏洞攻击面"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.218 released",
+      "OpenAI Codex Rust SDK alpha",
+      "Gemini CLI v0.53.0-preview.0",
+      "GitHub Copilot v1.0.74-3 patch",
+      "Kimi Code CLI active development",
+      "OpenCode 10 key PRs merged"
+    ],
+    "ai-agents": [
+      "OpenClaw 500 PRs updated today",
+      "OpenClaw fixes session state bugs",
+      "OpenClaw addresses WhatsApp regressions",
+      "OpenClaw fixes Docker tag issues",
+      "NanoBot and Hermes Agent active",
+      "IronClaw and CoPaw in digest"
+    ],
+    "ai-trending": [
+      "OmniRoute gains local agent traction",
+      "AnyThingLLM prioritizes privacy",
+      "Ollama supports Kimi-K2.6 and GLM-5.2",
+      "vLLM remains inference gold standard",
+      "Outlines solves LLM hallucination",
+      "Rig framework scales Rust LLM apps"
+    ],
+    "ai-web": [
+      "Anthropic releases Claude Opus 4.8",
+      "Opus 4.8 offers 2.5x speed boost",
+      "Anthropic launches Economic Index connector",
+      "Anthropic commits $200M to research",
+      "Project Glasswing donates $20M for safety",
+      "OpenAI updates metadata only today"
+    ],
+    "ai-hn": [
+      "Kimi K3 matches Fable performance",
+      "Kimi K3 challenges current SOTA",
+      "Google deprecates Gemini sampling params",
+      "Terrence Tao discusses Jacobian Conjecture",
+      "OpenAI security incident at Hugging Face",
+      "Anthropic settles copyright for $1.5B"
+    ],
+    "ai-arxiv": [
+      "RLVR moves to translation and law",
+      "Evidence-aware RL fixes long-context copying",
+      "GAMUT benchmark evaluates factual completeness",
+      "Speculative decoding breakthroughs noted",
+      "Shallow recurrent networks enable real-time control",
+      "Physics constraints deepen neural integration"
+    ],
+    "ai-hf": [
+      "Gemma-4-31B-it leads HF downloads",
+      "GLM-5.2 trends with advanced MoE",
+      "Unlimited-OCR shows multimodal strength",
+      "GGUF and MLX formats dominate local AI",
+      "Qwen variants see uncensored fine-tuning",
+      "MiniCPM remains popular for customization"
+    ],
+    "ai-community": [
+      "Dev.to critiques Substack AI detector",
+      "Friction aids AI-era coding mentorship",
+      "Context windows explained as CPU caches",
+      "Lint-scanning 36 popular AI libraries",
+      "Agentic system evaluation reliability focus",
+      "Skepticism toward AI detection tools grows"
+    ]
+  }
+}
