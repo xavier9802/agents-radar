@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code遭遇网络不稳定与计费异常",
+      "OpenAI Codex Windows平台严重回归",
+      "Gemini CLI修复Agent挂起与安全漏洞",
+      "GitHub Copilot发布v1.0.74版本",
+      "Kimi Code高频修复Windows底层适配",
+      "DeepSeek TUI爆发高危竞态条件Bug"
+    ],
+    "ai-agents": [
+      "OpenClaw日处理330 Issue与500 PR",
+      "修复Boot Session快照关键Bug",
+      "密集合并防OOM资源边界控制PR",
+      "完成依赖更新与运行时合同迁移",
+      "重构Agent加载逻辑简化多代理架构",
+      "推进RFC 42增强TUI本地化支持"
+    ],
+    "ai-trending": [
+      "OmniRoute聚合290+提供商成今日爆品",
+      "ego-lite浏览器内核优化Agent并发",
+      "Harper基于Rust构建离线语法检查器",
+      "claude-mem解决智能体跨会话失忆痛点",
+      "mem0ai提供通用AI智能体持久化记忆",
+      "阿里开源代码审查工具结合LLM Agent"
+    ],
+    "ai-web": [
+      "Anthropic推出创意工作者专属Connector",
+      "Claude Opus 4.7强化工程与自我验证",
+      "Opus 4.7降低网安能力符合监管预期",
+      "Anthropic深度嵌入Adobe等专业软件生态",
+      "OpenAI暗示将AI渗透至医疗健康场景",
+      "Claude向嵌入式生产力引擎转型"
+    ],
+    "ai-hn": [
+      "陶哲轩与ChatGPT探讨数学猜想引热议",
+      "Kimi K3与Fable被称达到SOTA水平",
+      "Palmier Pro开源AI视频编辑器上线",
+      "OneCLI凭证网关解决Agent密钥泄露",
+      "GigaToken声称Token化速度提升千倍",
+      "Oracle裁员Stripe收购OpenRouter洗牌"
+    ],
+    "ai-arxiv": [
+      "反周期位置编码提升长上下文检索可靠性",
+      "实证分析CoT模型思维链双峰收敛模式",
+      "随机化KV缓存淘汰设计提供误差证书",
+      "希尔伯特算子解构深度学习内部表示",
+      "多模态大模型机器遗忘基准揭示公平性缺陷",
+      "将代理内存视为生命周期与架构问题"
+    ],
+    "ai-hf": [
+      "GLM-5.2基于MoE架构下载量激增",
+      "Gemma-4累计下载超千万确立基石地位",
+      "Unlimited OCR支持无限分辨率文字识别",
+      "Qwen3-TTS支持自定义声音克隆低延迟",
+      "Antares 1B轻量级模型适合边缘部署",
+      "社区活跃微调Qwen3.6及Laguna系列"
+    ],
+    "ai-community": [
+      "揭示AI Agent演示背后的工程现实局限",
+      "优化上下文管理降低95% Token消耗",
+      "深入剖析RAG流水线中的隐性成本来源",
+      "指出生产级RAG系统失败的隐藏架构问题",
+      "用轻量Go分类器替代7B大模型降成本",
+      "结合Gemini API为Claude构建视频技能"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code fixes v2.1.218 bugs",
+      "OpenAI Codex releases rust-v0.146.0",
+      "Gemini CLI focuses on SSR stability",
+      "GitHub Copilot v1.0.74 stabilizes spec",
+      "Kimi Code fixes Windows plugin crashes",
+      "DeepSeek TUI and Grok Build active"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 330 issues, 500 PRs",
+      "Critical stability phase for OpenClaw",
+      "Regression fixes for v2026.7.1/7.2",
+      "Localization framework advances RFC #42",
+      "Dependency migration PR #112963 merged",
+      "No new releases; intense maintenance"
+    ],
+    "ai-trending": [
+      "OmniRoute gains 1929 stars in a day",
+      "ego-lite enables parallel AI agents",
+      "Alibaba's open-code-review hits 180 stars",
+      "Harper offers privacy-first Rust grammar",
+      "Shift to hyper-specialized vertical agents",
+      "Local-first architecture adoption surges"
+    ],
+    "ai-web": [
+      "Anthropic launches Claude for Creative Work",
+      "Opus 4.7 GA with automated cyber-safeguards",
+      "Integrations with Adobe, Ableton, Autodesk",
+      "OpenAI hints at Health In Chatgpt index",
+      "Strategic pivot to responsible deployment",
+      "Mythos Preview remains restricted"
+    ],
+    "ai-hn": [
+      "OpenAI accidental cyberattack on Hugging Face",
+      "Founders lobby to preserve Chinese models",
+      "Oracle workforce reduction after failed AI bet",
+      "Tao's ChatGPT math conversation sparks debate",
+      "Kimi K3 competitive with Fable model",
+      "Hidden debt concerns rise in AI companies"
+    ],
+    "ai-arxiv": [
+      "Early detection of reasoning non-convergence",
+      "Möbius RoPE ensures deterministic retrieval",
+      "Token budget saturation analysis published",
+      "Anti-periodic positional encoding introduced",
+      "Unlearning under imbalance benchmarking",
+      "Focus on memory management and safety"
+    ],
+    "ai-hf": [
+      "Qwen3.6 variants dominate downloads",
+      "Gemma-4-31B-it hits 12M downloads",
+      "GLM-5.2 leads engagement with 4.3k likes",
+      "Solar-Open2-250B signals interest in size",
+      "Baidu's Unlimited-OCR trending highly",
+      "NVIDIA Cosmos3-Edge for edge video gen"
+    ],
+    "ai-community": [
+      "Dirty secret behind AI agents revealed",
+      "AI endpoints change traditional API flow",
+      "Guardrail costs often unmeasured",
+      "Reducing context window costs critical",
+      "MCP integration for tool usage discussed",
+      "Skepticism toward opaque governance models"
+    ]
+  }
+}
