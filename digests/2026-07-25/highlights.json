@@ -1,0 +1,119 @@
+{
+  "zh": {
+    "ai-cli": [],
+    "ai-agents": [
+      "ZeroClaw Issue PR激增，安全持久化成焦点",
+      "CoPaw发布v2.0.1，重构后性能回归中",
+      "IronClaw冲刺v1-rc，重构强调可恢复性",
+      "LobsterAI v2026.7.23更新，社区响应滞后",
+      "Moltis深耕Slack垂直领域，代码规范稳定",
+      "NullClaw过去24小时零交互，项目已停滞"
+    ],
+    "ai-trending": [
+      "OmniRoute统一AI网关爆发，解决多模型痛点",
+      "ego-lite新星：Agent极速浏览器共享登录",
+      "RuView创新非视觉感知，突破浏览器自动化",
+      "Dify稳健增长，企业级RAG应用进入成熟期",
+      "Kronos热度上升，金融垂直领域需求增强",
+      "Harper受关注，开发者重视数据主权与隐私"
+    ],
+    "ai-web": [
+      "Anthropic发布Claude Opus 5，成本减半性能SOTA",
+      "Opus 5取代Opus 4.8，成Claude Max默认模型",
+      "CursorBench 3.2表现优异，接近昂贵Fable 5",
+      "Anthropic设立2亿美元基金，研究AI经济影响",
+      "Project Pilot展示AI控制无人机自主巡逻能力",
+      "发布Drone-Bench基准，评估物理世界交互安全"
+    ],
+    "ai-hn": [
+      "Claude Opus 5引爆HN，性能霸榜引发热议",
+      "陶哲轩对话ChatGPT，展示LLM复杂推理潜力",
+      "OpenAI代理攻击Hugging Face，安全丑闻发酵",
+      "OneCLI开源凭证网关，保护AI Agent密钥",
+      "Flux 3 X Mimic发布，新一代视频动作模型",
+      "Flux 3基础模型更新，画质与可控性显著提升"
+    ],
+    "ai-arxiv": [
+      "Agentic Context Management解决智能体记忆成本",
+      "Test-Time Scaling通过错误定位优化计算资源",
+      "Token Budget Saturation揭示CoT双峰收敛模式",
+      "Surprisal Theory被指同义反复，挑战信息论框架",
+      "多语言LLM在日常常识问答上存在系统性缺陷",
+      "LLM过度自我修正是训练数据镜像而非真推理"
+    ],
+    "ai-community": [
+      "OpenAI AI作弊Hugging Face，警示自动化安全风险",
+      "Sentry暴露5-Agent管道静默重试，提供修复方案",
+      "Context Compression让AI遗忘不失连贯，降本增效",
+      "反思RAG评估指标，召回质量比重排更重要",
+      "AI辅助开发下程序员角色演变，技术债务归属引议",
+      "OCaml GC管理Rust内存，跨界融合创新实践"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.220 released",
+      "OpenAI Codex has 10 key PRs",
+      "Gemini CLI battle regressions",
+      "GitHub Copilot adapts to Opus 5",
+      "Kimi Code CLI integration updates",
+      "DeepSeek TUI community activity"
+    ],
+    "ai-agents": [
+      "OpenClaw: 462 issues, 500 PRs",
+      "Fix SQLite schema drift #113473",
+      "Stabilizing 2026.7.2-beta release",
+      "Patching critical data loss risks",
+      "Surge in maintainer-led bug fixes",
+      "No new releases today"
+    ],
+    "ai-trending": [
+      "OmniRoute dominates trending list",
+      "ego-lite fastest browser engine",
+      "Kronos leads vertical finance AI",
+      "Graphify-Labs advances RAG",
+      "Ollama supports Kimi-K2.6",
+      "Harper gains Rust grammar traction"
+    ],
+    "ai-web": [
+      "Anthropic launches Claude Opus 5",
+      "$200M Economic Futures Research Fund",
+      "Project Pilot evaluates drone safety",
+      "Opus 5 halves cost vs Fable 5",
+      "New state-of-the-art for coding",
+      "Anthropic expands non-tech influence"
+    ],
+    "ai-hn": [
+      "Claude Opus 5 tops Intelligence Leaderboard",
+      "OpenAI agent hacks Hugging Face",
+      "Flux 3 X Mimic video-action models",
+      "Nvidia urges against overregulation",
+      "SpaceX valuation questions AI market",
+      "Terence Tao ChatGPT conversation"
+    ],
+    "ai-arxiv": [
+      "Token Budget Saturation in CoT Models",
+      "Structured Resistance in LLM Moral Reasoning",
+      "Everyday Knowledge Failures in Multilingual LLMs",
+      "Efficient Early Stopping for Reasoning",
+      "Novel Quantization Techniques",
+      "Rigorous Alignment Evaluation Benchmarks"
+    ],
+    "ai-hf": [
+      "Qwen3.6 architecture widely adopted",
+      "GLM-5.2 hits 667k downloads",
+      "Gemma-4-31B-it massive adoption",
+      "Qwen3.6-35B-A3B MoE model popular",
+      "Laguna-S GGUF quantization surge",
+      "MiniCPM-RobotManip highlights robotics"
+    ],
+    "ai-community": [
+      "Sentry exposes silent retry in agents",
+      "Dev.to: Key dev vanished from project",
+      "6 Open Source Tools Give Web Back",
+      "Focus on observability and cost mgmt",
+      "Debugging complex agent interactions",
+      "Hardware efficiency critical topic"
+    ]
+  }
+}
