@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code支付崩溃，Opus 5幻觉引信任危机",
+      "OpenAI Codex遇Windows稳定性危机",
+      "Gemini CLI子代理挂起与Shell污染Bug",
+      "GitHub Copilot CLI会话恢复OOM严重",
+      "OpenCode Electron加固与TUI启动优化",
+      "Qwen Code多工作空间Daemon功能发布"
+    ],
+    "ai-agents": [
+      "OpenClaw日增349 Issue，社区极度活跃",
+      "修复Cron任务中浏览器标签页丢失问题",
+      "Mac应用支持仪表盘内就地切换网关",
+      "安全加固：限制Cron Webhook主机范围",
+      "Signal渠道新增聊天设置降低接入门槛",
+      "停止sessions.list物化存储优化性能"
+    ],
+    "ai-trending": [
+      "ECC系统助力Claude Code性能优化",
+      "Superpowers框架定义结构化Agent技能",
+      "知名开发者Skills集获1740星高增速",
+      "Kronos金融大模型加速交易AI化进程",
+      "Ego-lite解决Agent浏览器登录痛点",
+      "aisuite统一接口简化多模型集成开发"
+    ],
+    "ai-hn": [
+      "Claude Opus 5以1741分热度确立标杆",
+      "AMD发布机器可读ISA挑战CUDA垄断",
+      "开源AI迎来Kubernetes化部署时刻",
+      "Flux 3图像生成模型画质与提示突破",
+      "Opus 5登顶Artificial Analysis排行榜",
+      "详解Claude 5时代上下文工程新规则"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE架构成本周点赞最高LLM",
+      "Qwen3.6-35B-A3B下载量超640万次",
+      "百度Unlimited-OCR数百万下载领跑",
+      "Qwythos微调版支持1M超长上下文",
+      "Solar-Open2-250B挑战顶级闭源模型",
+      "Antares-1B极小体积保持嵌入式高性能"
+    ],
+    "ai-community": [
+      "SigNoz监控AI Agent集群揭示反直觉洞察",
+      "Anthropic降价Opus 5引发开源阵营反击",
+      "连接3个MCP服务器使Agent极速自动化",
+      "生产环境RAG系统失效原因及预防方案",
+      "单人用RTX 5070构建全离线AI操作系统",
+      "AI Agent沙箱隔离最佳实践降低安全风险"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "OpenAI Codex releases rust-v0.146.0-alpha",
+      "Gemini CLI updates to v0.54.0-nightly",
+      "Claude Code Skills library added",
+      "10 CLI tools compared for enterprise use",
+      "GitHub Copilot CLI issues closed",
+      "Pi tool released in new version"
+    ],
+    "ai-agents": [
+      "OpenClaw has 500 active PRs today",
+      "349 issues updated in OpenClaw",
+      "Gateway startup failures reported",
+      "Session management regressions fixed",
+      "Security hardening for MCP tools",
+      "No new stable release published"
+    ],
+    "ai-trending": [
+      "ECC harness gains 377 stars daily",
+      "aisuite unifies AI provider interfaces",
+      "turbovec offers high-perf Rust vector index",
+      "Alibaba open-sources code review agent",
+      "Graphify introduces deterministic RAG",
+      "Specialized finance agents emerge"
+    ],
+    "ai-hn": [
+      "Claude Opus 5 dominates HN discussions",
+      "Opus 5 tops Artificial Analysis leaderboard",
+      "Flux 3 image model update discussed",
+      "AMD publishes machine-readable ISAs",
+      "Skepticism on AI productivity gains grows",
+      "Agent security concerns rise"
+    ],
+    "ai-hf": [
+      "GLM-5.2 leads with 707k downloads",
+      "Qwen3.6-35B-A3B hits 6.4M downloads",
+      "Bonsai-27B-gguf offers 1-bit quantization",
+      "High demand for NVFP4 formats",
+      "Edge deployment for robotics increases",
+      "Open-weight multimodal models surge"
+    ],
+    "ai-community": [
+      "Anthropic cuts API costs with Opus 5",
+      "Connecting 3 MCP servers to one agent",
+      "Dev.to discusses AI agent observability",
+      "Rivals unite to defend open weights",
+      "Sandboxing AI agents becomes critical",
+      "Low-resource language access debated"
+    ]
+  }
+}
