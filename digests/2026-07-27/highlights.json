@@ -1,20 +1,20 @@
 {
   "zh": {
     "ai-cli": [
-      "Claude Code v2.1.220：严重Bug频发，开发节奏明显放缓",
-      "OpenAI Codex：后台基础设施重构，稳定性压力剧增",
-      "Gemini CLI：v0.54.0夜版，最高频迭代攻坚Agent稳定性",
-      "Qwen Code v0.21.0夜版：连续P1安全补丁加固MCP协议",
-      "DeepSeek TUI：v0.9.2 RC，侧重渲染性能与新手引导体验",
-      "Grok Build：社区活动停滞，今日无任何可见更新记录"
+      "Anthropic Claude Opus 5 性能对标旗舰 Fable 且成本减半",
+      "Claude Code 迁移至 Rust/Bun 栈修复性能瓶颈问题",
+      "OpenAI Codex Windows 平台出现进程泄漏和内核崩溃",
+      "Gemini CLI 夜间构建领先攻克 Wayland 崩溃稳定性问题",
+      "Qwen Code 发布 P1 安全补丁加固 MCP 工业级安全边界",
+      "DeepSeek TUI v0.9.2 RC 冲刺修复配置静默失效"
     ],
     "ai-agents": [
-      "OpenClaw日更852条，113 Issue解决，核心流处理统一化",
-      "Core Gateway修复OpenAI双流处理器状态不一致问题",
-      "LanceDB内存插件原子化表初始化解决并发启动失败",
-      "社区热议Linux/Windows原生支持（Issue #75）获115评论",
-      "Session上下文重复注入导致Token浪费问题持续被讨论",
-      "未发布新版本，Beta版升级配置迁移存在多个严重Bug"
+      "OmniRoute 聚合 290+ 提供商成 GitHub Trending 热门工具",
+      "OpenClaw 24 小时处理 300+ Issue/PR 进入高强度维护",
+      "IronClaw / CoPaw 引入沙箱机制提升企业级可用性",
+      "田纳特与 ChatGPT 数学对话视频引发 AI 推理热议",
+      "Kimi K3 宣称国际基准测试中性能与 Fable 持平",
+      "Anthropic 设立 2 亿美元基金主动应对 AI 劳动力影响"
     ],
     "ai-trending": [
       "Chat2DB今日激增398 Star，AI SQL客户端黑马崭露头角",
@@ -97,6 +97,14 @@
       "LLM-powered SQL editor enables text-to-query",
       "Rust library for safe LLM context extraction",
       "Debugging agents that answer but fail to execute"
+    ],
+    "ai-weekly": [
+      "Anthropic launches Opus 5, rivaling Fable at half the cost.",
+      "Kimi K3 and Qwen-Image-3.0 challenge Western models on benchmarks.",
+      "OpenAI and Hugging Face address critical security incident during evaluation.",
+      "Anthropic releases new context engineering guidelines post Opus 5.",
+      "Toolchain instability reported across Claude Code and OpenCode CLI tools.",
+      "ego-lite surges on GitHub Trending for persistent agent session management."
     ]
   }
 }
