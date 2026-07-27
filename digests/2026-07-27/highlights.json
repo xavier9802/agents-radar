@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.220：严重Bug频发，开发节奏明显放缓",
+      "OpenAI Codex：后台基础设施重构，稳定性压力剧增",
+      "Gemini CLI：v0.54.0夜版，最高频迭代攻坚Agent稳定性",
+      "Qwen Code v0.21.0夜版：连续P1安全补丁加固MCP协议",
+      "DeepSeek TUI：v0.9.2 RC，侧重渲染性能与新手引导体验",
+      "Grok Build：社区活动停滞，今日无任何可见更新记录"
+    ],
+    "ai-agents": [
+      "OpenClaw日更852条，113 Issue解决，核心流处理统一化",
+      "Core Gateway修复OpenAI双流处理器状态不一致问题",
+      "LanceDB内存插件原子化表初始化解决并发启动失败",
+      "社区热议Linux/Windows原生支持（Issue #75）获115评论",
+      "Session上下文重复注入导致Token浪费问题持续被讨论",
+      "未发布新版本，Beta版升级配置迁移存在多个严重Bug"
+    ],
+    "ai-trending": [
+      "Chat2DB今日激增398 Star，AI SQL客户端黑马崭露头角",
+      "ego-lite获900 Star，专为Agent设计的轻量级浏览器",
+      "mem0获约6.1万Star，通用记忆层库确保多轮对话连贯性",
+      "Cherry Studio集成多种助手功能，打造一站式Agent控制中心",
+      "股票分析系统ZhuLinsen每日抓取新闻推送决策看板",
+      "Agent-Reach赋予Agent视觉能力，低成本扫描全球社交平台"
+    ],
+    "ai-hn": [
+      "Claude Opus 5登顶，引发狂喜与基准测试热潮",
+      "田纳特AI时代数学演讲引发范式转移深度学术探讨",
+      "Apertus 1.5瑞士开源模型对抗巨头垄断但传播度有限",
+      "Claude 5上下文工程新规则获443分，开发者急切调优",
+      "Wattage工具精准击中AI Agent令牌成本消耗痛点",
+      "Flux 3模型更新关注图像生成或代码架构最新改进"
+    ],
+    "ai-hf": [
+      "GLM-5.2登顶，获得4481点赞及超82万次下载",
+      "baidu/Unlimited-OCR超3200点赞，OCR领域重磅发布",
+      "Solar-Open2-250B韩国超大容量LLM优化长文推理",
+      "Laguna-S系列发布正式版本，强上下文处理能力受捧",
+      "KAT-Coder V2.5 Dev编程辅助模型支持图像文本理解",
+      "Mage-Flow与Cosmos3-Edge大厂加入生成任务竞争"
+    ],
+    "ai-community": [
+      "Dev.to热文：SigNoz+Otel-Swarm实现多Agent系统追踪",
+      "Hermes Agent搭配Kokoro TTS本地部署无云依赖助手",
+      "讨论AI代理混淆副手安全问题：上下文感知授权关键",
+      "图RAG实体消歧研究：解决知识库命名冲突难题",
+      "开发者分享AI项目遭遇社区冷遇反思技术评审文化",
+      "微软阐述开放权重立场，解读地缘政治下AI开源生态"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.220 stable release announced",
+      "OpenCode Desktop v1.18.6 minor update available",
+      "Kimi Code CLI stable with no regression issues",
+      "10 major AI CLI tools tracked in today's digest",
+      "GitHub Copilot CLI remains at Stable 1.0.75",
+      "Security hardening accelerating across all tools"
+    ],
+    "ai-agents": [
+      "OpenClaw: 352 active, 500 PRs daily",
+      "Critical stability strain noted by team",
+      "Aggressive release cycle fixing regressions",
+      "Core Gateway event loops under heavy load",
+      "Session handling fixes in #113434, #111519",
+      "Telegram/agent integrations heavily updated"
+    ],
+    "ai-trending": [
+      "Alibaba open-code-review: 832 stars",
+      "aisuite reduces vendor lock-in risks",
+      "Claude cookbooks showcase advanced prompting",
+      "Autonomous agent infrastructure gaining momentum",
+      "Vectorless RAG systems reduce storage costs",
+      "Specialized CLI tools enable local repo access"
+    ],
+    "ai-hn": [
+      "Claude Opus 5 hits #1 on benchmarks",
+      "Opus 5 launch had elevated error rates",
+      "Open-Weight Revolution drives Chinese models",
+      "Kubernetes-style management of model weights discussed",
+      "Flux 3 advances generative modeling capabilities",
+      "Terence Tao discusses mathematics in Age of AI"
+    ],
+    "ai-hf": [
+      "GLM-5.2 tops weekly likes on Hugging Face",
+      "Laguna-S-2.1: 704 likes, 56k downloads",
+      "Solar-Open2-250B pushes scalable LLM boundaries",
+      "Quantization trend dominates edge device needs",
+      "Three GGUF versions of Laguna-S-2.1 released",
+      "Multimodal OCR tools maintain high engagement"
+    ],
+    "ai-community": [
+      "Multi-agent tracing with otel-swarm and SigNoz",
+      "Local RAG assistant built with Ollama + ChromaDB",
+      "Authz checks caller while Model picks tenant",
+      "LLM-powered SQL editor enables text-to-query",
+      "Rust library for safe LLM context extraction",
+      "Debugging agents that answer but fail to execute"
+    ]
+  }
+}
