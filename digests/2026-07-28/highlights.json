@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Kimi Code CLI 修复 VSCode 扩展稳定性，补丁更新密集",
+      "DeepSeek TUI v0.9.2 RC 攻克 Windows CRLF 兼容性痛点",
+      "Gemini CLI v0.54.0-nightly 优先解决变量注入安全漏洞",
+      "OpenCode v1.18.7 完成 MCP v2 架构重构与 Session 拆分",
+      "Copilot CLI 发现僵尸进程严重，macOS Keychain 冲突暴露",
+      "Claude Code Windows 白屏问题引发核心声誉高危风险"
+    ],
+    "ai-agents": [
+      "OpenClaw 日增 Issue/PR 各 500 条，积压达 283 条",
+      "Linux/Windows App 缺失获 80👍，跨平台呼声强烈",
+      "#91588 Gateway 内存泄漏至 15.5GB 被标记为 P0",
+      "Web UI 完善繁体中文 locale 显示逻辑",
+      "会话列表引入水印缓存降低 SQLite 扫描开销",
+      "工具隔离完成能力优化增强纯推理调用安全性"
+    ],
+    "ai-trending": [
+      "OpenAI Codex Alpha 版 rust-v0.146.0 遭 Windows 沙箱卡壳",
+      "Moeru-ai Airi TS 项目 +572 Stars，Grok 伴侣自托管",
+      "Bun Rust 重写引发热议，高性能运行时架构大变革",
+      "Qwen Code CI 压力山大，SWE-bench 验证大量失败",
+      "NanmiCoder MediaCrawler +362 Stars，多模态数据采集",
+      "OpenAI 集中发布 6 篇业务资源，强化开发者 adoption"
+    ],
+    "ai-hn": [
+      "Bun Rust 重写文章分破 457，评论超 350 条热度极高",
+      "Claude Opus 5 出现异常错误，社区信任危机显现",
+      "Terence Tao ICM 演讲：AI 时代的数学研究辅助作用",
+      "Call Me 工具低成本实现 AI 代理 VoIP 通话通知",
+      "Ami 本地开源 Agent 自动处理跨应用繁琐任务",
+      "Apple Silicon LLM 推理速度实测数据公开可查"
+    ],
+    "ai-arxiv": [
+      "Zing 社会智能框架赋予 LLM 心理状态推断与规范推理能力",
+      "VIA 变分伊辛注意力机制解依赖长 Token 约束，优化科学建模",
+      "E-Bench 首推多步工具使用基准测试，覆盖信息获取与状态变更",
+      "Focus Is All You Need 解决多图谱系统目标驱动注意力调度难题",
+      "稀疏 KV 存重估长序列有效性，Compute Globally 提出新范式",
+      "Deep Search 代理分配可控诊断框架分离检索与调用质量"
+    ],
+    "ai-hf": [
+      "Kimi-K3 点赞第一成现象级产品，图文交互能力强劲",
+      "Unlimited-OCR 下载破 260 万，百度 OCR 模型工业落地强",
+      "Qwen3.6 系列下载超 600 万，开源多模态对话焦点",
+      "GLM-5.2 MoE 架构对话模型下载百万级别高效推理",
+      "Bonsai 等模型 GGUF 量化版受热，高效推理需求旺盛",
+      "Laguna-S-2.1 创意写作与逻辑推理表现突出平衡性好"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.218 remains stable with high engagement on billing & shortcuts.",
+      "OpenCode CLI focuses on composability and cross-platform customization.",
+      "GitHub Copilot CLI emphasizes seamless IDE integration feature completeness.",
+      "DeepSeek TUI community drives open-source agent workflow automation tools.",
+      "Kimi Code CLI shows strong enterprise adoption signals for Chinese devs.",
+      "Cross-tool analysis reveals ongoing stability challenges on Windows/macOS."
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues/PRs today, no new release yet.",
+      "Session state memory leaks impact OpenClaw stability significantly.",
+      "NanoBot and Hermes Agent show active cross-channel agent development.",
+      "IronClaw advances Telegram and Signal messaging channel integrations.",
+      "ZeroClaw labs focus on lightweight agent orchestration frameworks.",
+      "Maintainers prioritizing technical debt cleanup over new features."
+    ],
+    "ai-trending": [
+      "moeru-ai/airi surges with 572 stars as self-hosted Grok companion.",
+      "alibaba/open-code-review gains 979 stars for hybrid code review tool.",
+      "Kronos Foundation model framework rises 441 stars in trending list.",
+      "LLM Agent frameworks dominate GitHub trending landscape this week.",
+      "NanmiCoder/MediaCrawler captures scraping tools for Xiaohongshu/Douyin.",
+      "ollama/ollama and langchain-ai/langgraph show robust infrastructure adoption."
+    ],
+    "ai-web": [
+      "Anthropic Dario Amodei rejects bans on open-weights models publicly.",
+      "OpenAI publishes 6 business-focused guides without accessible content.",
+      "Anthropic expands partnership with Cognizant for enterprise AI deployment.",
+      "CEO position statement addresses geopolitical tensions around Chinese AI.",
+      "OpenAI timing suggests documentation prep ahead of potential product launches.",
+      "Anthropic shaping discourse while OpenAI appears preparing announcements."
+    ],
+    "ai-hn": [
+      "Claude Opus 5 performance issues spark widespread community concern.",
+      "Terence Tao's ICM 2026 address reshapes mathematical discovery visions.",
+      "Benchmarking Opus 5 on SlopCodeBench reveals nuanced coding gaps.",
+      "New context engineering rules for Claude 5 generation models published.",
+      "AI-driven book destruction generates intense preservation debate.",
+      "Industry lobbying and AI financial market impacts rank highly discussions."
+    ],
+    "ai-arxiv": [
+      "Zhijing framework enables LLM social mind and behavior adaptation.",
+      "DualityCert and Formally Verified FP advance agentic system security.",
+      "Variational-Ising-Attention delivers specialized attention for scientific computing.",
+      "Do LLMs Know Their Vulnerable Scenarios? paper audits model blind spots.",
+      "Language Shapes Instruction Hierarchy Compliance studies multilingual alignment.",
+      "Focus Is All You Need tool improves efficient multi-agent coordination."
+    ],
+    "ai-hf": [
+      "Qwen3.6 multiple versions amass over 10M downloads on HF Hub.",
+      "Qwen/Qwen3.6-35B-A3B MoE model leads conversational model popularity.",
+      "zai-org/GLM-5.2 becomes go-to choice with 4,553 likes and 1M+ downloads.",
+      "Laguna-S-2.1 and Bonsai-27B GGUF models surge for edge deployment.",
+      "Unlimited-OCR and Kimi-K3 gain traction in vision-language dialog tasks.",
+      "krea2-identity-edit sparks niche interest in privacy-conscious image editing."
+    ],
+    "ai-community": [
+      "Junior developer pipeline broken as AI reduces entry-level coding roles.",
+      "AgentForger demo shows one phishing link can forge AI insider threat.",
+      "MCPRadar emerges as security scanner for growing Model Context Protocol.",
+      "Model Context Protocol ecosystem gaining scanners and Next.js clients.",
+      "Lobste.rs debates open weights versus American AI leadership control.",
+      "Developers harnessing browser ML inference and isolated credential environments."
+    ]
+  }
+}
