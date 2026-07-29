@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Qwen Code v0.21.1 热补丁修复滚动崩溃，Schema解析能力获重点优化",
+      "OpenCode v1.18.9 新增 DeepSeek 模型兼容，但曝出 MCP 协议泄漏风险",
+      "Gemini CLI 夜间与稳定版同步更新，内存安全成为社区关注焦点",
+      "Pi 项目启动 Rust 重写计划，拟支持多 Provider 以提升跨平台能力",
+      "Grok Build 仓库活动停滞，无 Issue 或 PR 更新迹象明显",
+      "DeepSeek TUI 增强 LaTeX 渲染与沙箱模式，技术体验持续进步"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.5 上线，State Safety Recovery 机制大幅提升容错能力",
+      "每日处理 500 条 Issue/PR，OpenClack 开发节奏极快且规模庞大",
+      "关闭 302 个高严重性 Issue，包括内存泄漏与上下文错误等关键 Bug",
+      "拒绝无效 mediaLocalRoots 配置，安全验证层进一步强化",
+      "浏览器与终端历史所有权合并重构，UI 会话管理正在统一",
+      "社区对 Beta 版本生产部署建议谨慎，迁移需注意 schema 兼容性"
+    ],
+    "ai-trending": [
+      "claude-video 今日增星 988，视频理解 Agent 需求爆发式增长",
+      "airi 作为自托管 Grok Companion，增星 797 推动具身智能普及",
+      "ECC 项目激增 636 星，为 Claude/Cursor Agent 提供性能与安全优化",
+      "anthropology 推出 agent-governance-toolkit，符合 OWASP Agentic Top 10",
+      "book-to-skill 将 PDF 技术书转为 Code Skill，知识转化效率显著提升",
+      "ollama 保持本地化核心地位，边缘 AI 基础设施需求持续旺盛"
+    ],
+    "ai-hn": [
+      "Anthropic 发表开放权重立场声明，获 HN 高分讨论关注度达 1151",
+      "Codex 安全专题登上热门，代码生成器漏洞防护受开发者高度关切",
+      "DeltaNet 线性注意力变种受 DeepMind 关注，架构创新引发热议",
+      "形式化验证 CSG 仅用 93 行规范替代千行代码，可信系统追求极致",
+      "Manim WebGPU 实现降低数学可视化门槛，浏览器渲染能力获肯定",
+      "Tarski 逻辑攻击剖析 LLM 真理困境，哲学层面的推理本质引发思考"
+    ],
+    "ai-arxiv": [
+      "轨迹中继在线策略蒸馏（Trajectory-Relayed）修正推理路径漂移问题",
+      "UniMem 实现外部记忆与参数量子化记忆无缝整合，解决长期记忆挑战",
+      "输入抑制评估感知潜在向量，无需参数修改即可提升模型中立性与安全性",
+      "置信度自适应路由为 MoE-Lora 分配专家资源，强化复杂样本处理能力",
+      "Reinforced Dreamer 结合潜空间引导加速非对称世界模型收敛训练",
+      "乳腺筛查 DITL 框架革新迁移学习范式，推动医疗 AI 数据集驱动落地"
+    ],
+    "ai-hf": [
+      "Kimi-K3 本周获赞 8,090 登顶，MoonshotAI 多模态大模型热度领跑",
+      "Qwen3.6-35B-A3B 下载量超 615 万，MoE 架构视觉增强成社区首选",
+      "Bonsai-27B GGUF 量化版下载破 233 万，消费级硬件运行需求激增",
+      "Upstage Solar-Open2-250B 虽下载少但获赞 648，巨型模型架构受关注",
+      "Baidu Unlimited OCR 下载近 270 万，轻量 OCR 模型成文档自动化标配",
+      "Kwaipilot KAT-Coder-V2.5 Dev 专注复杂编程任务，LLM in Code 趋势延续"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.219 released with Windows MSIX bug fixes",
+      "OpenAI Codex facing critical security vulnerability in repo",
+      "GitHub Copilot CLI enhancing enterprise auth support",
+      "DeepSeek TUI advancing cross-platform terminal stability",
+      "Pi framework adopting formal SBOM attestation standards",
+      "Grok Build focuses on agent workflow orchestration"
+    ],
+    "ai-agents": [
+      "OpenClaw saw 500 issues + 500 PRs on July 29, major release push",
+      "OpenClaw v2026.7.2-beta.5 focuses on crash-durable snapshots",
+      "NanoBot showing high activity in autonomous agent frameworks",
+      "Hermes Agent advancing real-time interaction capabilities",
+      "PicoClaw gaining traction for edge device AI deployments",
+      "NullClaw exploring zero-trust security for agent systems"
+    ],
+    "ai-trending": [
+      "moeru-ai/airi surges with +797 daily stars this week",
+      "affaan-m/ECC maintains relevance at 234k+ total stars",
+      "microsoft/agent-governance-toolkit enforces zero-trust policies",
+      "Huggingface/speech-to-speech drives local voice agent interest",
+      "bradautomates/claude-video extends Claude to video analysis",
+      "Community shifting toward localized agent ownership trends"
+    ],
+    "ai-web": [
+      "Anthropic reveals Claude found mathematical flaws in HAWK crypto",
+      "Dario Amodei defends open-weights models against proposed bans",
+      "OpenAI posts metadata for Scientific Computing Agentic Ai",
+      "Anthropic news highlights safety/cryptography/geopolitics intersection",
+      "Claude Mythos Preview identified algorithmic vulnerabilities autonomously",
+      "CEO statement warns of authoritarian nation-state AI risks"
+    ],
+    "ai-hn": [
+      "DeltaNet family linear attention variants attract researcher interest",
+      "Uncensored open LLMs show measurably higher optimism metrics",
+      "Anthropic's open-weight position paper ignites 1,600 comment debate",
+      "Investor caution rises despite Apple reaching $5T valuation",
+      "Codex security vulnerability sparks supply chain risk discussions",
+      "Researchers dissect cryptographic flaws discovered using Claude"
+    ],
+    "ai-arxiv": [
+      "Trajectory-relayed distillation mitigates prefix failure in generation",
+      "LLMs exhibit stronger local syntactic convergence than humans",
+      "Stemma method traces LLM provenance via decision region analysis",
+      "Photonic transformers enable hardware-efficient training approaches",
+      "Mixture-of-experts routing improves model alignment and scalability",
+      "Physics-aware reinforcement learning targets autonomous driving"
+    ],
+    "ai-hf": [
+      "Kimi-K3 and Kimi-K2.7-Code drive multimodal engagement on HF",
+      "Qwen3.6 base models surpass millions of downloads for local use",
+      "Mage-Flow Microsoft family advances image editing workflows",
+      "Inflect-Micro-v2 gains traction for lightweight CPU inference",
+      "Commercial models like Solar-Open2-250B draw research interest",
+      "Community shifts toward GGUF and 1-2bit quantized model access"
+    ],
+    "ai-community": [
+      "Slopsquatting attack weaponizes AI hallucinations for supply chain breaches",
+      "AgentForger revelation prompts urgent audits of agent access controls",
+      "Dev.to article critiques over-focus on origin vs trust delegation",
+      "MD Anderson's $62M AI investment failed amid operational challenges",
+      "Teams experimenting with Kotlin ADK face stability and safety hurdles",
+      "Community emphasizes planning and constraints before enterprise deployment"
+    ]
+  }
+}
