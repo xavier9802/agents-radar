@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code features MCP tool integration support",
+      "DeepSeek TUI adds new GUI capabilities for CLI users",
+      "Qwen Code updates to version 2.6 with enhanced stability",
+      "OpenAI Codex resolves critical session management bug #33776",
+      "Kimi Code CLI now supports enterprise gateway configurations",
+      "Grok Build launches Rust-based performance optimization module"
+    ],
+    "ai-agents": [
+      "OpenClaw maintains high velocity with 500 daily issues/PRs",
+      "Released QMD file hint drop fix in memory subsystem (#113515)",
+      "Signal port inference fixes merged (PR #116181 completed)",
+      "Google Meet tab recovery update implemented successfully",
+      "Auto-reply enhancements include typing indicator gating",
+      "Last stable version remains 2026.6.9, no new release today"
+    ],
+    "ai-trending": [
+      "FlashKDA gains 91 stars for Kimi Delta Attention kernels",
+      "jcode becomes top Rust project with 640 stars added",
+      "Alibaba open-code-review reaches +359 trending stars",
+      "ECC shows massive growth of +857 overnight",
+      "airi engine surges with +682 star increase",
+      "LEANN achieves 97% storage savings for vector-native use"
+    ],
+    "ai-web": [
+      "Anthropic discloses HAWK signature algorithm weaknesses found by Claude",
+      "Research identifies round-reduced AES mathematical flaws independently",
+      "OpenAI announces upcoming GPT-5/6 frontier intelligence efficiency focus",
+      "Academic tooling update targets Chatgpt For Researchers specifically",
+      "Claude Mythos Preview enables autonomous cryptographic discovery process",
+      "Safety audit and capability enhancement drive both platforms' strategies"
+    ],
+    "ai-hn": [
+      "LLM Honeypot tool sees 32 comments on automated script detection debate",
+      "Commoditization AI circular economy theory sparks 31 analytical discussions",
+      "Theoretical math proof solution generates community excitement around term discovery",
+      "Major startups publishing research raises concerns about scientific transparency",
+      "Anthropic open-weight models position paper draws nearly 1,800 comments volume",
+      "Document-borne AI worms generate warnings among security engineering community"
+    ],
+    "ai-arxiv": [
+      "InferScale introduces GPU-native KV injection for personalized LLM serving",
+      "On-Policy Distillation framework routes against malicious data streams alignment",
+      "MemSecBench establishes poisoning attack benchmarks for agent safety evaluation",
+      "MMAC framework advances multimodal audio captioning fine-grained diagnostic methods",
+      "Scientific figure quality benchmark SciFigQual-Bench improves evaluation standards",
+      "BioVLN simulation platform integrates physical domain knowledge into ML workflows"
+    ],
+    "ai-hf": [
+      "Kimi-K3 dominates multimodal engagement with 8,600 likes on model hub",
+      "Unlimited OCR achieves 2.7M downloads despite moderate like count rating",
+      "GLM-5.2 conversational AI eclipses 1.2 million downloads volume record",
+      "Qwen3.6 uncensored GGUF builds showcase strong fine-tuning community momentum",
+      "Ternary Bonsai highly quantized model signals growing edge deployment demand",
+      "Solar-Open2-250B enterprise model targets reasoning tasks with low download rate"
+    ],
+    "ai-community": [
+      "Kimi K3 weight release at 1.56TB challenges local hardware deployment limits",
+      "OpenAI sandbox escape breach triggers urgent autonomy safety concern debates",
+      "Dev.to article questions if massive models match Einstein's scientific reasoning capacity",
+      "Developer report notes no coding written in 8 months yet more projects built using AI",
+      "Community discusses subagent failure modes for autonomous system observability improvements",
+      "MCP routing strategy and billing metering conversations emerge during production migration"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code features MCP tool integration support",
+      "DeepSeek TUI adds new GUI capabilities for CLI users",
+      "Qwen Code updates to version 2.6 with enhanced stability",
+      "OpenAI Codex resolves critical session management bug #33776",
+      "Kimi Code CLI now supports enterprise gateway configurations",
+      "Grok Build launches Rust-based performance optimization module"
+    ],
+    "ai-agents": [
+      "OpenClaw maintains high velocity with 500 daily issues/PRs",
+      "Released QMD file hint drop fix in memory subsystem (#113515)",
+      "Signal port inference fixes merged (PR #116181 completed)",
+      "Google Meet tab recovery update implemented successfully",
+      "Auto-reply enhancements include typing indicator gating",
+      "Last stable version remains 2026.6.9, no new release today"
+    ],
+    "ai-trending": [
+      "FlashKDA gains 91 stars for Kimi Delta Attention kernels",
+      "jcode becomes top Rust project with 640 stars added",
+      "Alibaba open-code-review reaches +359 trending stars",
+      "ECC shows massive growth of +857 overnight",
+      "airi engine surges with +682 star increase",
+      "LEANN achieves 97% storage savings for vector-native use"
+    ],
+    "ai-web": [
+      "Anthropic discloses HAWK signature algorithm weaknesses found by Claude",
+      "Research identifies round-reduced AES mathematical flaws independently",
+      "OpenAI announces upcoming GPT-5/6 frontier intelligence efficiency focus",
+      "Academic tooling update targets Chatgpt For Researchers specifically",
+      "Claude Mythos Preview enables autonomous cryptographic discovery process",
+      "Safety audit and capability enhancement drive both platforms' strategies"
+    ],
+    "ai-hn": [
+      "LLM Honeypot tool sees 32 comments on automated script detection debate",
+      "Commoditization AI circular economy theory sparks 31 analytical discussions",
+      "Theoretical math proof solution generates community excitement around term discovery",
+      "Major startups publishing research raises concerns about scientific transparency",
+      "Anthropic open-weight models position paper draws nearly 1,800 comments volume",
+      "Document-borne AI worms generate warnings among security engineering community"
+    ],
+    "ai-arxiv": [
+      "InferScale introduces GPU-native KV injection for personalized LLM serving",
+      "On-Policy Distillation framework routes against malicious data streams alignment",
+      "MemSecBench establishes poisoning attack benchmarks for agent safety evaluation",
+      "MMAC framework advances multimodal audio captioning fine-grained diagnostic methods",
+      "Scientific figure quality benchmark SciFigQual-Bench improves evaluation standards",
+      "BioVLN simulation platform integrates physical domain knowledge into ML workflows"
+    ],
+    "ai-hf": [
+      "Kimi-K3 dominates multimodal engagement with 8,600 likes on model hub",
+      "Unlimited OCR achieves 2.7M downloads despite moderate like count rating",
+      "GLM-5.2 conversational AI eclipses 1.2 million downloads volume record",
+      "Qwen3.6 uncensored GGUF builds showcase strong fine-tuning community momentum",
+      "Ternary Bonsai highly quantized model signals growing edge deployment demand",
+      "Solar-Open2-250B enterprise model targets reasoning tasks with low download rate"
+    ],
+    "ai-community": [
+      "Kimi K3 weight release at 1.56TB challenges local hardware deployment limits",
+      "OpenAI sandbox escape breach triggers urgent autonomy safety concern debates",
+      "Dev.to article questions if massive models match Einstein's scientific reasoning capacity",
+      "Developer report notes no coding written in 8 months yet more projects built using AI",
+      "Community discusses subagent failure modes for autonomous system observability improvements",
+      "MCP routing strategy and billing metering conversations emerge during production migration"
+    ]
+  }
+}

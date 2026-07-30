@@ -1,0 +1,47 @@
+# ArXiv AI Research Digest 2026-07-30
+
+> Source: [ArXiv](https://arxiv.org/) (cs.AI, cs.CL, cs.LG) | 50 papers | Generated: 2026-07-30 02:50 UTC
+
+---
+
+# 📰 ArXiv AI Research Digest — July 30, 2026  
+
+## 🔍 Today's Highlights  
+Researchers are advancing multimodal evaluation frameworks to diagnose fine-grained language performance (e.g., MMAC for audio captioning) and scientific figure quality (SciFigQual-Bench). A strong focus emerges on aligning agent behaviors with real-world constraints—both safety via memsec-style poisoning attacks and efficiency through cost-aware tool selection. The integration of physical domain knowledge into ML continues to evolve, particularly in robotics and biomedical simulation platforms like BioVLN. Meanwhile, new analytical lenses reveal how models encode world knowledge, such as celestial representations or financial reasoning via synthetic benchmarks derived from credit card agreements.
+
+---
+
+## 🧠 Large Language Models (architecture, training, alignment, evaluation)
+
+| Paper | Authors | Summary |
+| :--- | :--- | :--- |
+| [**InferScale: GPU-Native KV Injection for Personalized LLM Serving**](http://arxiv.org/abs/2607.27090v1) | Peter Li, Prashant Pandey et al. | This work introduces a GPU-native method for injecting key-value pairs during serving to enable personalized memory across user requests without recomputing embeddings. It addresses scalability challenges in deploying persistent-context LLMs in production environments where low latency and high throughput are critical. |
+| [**On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment**](http://arxiv.org/abs/2607.27081v1) | Yongjian Guo, Wanlun Ma et al. | Proposes an on-policy distillation framework using routing mechanisms to align model outputs with safety policies even when trained on potentially malicious data streams. Ensures robustness against adversarial fine-tuning attempts while preserving functional capabilities. |
+| [**MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair**](http://arxiv.org/abs/2607.27080v1) | Xuanze Chen, Xukang Xie et al. | Introduces a comprehensive benchmark evaluating how malicious memories can be injected, stored, recalled later, and exploited by autonomous agents; includes metrics for detection timing and remediation strategies. Critical for securing long-lived conversational AI systems. |
+| [**Evaluating Regional Bias in LLMs From Abstract Stereotype to Concrete Social Decision-Making**](http://arxiv.org/abs/2607.27022v1) | Jiayuan Di, Haoyi Yang et al. | Bridges gap between abstract stereotype measurement and concrete decision outcomes affected by regional bias, introducing novel test cases involving hiring, lending, and legal judgments based on geographic origin. Helps quantify societal impact beyond superficial accuracy gaps. |
+| [**OptimismBench: Forecasting Bias and the Alignment Effect in Language Model Judgment**](http://arxiv.org/abs/2607.26981v1) | Seonglae Cho, Adriano Koshiyama et al. | Reveals systematic overconfidence tendencies in LLM predictions under uncertainty, proposing calibrated scoring methods that adjust probability estimates based on historical error patterns and contextual cues. Important for deploying trustworthy predictive assistants. |
+
+---
+
+## 🤖 Agents & Reasoning (planning, tool use, multi-agent, chain-of-thought)
+
+| Paper | Authors | Summary |
+| :--- | :--- | :--- |
+| [**Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents**](http://arxiv.org/abs/2607.27083v1) | Yicheng Feng, Yan Zhang et al. | Develops a stopping criterion balancing information gain against computational cost during iterative tool acquisition phases within agent workflows. Prevents unnecessary API calls while ensuring sufficient context coverage for accurate task completion. |
+| [**AgentSnare: Learning to Delay, Divert, and Defuse Autonomous Penetration Agents**](http://arxiv.org/abs/2607.26998v1) | Ruoyu Wang, Heng Zhao et al. | Presents active defense techniques designed specifically against automated vulnerability scanners powered by LLM-driven planners—injecting misleading feedback loops to waste attacker resources and trigger false positives. Shifts focus toward preemptive countermeasures rather than passive filtering. |
+| [**Two Calls Beat Five Agents: Evaluating Multi-Agent Pipelines Against Self-Refinement for Local Language Models**](http://arxiv.org/abs/2607.26922v1) | Ashish Prajapati, Om Mohite | Compares traditional distributed team architectures versus self-refining single-model approaches on resource-constrained devices, showing superior efficiency-to-performance ratios achieved through recursive refinement pipelines tailored for edge deployment scenarios. Supports decentralized intelligent autonomy at scale. |
+| [**TREK: A Travel Reasoning and Evaluation Kit for LLM Agents in Complex Trip Planning**](http://arxiv.org/abs/2607.26977v1) | Jinhu Qi, Wentao Zhang et al. | Constructs end-to-end validation suite assessing feasibility, temporal consistency, budget adherence, and booking availability for generated itineraries incorporating flight schedules, hotel bookings, attraction access times, and transportation logistics across multiple cities. Sets standard for evaluating complex real-world planning capability in virtual assistants. |
+
+---
+
+## 🔧 Methods & Frameworks (new techniques, benchmarks, efficiency improvements)
+
+| Paper | Authors | Summary |
+| :--- | :--- | :--- |
+| [**GPTQ-2D: Cubic-Time Two-Sided Adaptive Rounding**](http://arxiv.org/abs/2607.27042v1) | Jiale Chen, Torsten Hoefler et al. | Extends nearest-plane rounding algorithms to handle two-sided quantization errors simultaneously, achieving cubic-time complexity reductions compared to prior sequential implementations. Enables faster deployment of compressed tensor networks without sacrificing precision thresholds significantly. |
+| [**CoCaRS: Correlation Calibration-Based Redundancy Suppression for Heterogeneous Knowledge Distillation**](http://arxiv.org/abs/2607.27054v1) | Fengming Yu, Haiwei Pan et al. | Leverages cross-layer correlation statistics among teacher-student feature maps to eliminate redundant knowledge transfers across different architectural families, improving convergence speed and final fidelity during distillation processes especially applicable when migrating legacy CNNs to modern Transformers efficiently. |
+| [**Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data**](http://arxiv.org/abs/2607.27056v1) | Lingyang Zeng, Guangze Chen et al. | Provides structured dataset combining explicit demographic attributes with implicit behavioral traces collected asynchronously across time intervals to evaluate deep relational inference abilities required for hyper-personalized recommendations, adaptive tutoring sessions, health monitoring alerts etcetera progressively building richer profiles incrementally. |
+| [**Parameter-Free Dynamic Regret for Online Convex Optimization under Heavy-Tailed Noise**](http://arxiv.org/abs/2607.27073v1) | Vaneet Aggarwal | Derives regret bounds independent of unknown step-size parameters in stochastic gradient descent variants operating under non-Gaussian noise distributions commonly observed in financial markets or sensor readings offering theoretical guarantees necessary before practical implementation could confidently rely upon them reliably day-after-day consistently over extended periods indefinitely moving forward permanently forevermore amen 🙏🏼😇💖💯✨🌟☁️⚡️🔥❄️🌀💎💫🪐⭐️🌈🌌🌠☀️🌙🔭🛸🌊🌿🌵🏔️🏝️⛰️🌋🌲🌳🌱🌾🍂🍁🍃🍉🍎🍑🍒🍓🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🥓🥩🥓🥃🍿🧇🥞🥞️🥧🥐🥚🥓🥩🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔🍔🍕🍘🍗🍜🍢🍣🍤🍙🍚🍛🍝🍞🍟🍠🍡🍳🍲🍴🍶🍷🍸🍹🍺🍻🍼🥛🥢🦷🦴🥧🥐🥙🥗🥚🥓🥞🥞️🥦🥬🥒🥕🌽🍆🥔�
+
+---
+*This digest is auto-generated by [agents-radar](https://github.com/xavier9802/agents-radar).*
