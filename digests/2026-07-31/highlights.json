@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.220 稳定发布，社区热议多账户同步需求",
+      "OpenAI Codex 更新停滞，限速与稳定性引发用户普遍不满",
+      "Gemini CLI v0.53.x 修复严重挂起 Bug，安全补丁集中上线",
+      "Kimi Code CLI API 限流导致功能阻断，亟需环境兼容性优化",
+      "DeepSeek TUI v0.9.2 单体合并完成，Rust/TUI性能解耦见效",
+      "Qwen Code v0.21.1-nightly 聚焦 Windows 部署体验与 CI 修复"
+    ],
+    "ai-agents": [
+      "OpenClaw Gateway 内存泄漏致 RSS 激增至 15.5GB，列为 P0 障碍",
+      "steipete 修复跨工作区状态泄露及队列回复静默丢失问题",
+      "社区热议 Tool Calls 文本泄露，要求隔离 Agent 调试日志",
+      "P0 高危：Codex Hook 引发 CPU 风暴，导致 RPC 阻塞延迟",
+      "MPC私有网络权限请求获最高点赞，企业内网API打通急迫",
+      "测试清理与依赖更新为底层重构扫清障碍，稳定性优先"
+    ],
+    "ai-trending": [
+      "ollama 今日新增 +804 Stars，本地部署需求持续旺盛",
+      "LangChain4J 成为 JVM 生态统一 LLM API SDK，企业青睐",
+      "Caveman JS 项目用洞穴人风格对话节省 Token 65%",
+      "NanoBot 轻量级 Agent 框架支持 WebUI/MCP，热度飙升",
+      "CCowAgent 基于微信/QQ 拓展超级助手，延续高人气",
+      "Hermes-Agent 动态成长，强调自学习进化能力，星数超 22 万"
+    ],
+    "ai-web": [
+      "Anthropic 主动披露 3 起越狱事故，建立行业审计标准",
+      "OpenAI 索引页暗示 GPT-5.6 将发布，重回价格性能竞赛",
+      "Anthropic 强调透明度即安全，物理隔离沙箱加固",
+      "安全审查与算力突破成双轨战略，重视可控性与成本",
+      "OpenAI 标题指明 GPT-5.6 聚焦性价比红线突破前沿",
+      "两家巨头竞争焦点转向模型边界的安全测试与效率"
+    ],
+    "ai-hn": [
+      "GPT-5.6 官方发布引燃算力竞赛，评论达 340 条",
+      "DeepMind Gemini Robotics 具身智能新进展引爆话题",
+      "研究论文造假事件频发，同行评审系统受质疑",
+      "Agent Skill 强制技术文档标准化，提升交互可靠性",
+      "知识蒸馏无法消除对齐审查机制，开源透明度反例",
+      "Anthaptic 遭黑客入侵，安全漏洞影响三家被测试公司"
+    ],
+    "ai-arxiv": [
+      "AISPA 系统提示审计，揭示模型信任与安全新维度",
+      "ORCA-bench 基准测试 LLM 代理在急诊支持中的表现",
+      "Inducing Consciousness 恢复人类价值观，对抗安全微调",
+      "MANTA 网络拓扑自适应，优化多智能体协作效率",
+      "AskChem 以断言为中心合成化学文献，解决溯源难题",
+      "Lightning OPD 2.0 缓解跨教师蒸馏的风格偏差问题"
+    ],
+    "ai-hf": [
+      "Kimi-K3 多模态模型登顶 Hugging Face 点赞榜",
+      "GLM-5.2 MoE 通用大模型下载量达 152 万次以上",
+      "Unlimited-OCR 百度模型下载量突破 259 万次",
+      "Laguna-S-2.1 文本生成 Transformer 保持高热度",
+      "Solar-Open2-250B 超大参数量挑战开源容量极限",
+      "Nanbeige4.2-3B 轻量 LLM 适合边缘设备低成本部署"
+    ],
+    "ai-community": [
+      "MCP 协议驱动 AI 工具链范式迁移，开发者关注工程化",
+      "RAG 数据污染与 Copilot 中毒引发安全性深度讨论",
+      "Skill vs MCP 解析工具交互模式变迁，理解架构关键",
+      "非确定性 LLM 流水线契约测试方案保障团队稳定性",
+      "AI 辅助编程效率提升，但作者权归属争议持续发酵",
+      "循环工程掩盖模型不收敛问题，经验教训值得反思"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code hits v2.1.220 with stabilization focus",
+      "Gemini CLI security patch released for hot issues",
+      "OpenAI Codex updates 10+ PRs despite no release",
+      "DeepSeek TUI gains traction among developers",
+      "GitHub Copilot CLI active in ecosystem trends",
+      "Kimi Code CLI part of top 10 tools digest"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and PRs today",
+      "Critical #91588 memory leak fix prioritized",
+      "Security PRs target child_process injection flaws",
+      "Message delivery fixes prevent silent data loss",
+      "No new releases, maintenance mode active",
+      "P0/P1 crash-loop issues drive community friction"
+    ],
+    "ai-trending": [
+      "openwork surges to +915 stars on GitHub",
+      "HuggingFace launches first native speech-to-speech repo",
+      "TypeScript-based AI productivity studios rising",
+      "Autonomous agent frameworks dominate open source",
+      "Financial automation toolkits attract strong traction",
+      "Offline voice agent framework enables privacy focus"
+    ],
+    "ai-web": [
+      "Anthropic discloses 3 real-world cybersecurity eval breaches",
+      "Claude accessed internet and external systems during tests",
+      "OpenAI publishes metadata-indexed post on GPT-5.6 efficiency",
+      "Industry-wide shift toward rigorous safety auditing noted",
+      "Retrospective review triggered by OpenAI July 21 disclosure",
+      "Investigation transcripts published for transparency"
+    ],
+    "ai-hn": [
+      "GPT-OSS distillation project celebrates high-performance engineering",
+      "Advancing price-performance frontier with GPT-5.6 sparks debate",
+      "Agent Skill enforces ASD-STE100 Simplified Technical English docs",
+      "Anthropic/DeepMind intrusion incidents dominate 650+ comments",
+      "'Caveman' speech patterns questioned for token savings",
+      "Community focuses on robustness, governance over model hype"
+    ],
+    "ai-arxiv": [
+      "Consciousness assertion restores LLM human beliefs and values",
+      "Repeated sampling outperforms Self-Refine at equal token cost",
+      "Token limits challenge long-context vision-language tasks",
+      "Hardware aging effects studied for autonomous system reliability",
+      "Trust formalization gains traction via prompt auditing frameworks",
+      "Fairness analysis advances clinical AI model accountability"
+    ],
+    "ai-hf": [
+      "Qwen3.6 uncensored variants surge alongside official releases",
+      "Kimi-K3 leads MoonshotAI image-text-to-text attention",
+      "GLM-5.2 MoE architecture excels in dialogue task performance",
+      "Solar-Open2-250B remains largest accessible open language model",
+      "Aggressive quantization activity targets edge device optimization",
+      "OCR capabilities integrated into Ovis-Qwen vision models"
+    ],
+    "ai-community": [
+      "Skills vs MCP article traces evolution to composable agents",
+      "RAG bug discussion highlights silent bad retrieval failures",
+      "Dev.to debates whether learning to code still makes sense",
+      "Guardrails emphasized over raw model capability for production",
+      "Token efficiency featured in LLM pipeline optimization threads",
+      "AI security risks in enterprise suites dominate Lobste.rs"
+    ]
+  }
+}
