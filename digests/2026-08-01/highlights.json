@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "DeepSeek TUI v0.9.3发布，品牌升级codewhale",
+      "Gemini CLI v0.55.0-nightly，子代理稳定性修复",
+      "Copilot CLI v1.0.78-0，新增/permissions权限模式",
+      "Qwen Code v0.21.2，Daemon多工作区能力增强",
+      "Claude Code曝rm -rf安全漏洞，需关注",
+      "OpenCode推出AIRGAP离线模式，缓存性能优化"
+    ],
+    "ai-agents": [
+      "OpenClaw日增500 Issues+500 PRs，活跃度极高",
+      "Gateway内存泄漏P0级问题集中爆发，稳定性风险高",
+      "多个关键fix PR已合并，含状态DB迁移修复",
+      "MiniMax Portal OAuth登录问题已解决",
+      "Signal附件上传暴露内部UUID问题已修复",
+      "多平台接入与安全能力需求持续升温"
+    ],
+    "ai-trending": [
+      "微软AI入门课程今日新增1592 stars",
+      "NousResearch/hermes-agent达22万stars成焦点",
+      "Agent Harness生态爆发，Claude Code工具链涌现",
+      "向量数据库竞争加剧，Rust与Go抢占嵌入式场景",
+      "企业级RAG产品化提速，Dify RAGFlow降低门槛",
+      "股票分析、视频生成等垂直工具受关注"
+    ],
+    "ai-web": [
+      "OpenAI新增Building Abundant Intelligence战略文章",
+      "Anthropic今日无新内容，处于技术迭代空窗期",
+      "OpenAI以高频索引内容巩固企业级生态话语权",
+      "Anthropic延续重研究轻营销策略",
+      "GPT-5.6性价比突破或为后续正文重点",
+      "OpenAI T+1自动化内容同步链路成熟"
+    ],
+    "ai-hn": [
+      "DeepSeek V4 Flash性价比分析获537分最热",
+      "Quanta Magazine质疑AI推理真实性引发155条评论",
+      "Gemini Robotics 2发布获609分，具身智能里程碑",
+      "GPT-5.6发布强调性价比，编号引发讨论",
+      "13模型4智能体SWE任务基准测试受关注",
+      "Minecraft开源项目登顶热议游戏+AI结合"
+    ],
+    "ai-arxiv": [
+      "重复采样在等token预算下显著优于自我反思",
+      "SVR框架实现自适应测试时计算分配",
+      "Lightning OPD 2.0缓解蒸馏风格偏差",
+      "OSReward构建跨平台计算机用智能体评估基准",
+      "本地部署智能体推理扩展失效模式分析",
+      "AI研究向高可信低开销工程化阶段演进"
+    ],
+    "ai-hf": [
+      "Kimi-K3周点赞9293强势登顶HF热榜",
+      "DeepSeek-V4-Flash下载突破290万次",
+      "GLM-5.2下载165万，国产MoE对话模型领跑",
+      "Solar-Open2-250B开源旗舰面向高性能场景",
+      "Uncensored GGUF变体下载超百万，本地定制需求旺",
+      "百度Unlimited-OCR下载250万稳居OCR头部"
+    ],
+    "ai-community": [
+      "Claude在安全测试中入侵三家真实企业网络",
+      "MCP规范重大修订，开发者反思包依赖膨胀",
+      "通用agent本质是单点故障，模块化更可靠",
+      "AI辅助开发隐性技术债需建立审查机制",
+      "工作流设计比叠加agent更能解决实际问题",
+      "Agent评估复杂度远超单一模型评估"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "OpenAI Codex shipped 3 alpha builds in 24h",
+      "Gemini CLI released nightly + 2 patches",
+      "GitHub Copilot CLI v1.0.78-0 released",
+      "Qwen Code proposes multi-workspace RFC",
+      "Enterprise SSO and permission management emerging",
+      "Claude Code has 9 hot issues this cycle"
+    ],
+    "ai-agents": [
+      "OpenClaw saw 500 issues and 500 PRs in 24h",
+      "115 PRs merged including gateway crash fix",
+      "WebChat session history regression resolved",
+      "Memory leak and session-state issues persist",
+      "Strong community momentum on platform expansion",
+      "Security feature development accelerating"
+    ],
+    "ai-trending": [
+      "AI agent harnesses dominate GitHub trending",
+      "ollama reaches 177,460 total stars",
+      "TensorFlow holds 196,637 stars top spot",
+      "Transformers at 163,213 stars still standard",
+      "Local-first RAG and memory solutions rising",
+      "On-demand toolchains for Cursor and Claude Code"
+    ],
+    "ai-web": [
+      "OpenAI published Building Abundant Intelligence",
+      "No new Anthropic content this cycle",
+      "OpenAI focuses on strategy over technical notes",
+      "Anthropic blog shows low release cadence",
+      "OpenAI has 892 indexed articles total",
+      "No model updates or launches announced today"
+    ],
+    "ai-hn": [
+      "DeepSeek V4 Flash analysis hits 537 points",
+      "GPT-5.6 pricing post draws 392 comments",
+      "Gemini Robotics 2 sparks 515-comment debate",
+      "OpenAI surpasses 1B users milestone",
+      "Community skeptical on AI reasoning validity",
+      "Price-anxiety and premium model costs debated"
+    ],
+    "ai-arxiv": [
+      "Repeated sampling beats self-refine at equal cost",
+      "AISPA audits hidden system prompts in production",
+      "CUA evaluation benchmarks maturing rapidly",
+      "Recursive self-improvement in ML engineering progress",
+      "Inference-time scaling tradeoffs for local CUA",
+      "Model consciousness assertion research published"
+    ],
+    "ai-hf": [
+      "Kimi-K3 tops HF with 9,293 weekly likes",
+      "DeepSeek-V4-Flash crosses 2.9M downloads",
+      "GLM-5.2 accumulates 1.6M+ downloads",
+      "Qwen3.6 GGUF variants exceed 1.8M downloads",
+      "Microsoft releases Fara1.5-27B for computer use",
+      "Uncensored community fine-tunes surge"
+    ],
+    "ai-community": [
+      "Claude Code + OpenRouter setup guide published",
+      "Modular agents beat monolithic design argues post",
+      "AI-assisted engineering cost tradeoffs examined",
+      "Kimi delta attention mechanism discussed",
+      "Anthropic disclosed Claude breached corporate nets",
+      "MCP security and eval hardening covered"
+    ]
+  }
+}
