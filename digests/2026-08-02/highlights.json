@@ -1,0 +1,104 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Qwen Code v0.21.3 发布，增强 /review 与 Prompt 缓存",
+      "Gemini CLI 夜间版更新，聚焦子代理稳定性与 Memory 安全",
+      "Copilot CLI v1.0.78-2 发布，支持 BYOK 多模型",
+      "OpenAI Codex 修复 Windows 性能瓶颈与 MCP 进程泄漏",
+      "Claude Code 安全护栏误判与 WSL2 OOM 问题受关注",
+      "Kimi Code 改进跨会话 Memory 与 Web UI 稳定性"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.6 发布，聚焦状态安全与崩溃恢复",
+      "过去 24 小时 500 条 Issue，活跃度维持高位",
+      "新增 Quarantine Store 隔离存储保护数据安全",
+      "崩溃可恢复 SQLite 快照功能上线",
+      "Schema 升级现拒绝存在数据丢失风险",
+      "DeepSeek 静默失败问题获 73 条评论关注"
+    ],
+    "ai-trending": [],
+    "ai-web": [
+      "OpenAI 发布数学十大进展文章，引发社区关注",
+      "Anthropic 无新增内容，处于版本间隙期",
+      "OpenAI 文章标题指向理论计算机科学突破",
+      "数学领域进展或强化 AI 科研应用叙事",
+      "文章仅获取到元数据，内容待确认",
+      "暑期研究周期可能预示学术发表节奏"
+    ],
+    "ai-hn": [
+      "DeepSeek V4 Flash 性能分析获 580 分热榜第一",
+      "OpenAI 数学十大进展发布，419 分引发热议",
+      "AI 推理基于错误理由的哲学探讨获 200 分",
+      "蒸馏 DeepSeek 未转移审查机制，推动透明化研究",
+      "社区认为 DeepSeek 正重新定义性价比推理标杆",
+      "语音助手成社会工程学攻击新面引发讨论"
+    ],
+    "ai-hf": [
+      "Kimi-K3 近万点赞登顶热门模型榜",
+      "GLM-5.2 下载超 168 万获 4738 赞",
+      "DeepSeek-V4-Flash 下载突破 280 万",
+      "2-bit Ternary-Bonsai 极端量化模型受关注",
+      "Unlimited-OCR 超 240 万下载刷新 OCR 标杆",
+      "Upstage Solar Open2 250B 参数量最大"
+    ],
+    "ai-community": [
+      "OpenAI 自动审查升级至 GPT-5.6 Luna 降低成本",
+      "AI 辅助编码致工程师判断力退化问题被提出",
+      "安全 MCP Server 无需暴露 Shell 即可操作 VPS",
+      "Agent 记忆持久化存在密钥泄露风险",
+      "语音助手成社会工程攻击新面引发警觉",
+      "开发者从能否用 AI 写码转向如何安全可控使用"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Qwen Code v0.21.3 发布，增强 /review 与 Prompt 缓存",
+      "Gemini CLI 夜间版更新，聚焦子代理稳定性与 Memory 安全",
+      "Copilot CLI v1.0.78-2 发布，支持 BYOK 多模型",
+      "OpenAI Codex 修复 Windows 性能瓶颈与 MCP 进程泄漏",
+      "Claude Code 安全护栏误判与 WSL2 OOM 问题受关注",
+      "Kimi Code 改进跨会话 Memory 与 Web UI 稳定性"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.6 发布，聚焦状态安全与崩溃恢复",
+      "过去 24 小时 500 条 Issue，活跃度维持高位",
+      "新增 Quarantine Store 隔离存储保护数据安全",
+      "崩溃可恢复 SQLite 快照功能上线",
+      "Schema 升级现拒绝存在数据丢失风险",
+      "DeepSeek 静默失败问题获 73 条评论关注"
+    ],
+    "ai-trending": [],
+    "ai-web": [
+      "OpenAI 发布数学十大进展文章，引发社区关注",
+      "Anthropic 无新增内容，处于版本间隙期",
+      "OpenAI 文章标题指向理论计算机科学突破",
+      "数学领域进展或强化 AI 科研应用叙事",
+      "文章仅获取到元数据，内容待确认",
+      "暑期研究周期可能预示学术发表节奏"
+    ],
+    "ai-hn": [
+      "DeepSeek V4 Flash 性能分析获 580 分热榜第一",
+      "OpenAI 数学十大进展发布，419 分引发热议",
+      "AI 推理基于错误理由的哲学探讨获 200 分",
+      "蒸馏 DeepSeek 未转移审查机制，推动透明化研究",
+      "社区认为 DeepSeek 正重新定义性价比推理标杆",
+      "语音助手成社会工程学攻击新面引发讨论"
+    ],
+    "ai-hf": [
+      "Kimi-K3 近万点赞登顶热门模型榜",
+      "GLM-5.2 下载超 168 万获 4738 赞",
+      "DeepSeek-V4-Flash 下载突破 280 万",
+      "2-bit Ternary-Bonsai 极端量化模型受关注",
+      "Unlimited-OCR 超 240 万下载刷新 OCR 标杆",
+      "Upstage Solar Open2 250B 参数量最大"
+    ],
+    "ai-community": [
+      "OpenAI 自动审查升级至 GPT-5.6 Luna 降低成本",
+      "AI 辅助编码致工程师判断力退化问题被提出",
+      "安全 MCP Server 无需暴露 Shell 即可操作 VPS",
+      "Agent 记忆持久化存在密钥泄露风险",
+      "语音助手成社会工程攻击新面引发警觉",
+      "开发者从能否用 AI 写码转向如何安全可控使用"
+    ]
+  }
+}
