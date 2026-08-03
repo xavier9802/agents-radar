@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Gemini CLI nightly v0.55.0 released",
+      "Gemini CLI leads with 9 active PRs",
+      "Ecosystem shifting to agent workflows",
+      "Claude Code has 10 hot issues",
+      "OpenAI Codex landed 5 PRs",
+      "Reliability under concurrency is top pain point"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.7 released",
+      "500 issues and 500 PRs in 24h",
+      "Quarantine store protects persisted data",
+      "Crash-recoverable SQLite snapshots added",
+      "Schema-upgrade data-loss rejection",
+      "51 issues and 133 PRs closed today"
+    ],
+    "ai-trending": [
+      "AirLLM runs 70B models on 4GB GPU",
+      "AirLLM gained 819 stars in one day",
+      "antirez releases ds4 DeepSeek engine",
+      "Ollama now supports Kimi-K2.6",
+      "vLLM hits 87,991 stars",
+      "Rust decoder architectures emerging"
+    ],
+    "ai-hn": [
+      "Google AI fixes more Chrome bugs monthly",
+      "DeepSeek V4 Flash analysis hits 585 points",
+      "Kimi K3 on MI355X beats B300 per dollar",
+      "AI financial advice study sparks debate",
+      "Qwen3.8-Max sets new coding benchmark",
+      "Community skeptical of new model hype"
+    ],
+    "ai-hf": [
+      "Kimi-K3 dominates with 9,600 likes",
+      "GLM-5.2 surpasses 2M downloads",
+      "DeepSeek-V4-Flash hits 2.7M downloads",
+      "DeepSeek-V4-Flash-0731 refinement ranks",
+      "Poolside Laguna-S-2.1 trending",
+      "MiniMax-H3 enters text-to-video"
+    ],
+    "ai-community": [
+      "Agent eval harnesses break clean tests",
+      "Build verification loops not trust AI",
+      "OpenAI pushes lower-cost GPT-5.6 Luna",
+      "125M model beats 14B LLM on CPU",
+      "Kimi K3 open weights release noted",
+      "Prompt injection defenses discussed"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Gemini CLI nightly v0.55.0 released",
+      "Gemini CLI leads with 9 active PRs",
+      "Ecosystem shifting to agent workflows",
+      "Claude Code has 10 hot issues",
+      "OpenAI Codex landed 5 PRs",
+      "Reliability under concurrency is top pain point"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.7 released",
+      "500 issues and 500 PRs in 24h",
+      "Quarantine store protects persisted data",
+      "Crash-recoverable SQLite snapshots added",
+      "Schema-upgrade data-loss rejection",
+      "51 issues and 133 PRs closed today"
+    ],
+    "ai-trending": [
+      "AirLLM runs 70B models on 4GB GPU",
+      "AirLLM gained 819 stars in one day",
+      "antirez releases ds4 DeepSeek engine",
+      "Ollama now supports Kimi-K2.6",
+      "vLLM hits 87,991 stars",
+      "Rust decoder architectures emerging"
+    ],
+    "ai-hn": [
+      "Google AI fixes more Chrome bugs monthly",
+      "DeepSeek V4 Flash analysis hits 585 points",
+      "Kimi K3 on MI355X beats B300 per dollar",
+      "AI financial advice study sparks debate",
+      "Qwen3.8-Max sets new coding benchmark",
+      "Community skeptical of new model hype"
+    ],
+    "ai-hf": [
+      "Kimi-K3 dominates with 9,600 likes",
+      "GLM-5.2 surpasses 2M downloads",
+      "DeepSeek-V4-Flash hits 2.7M downloads",
+      "DeepSeek-V4-Flash-0731 refinement ranks",
+      "Poolside Laguna-S-2.1 trending",
+      "MiniMax-H3 enters text-to-video"
+    ],
+    "ai-community": [
+      "Agent eval harnesses break clean tests",
+      "Build verification loops not trust AI",
+      "OpenAI pushes lower-cost GPT-5.6 Luna",
+      "125M model beats 14B LLM on CPU",
+      "Kimi K3 open weights release noted",
+      "Prompt injection defenses discussed"
+    ]
+  }
+}
