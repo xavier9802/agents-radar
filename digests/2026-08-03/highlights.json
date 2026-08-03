@@ -47,6 +47,16 @@
       "125M model beats 14B LLM on CPU",
       "Kimi K3 open weights release noted",
       "Prompt injection defenses discussed"
+    ],
+    "ai-weekly": [
+      "OpenClaw v2026.7.2-beta.7引入快照恢复机制",
+      "Qwen Code v0.21.3-nightly发布",
+      "DeepSeek TUI v0.9.4集成V4 Flash冲刺中",
+      "Redis之父Antirez发布ds4本地推理引擎",
+      "AirLLM单卡70B方案当日+819 stars",
+      "Anthropic CEO反对限制中国开源模型",
+      "GPT-5.6性价比突破引HN 599分热议",
+      "YC协作Agent框架qm登顶HN 665分"
     ]
   },
   "en": {
@@ -97,6 +107,14 @@
       "125M model beats 14B LLM on CPU",
       "Kimi K3 open weights release noted",
       "Prompt injection defenses discussed"
+    ],
+    "ai-weekly": [
+      "Qwen Code v0.21.3-nightly released with /review enhancement",
+      "OpenClaw v2026.7.2-beta.7 ships state-safety & crash-recovery overhaul",
+      "DeepSeek TUI v0.9.4 enters final sprint before rebrand to codewhale",
+      "Local inference engines surge as ds4 and airllm trend on GitHub",
+      "Anthropic publishes crypto-weakness research targeting HAWK & AES",
+      "OpenAI announces GPT-5.6 \"price-performance frontier\" blog"
     ]
   }
 }
