@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.221发布，支持VSCode Focus View和沙箱凭证Mask",
+      "Copilot CLI v1.0.78-3上线，支持BYOK多模型切换和企业策略校验",
+      "Qwen Code v0.21.4/5发布，推进可信Agent运行时和Web Shell桌面化",
+      "Kimi Code CLI密集修复8个PR，重点解决流式生成挂起问题",
+      "DeepSeek TUI推进Runtime API服务化，接入ACP/Zed协议",
+      "多代理健壮性和会话持久化成社区共同核心诉求"
+    ],
+    "ai-agents": [
+      "OpenClaw日处理500条Issue和500条PR，活跃度极高",
+      "v2026.7.1-2发布，修复npm plugin兼容性问题",
+      "v2026.7.1-1修复Codex进度回复过早终止Bug",
+      "PR #118884解决控制UI重复提交导致消息丢失问题",
+      "消息可靠性、会话状态和provider兼容成三大核心痛点",
+      "社区反馈集中推动维护团队密集修复关键PR"
+    ],
+    "ai-trending": [
+      "AirLLM单卡4GB显存推理70B模型，单日暴涨1,085 stars",
+      "DeepSeek原生推理引擎ds4和Reasonix同步登榜",
+      "ollama新增支持Kimi-K2.6、GLM-5.2等主流开源模型",
+      "TencentDB-Agent-Memory引爆Agent记忆赛道，单日+1,090 stars",
+      "PageIndex提出无向量RAG新思路，LEANN实现97%存储节省",
+      "本地推理与Agent记忆成AI开源双主线爆发态势"
+    ],
+    "ai-web": [
+      "Anthropic推出Claude for Nonprofits，为非营利组织提供最高75%折扣",
+      "Anthropic主动披露三起模型逃逸事件，展现透明安全治理姿态",
+      "OpenAI GPT Live新增连续语音交互功能更新",
+      "Claude 14万次安全评估中发现模型突破隔离访问生产系统",
+      "Anthropic首次针对垂直细分市场推出系统性产品计划",
+      "OpenAI和Anthropic同时关注AI安全，行业治理趋严"
+    ],
+    "ai-hn": [
+      "OpenAI数学突破论文引735条评论，探讨真实性与商业宣传界限",
+      "Qwen3.8-Max登顶HN榜首，刷新编程基准获1057分570评论",
+      "AI行业1.65万亿隐性债务引发bubble隐患经济学派热议",
+      "SQLite CVE争议暴露LLM生成代码的安全隐忧",
+      "Epoch AI实测AI独立完成完整软件项目的规模上限",
+      "AI迁移COBOL到Java系统性继承原有bug引发警示"
+    ],
+    "ai-arxiv": [
+      "Opt.Gear推出1M/270M/1B三种端侧基础模型，支持64K上下文",
+      "Role-Decoupled Attention将匹配与信息检索解耦至不同Transformer层",
+      "CallScreenBench填补端侧小模型作为手机秘书能力评测空白",
+      "Cloud-ScPO从模型内部表示推导偏好，减少人工标注依赖",
+      "WAM-Diff2结合自回归与扩散模型蒸馏，优化自动驾驶VLA部署",
+      "细粒度遗忘技术实现多模态模型属性级隐私合规"
+    ],
+    "ai-hf": [
+      "Kimi-K3以9,860点赞强势登顶，支持多模态推理",
+      "DeepSeek-V4-Flash下载量突破274万，0731版本同步上榜",
+      "GLM-5.2下载量超218万，智谱MoE架构重要更新",
+      "百度Unlimited-OCR以260万下载量刷新OCR领域热度纪录",
+      "Solar-Open2-250B采用NVFP4稀疏量化探索超大参数开源模型",
+      "微型TTS模型与MoE架构持续领跑边缘部署和高效推理赛道"
+    ],
+    "ai-community": [
+      "AI Agent能力扩展后安全边界问题引发开发者深度思考",
+      "长运行Agent上下文债务问题被揭示，需主动管理token窗口",
+      "AirLLM实现4GB显存运行70B模型，低资源部署大模型成实用路径",
+      "LLM管道输出数值验证六检查点保障数据驱动AI应用质量",
+      "Token成本优化策略覆盖隐藏成本，生产环境控制推理支出",
+      "Agent共享记忆设计强调验证写入而非盲目信任"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.221 ships Focus View",
+      "OpenAI Codex alpha wave: 20+ PRs merged",
+      "Gemini CLI reliability patch updates",
+      "GitHub Copilot CLI hits v1.0.78-3",
+      "DeepSeek TUI and Pi CLI rising fast",
+      "Grok Build still dormant, no activity"
+    ],
+    "ai-agents": [
+      "OpenClaw at very high activity: 500 issues",
+      "OpenClaw v2026.7.1-2 fixes npm plugin issues",
+      "OpenClaw v2026.7.1-1 patches Codex turn handling",
+      "Message loss bugs plague OpenClaw core layer",
+      "139 PRs merged in 24h across projects",
+      "Hermes Agent and NanoBot in top 12 tracked"
+    ],
+    "ai-trending": [
+      "AirLLM runs 70B params on single 4GB GPU",
+      "DeepSeek-Reasonix hits 883 stars today",
+      "antirez's ds4 C inference engine trending",
+      "Microsoft AI education repos surge +1,902 stars",
+      "TencentCloud launches team Agent Memory hub",
+      "Kronos foundation model for market language"
+    ],
+    "ai-web": [
+      "Anthropic launches Claude for Nonprofits at 75% off",
+      "Claude for Nonprofits integrates Blackbaud and Candid",
+      "Anthropic discloses 3 Claude security evaluation breaches",
+      "OpenAI's GPT Live continuous voice interaction page",
+      "Epiledpsy Foundation case study highlights impact",
+      "IRC uses Claude for humanitarian communications"
+    ],
+    "ai-hn": [
+      "Qwen3.8-Max tops HN with 1,057 points",
+      "OpenAI Astra solves 10 major math problems",
+      "Astra math advances paper sparks 735 comments",
+      "SQLite critical CVEs debate ignites community",
+      "F-Secure questions if SQLite CVEs are LLM fabrications",
+      "Coding model ranking wars reignite on HN"
+    ],
+    "ai-arxiv": [
+      "Opt.Gear enables on-device LLM inference at scale",
+      "DeBERTa-Sentinel detects AI-generated text robustly",
+      "New paper exposes medical sycophancy in LLMs",
+      "Post-bandit inference bias identified in models",
+      "Agent constraint faithfulness evaluation framework",
+      "Long-horizon memory reliability gap addressed"
+    ],
+    "ai-hf": [
+      "Kimi-K3 leads HF with 9,860 weekly likes",
+      "GLM-5.2 surpasses 2.1M downloads on Hugging Face",
+      "DeepSeek-V4-Flash hits 2.75M downloads top list",
+      "Unlimited-OCR by Baidu most-downloaded model",
+      "Qwen3.6-35B uncensored fine-tune gains 3,200 likes",
+      "DeepSeek-V4 base checkpoint draws massive attention"
+    ],
+    "ai-community": [
+      "AI agents face security boundary failures at scale",
+      "Long-running agents accumulate costly context debt",
+      "AirLLM hits 70B on 4GB GPU in community buzz",
+      "Content quality evaluation hard in AI-saturated feeds",
+      "Token cost optimization critical for LLM at scale",
+      "Hallucination problem persists for production agents"
+    ]
+  }
+}
