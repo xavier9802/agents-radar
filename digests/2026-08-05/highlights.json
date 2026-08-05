@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code ships v2.1.222 security hardening",
+      "Gemini CLI patches SSRF and MCP consent flaws",
+      "OpenAI Codex has Windows GPU crash issues",
+      "GitHub Copilot introduces breaking sandbox rename",
+      "DeepSeek TUI fixes subagent hang bugs",
+      "Claude Code hardens isolated-session enforcement"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs in 24h",
+      "No new releases; stability prioritized over shipping",
+      "P0 session-state bugs flagged as maintainer-blocked",
+      "Active hardening of Telegram, Discord, Slack adapters",
+      "DeepSeek v4 Flash silent reply bug merged as fixed",
+      "Multiple regressions reported in 2026.7.x upgrades"
+    ],
+    "ai-trending": [
+      "TencentDB-Agent-Memory gains 1,111 stars",
+      "reverse-skill surges with 2,297 new stars",
+      "AirLLM hits 1,711 stars for 70B on 4GB GPU",
+      "DeepSeek-Reasonix garners 922 today's stars",
+      "ollama adds DeepSeek and open model support",
+      "browser-use family expands to multimodal automation"
+    ],
+    "ai-web": [
+      "Anthropic appoints Tino Cuéllar as Chief Global Affairs Officer",
+      "Cuéllar brings Stanford, Carnegie, and government background",
+      "OpenAI publishes policy stance article 'Apple Is Getting This Wrong'",
+      "OpenAI launches Economic Research Exchange initiative",
+      "Both companies treat governance as core strategic competency",
+      "Anthropic sitemap now at 430 total articles"
+    ],
+    "ai-hn": [
+      "Sean Goedcke's 'LLMs reward expertise' hits 1,332 points",
+      "Mistral's Shieldstral 3B moderation model draws strong interest",
+      "Qwen3.8-Max coding benchmark tops HN at 1,098 points",
+      "OpenAI settles U.S. worker discrimination case for $3.2M",
+      "White House excludes open models from AI testing framework",
+      "Benchmark saturation study sparks 86-comment discussion"
+    ],
+    "ai-arxiv": [
+      "ParVL proposes dynamic compute allocation for multimodal LLMs",
+      "Test-Time Scaling paper unifies inference regime taxonomy",
+      "Cross-Model KV Cache Transfer enables prefill reuse",
+      "Agent self-improvement benchmarks show experience-driven gains",
+      "CARE-X and ADMITBench advance healthcare AI evaluation",
+      "ANTONARES and ParVL push legal and multimodal scaling forward"
+    ],
+    "ai-hf": [
+      "DeepSeek V4-Flash leads with 2,737,621 downloads",
+      "Kimi-K3 tops likes with over 10,000 and 1.1M downloads",
+      "GLM-5.2 ranks top Chinese model with 2.2M downloads",
+      "MiniMax AI's H3 is first image-text-to-video on leaderboard",
+      "Qwen3.6 uncensored and GGUF variants see massive downloads",
+      "DeepSeek V4-Flash-0731 checkpoint gains 433K downloads"
+    ],
+    "ai-community": [
+      "Pragmatism over hype: specialized models outperform frontier ones",
+      "Anthropic sandbox breaches spark agent security discussions",
+      "MITRE ATLAS introduces new agentic attack techniques",
+      "Context windows identified as true MCP server bottleneck",
+      "EU AI Act compliance begins kicking in for developers",
+      "OpenAI's Lean-certified math proofs generate quiet buzz"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code ships v2.1.222 security hardening",
+      "Gemini CLI patches SSRF and MCP consent flaws",
+      "OpenAI Codex has Windows GPU crash issues",
+      "GitHub Copilot introduces breaking sandbox rename",
+      "DeepSeek TUI fixes subagent hang bugs",
+      "Claude Code hardens isolated-session enforcement"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs in 24h",
+      "No new releases; stability prioritized over shipping",
+      "P0 session-state bugs flagged as maintainer-blocked",
+      "Active hardening of Telegram, Discord, Slack adapters",
+      "DeepSeek v4 Flash silent reply bug merged as fixed",
+      "Multiple regressions reported in 2026.7.x upgrades"
+    ],
+    "ai-trending": [
+      "TencentDB-Agent-Memory gains 1,111 stars",
+      "reverse-skill surges with 2,297 new stars",
+      "AirLLM hits 1,711 stars for 70B on 4GB GPU",
+      "DeepSeek-Reasonix garners 922 today's stars",
+      "ollama adds DeepSeek and open model support",
+      "browser-use family expands to multimodal automation"
+    ],
+    "ai-web": [
+      "Anthropic appoints Tino Cuéllar as Chief Global Affairs Officer",
+      "Cuéllar brings Stanford, Carnegie, and government background",
+      "OpenAI publishes policy stance article 'Apple Is Getting This Wrong'",
+      "OpenAI launches Economic Research Exchange initiative",
+      "Both companies treat governance as core strategic competency",
+      "Anthropic sitemap now at 430 total articles"
+    ],
+    "ai-hn": [
+      "Sean Goedcke's 'LLMs reward expertise' hits 1,332 points",
+      "Mistral's Shieldstral 3B moderation model draws strong interest",
+      "Qwen3.8-Max coding benchmark tops HN at 1,098 points",
+      "OpenAI settles U.S. worker discrimination case for $3.2M",
+      "White House excludes open models from AI testing framework",
+      "Benchmark saturation study sparks 86-comment discussion"
+    ],
+    "ai-arxiv": [
+      "ParVL proposes dynamic compute allocation for multimodal LLMs",
+      "Test-Time Scaling paper unifies inference regime taxonomy",
+      "Cross-Model KV Cache Transfer enables prefill reuse",
+      "Agent self-improvement benchmarks show experience-driven gains",
+      "CARE-X and ADMITBench advance healthcare AI evaluation",
+      "ANTONARES and ParVL push legal and multimodal scaling forward"
+    ],
+    "ai-hf": [
+      "DeepSeek V4-Flash leads with 2,737,621 downloads",
+      "Kimi-K3 tops likes with over 10,000 and 1.1M downloads",
+      "GLM-5.2 ranks top Chinese model with 2.2M downloads",
+      "MiniMax AI's H3 is first image-text-to-video on leaderboard",
+      "Qwen3.6 uncensored and GGUF variants see massive downloads",
+      "DeepSeek V4-Flash-0731 checkpoint gains 433K downloads"
+    ],
+    "ai-community": [
+      "Pragmatism over hype: specialized models outperform frontier ones",
+      "Anthropic sandbox breaches spark agent security discussions",
+      "MITRE ATLAS introduces new agentic attack techniques",
+      "Context windows identified as true MCP server bottleneck",
+      "EU AI Act compliance begins kicking in for developers",
+      "OpenAI's Lean-certified math proofs generate quiet buzz"
+    ]
+  }
+}
