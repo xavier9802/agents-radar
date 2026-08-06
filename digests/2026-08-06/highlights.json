@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.223高频迭代，社区热度四星领跑",
+      "Gemini CLI v0.55.0-preview.1每日均有版本发布",
+      "Qwen Code v0.21.6新增桌面版，社区热度四星",
+      "OpenCode v1.18.14日合并11个PR活跃度高",
+      "MCP参数静默丢失成行业共同痛点",
+      "DeepSeek TUI v0.9.4开发中，Grok Build无活动"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时新增426个Issue积压严重",
+      "gh-read子进程超时修复PR已合并",
+      "实时语音会话资源上限缺失引58条评论",
+      "记忆投毒防护P2问题27条讨论",
+      "500条PR中435条待合并修复密集",
+      "大量P1修复PR仍在maintainer review阶段"
+    ],
+    "ai-trending": [
+      "TencentDB-Agent-Memory单日涨1892星全场最高",
+      "DeepSeek-Reasonix今日新增747星领跑",
+      "Cloudflare OS开源平台热度485分",
+      "superpowers首日931星技能框架受捧",
+      "vllm 8.8万星稳居推理引擎标杆",
+      "ollama 17.7万星持续高热"
+    ],
+    "ai-hn": [
+      "Google DeepMind高层洗牌引发热议",
+      "OpenAI数学十大进展引925条评论",
+      "Mistral开源3B审核模型获475分",
+      "Cloudflare OS开源平台引485分热讨",
+      "Meta发布Muse Code编程辅助模型",
+      "AI基准测试饱和引发122条反思"
+    ],
+    "ai-arxiv": [
+      "Argus智能体运行时支持持久化自进化",
+      "技能熵新概念评估长程推理能力",
+      "首次系统评估AI妄想螺旋行为",
+      "100万参数小模型也能从思维链受益",
+      "推理时引导多语言模型无需额外更新",
+      "揭示LLM在形式逻辑推理深层缺陷"
+    ],
+    "ai-hf": [
+      "Kimi-K3万赞超112万下载领跑多模态",
+      "DeepSeek-V4-Flash系列双版本上榜",
+      "GLM-5.2本周下载量最高达223万",
+      "百度Unlimited-OCR 270万下载领跑OCR",
+      "MiniMax-H3开源视频生成模型首进前三",
+      "NVIDIA语音对话模型11B参数面向实时交互"
+    ],
+    "ai-community": [
+      "81%开发者陷入AI代码审查负担引热议",
+      "AWS开源Kiro Crew代理编排器",
+      "MCP检索小仓库比grep多耗4.1倍token",
+      "OpenAI解1999年难题但仍不能自主提问",
+      "AGENTS.md规范为AI编程代理量身定制",
+      "零上下文token捐赠协议直击协作成本痛点"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.223 released weekly",
+      "OpenAI Codex daily alpha builds active",
+      "Gemini CLI hits v0.55.0-preview.1",
+      "Copilot CLI v1.0.79-5 out",
+      "Windows stability remains key weakness",
+      "10 AI CLI tools covered this digest"
+    ],
+    "ai-agents": [
+      "OpenClaw: 1000 issues and PRs in 24h",
+      "426 open issues, 435 open PRs active",
+      "No new release published today",
+      "P0/P1 bug fixes in-flight for sessions",
+      "PR #119146 bounds gh CLI timeouts",
+      "High activity with elevated bug density"
+    ],
+    "ai-trending": [
+      "TencentDB-Agent-Memory leads with +1892 stars",
+      "DeepSeek-Reasonix trends for cache stability",
+      "vLLM at 88K stars remains inference gold standard",
+      "Ollama hits 177K stars for local LLMs",
+      "AirLLM gains 833 stars in one day",
+      "Cloudflare computer gives agents dedicated compute"
+    ],
+    "ai-hn": [
+      "Demis Hassabis steps down as Google DeepMind CEO",
+      "Jeff Dean departs Google DeepMind",
+      "LLMs reward domain knowledge sparks debate",
+      "Meta ad platform serves AI-generated CSAM",
+      "Microsoft AI revenue concentrated in OpenAI",
+      "Prime Agent improves itself via RL"
+    ],
+    "ai-arxiv": [
+      "Reasoning Core creates 50 procedural data generators",
+      "Revealed Rationality offers label-free LLM evaluation",
+      "DelusionEval measures chatbot delusion behaviors",
+      "Long-horizon reasoning dominates today's papers",
+      "Self-verifiable RL tackles multi-step solving",
+      "Mars weather forecasting uses foundation models"
+    ],
+    "ai-hf": [
+      "Kimi-K3 leads with 10K+ likes and 1.1M downloads",
+      "DeepSeek-V4-Flash hits 2.7M downloads",
+      "GLM-5.2 gains 4.8K likes rapidly",
+      "DeepSeek-V4-Flash-0731 variant trending",
+      "Unlimited-OCR from Baidu stands out",
+      "Qwen 3.5/3.6 GGUF quantization active"
+    ],
+    "ai-community": [
+      "AWS open-sources Kiro Crew agent orchestrator",
+      "81% of devs buried in AI code review",
+      "OpenAI solved 1999 problem but can't ask own questions",
+      "Token-usage audits dominate developer talk",
+      "AI agents shift from novelty to operational reality",
+      "Compliance-layer tool-calling loops discussed widely"
+    ]
+  }
+}
