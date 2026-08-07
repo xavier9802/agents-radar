@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex发布rust-v0.147.0版本，支持便携插件安装",
+      "Gemini CLI连发v0.55.0预览版和v0.56.0夜测版",
+      "Qwen Code v0.21.7发布，Goals取消50轮限制",
+      "DeepSeek TUI v0.9.4完成整合，支持多API密钥管理",
+      "Pi v0.84.0发布全屏TUI模式",
+      "OpenCode遭遇Go/Zen订阅大规模上游阻断"
+    ],
+    "ai-agents": [
+      "OpenClaw社区极高活跃，Issues和PR均更新500条",
+      "修复沙盒场景网关锁文件泄漏到系统tmp问题",
+      "ACP session初始化model override回归已修复",
+      "向量索引状态诊断快速路径上线",
+      "区分持久化索引与运行时live状态",
+      "混合Agent协作框架CoPaw等12个项目活跃"
+    ],
+    "ai-trending": [
+      "Cloudflare computer单日狂揽2802 star登顶热榜",
+      "skills技能包项目获1873 star爆发式增长",
+      "ollama总量突破177,949 star",
+      "DeepSeek-Reasonix总量32,505 star热榜新增",
+      "vllm达88,382 star成推理引擎标杆",
+      "agent-skills项目获593 star快速积累"
+    ],
+    "ai-web": [
+      "Anthropic优化Fable 5生物护栏，回退率降低85%",
+      "Claude Fable 5扩展日常健康和教育场景可用性",
+      "OpenAI GPT 5.6 SOL推理能力升级",
+      "OpenAI扩大Luna免费版覆盖范围",
+      "OpenAI与APA达成责任AI合作伙伴关系",
+      "Anthropic将双用途生物研究回退至Opus 5"
+    ],
+    "ai-hn": [
+      "Qwen3.8 Max在agentic index登顶，获448分",
+      "LLMs reward expertise获1395分566条评论",
+      "AMD收购Taalas引发硅基推理硬件整合热议",
+      "AI正攻克经典Erdős数学问题",
+      "OpenAI与四家厂商达成Agent插件统一标准",
+      "论文揭示主流AI基准测试已趋近饱和瓶颈"
+    ],
+    "ai-arxiv": [
+      "视觉工具使用被审计：仅带来边际或负向收益",
+      "DASH通过自适应监督horizon实现推理模型自蒸馏",
+      "提出后训练适应技术六维分类学框架",
+      "量化LLM政治偏见的新方法Poli-Bias发布",
+      "Mixture-of-Minds框架捕捉人口层面个体多样性",
+      "SiPE句法感知位置编码突破线性距离局限"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Flash周下载超61万稳居榜首",
+      "Kimi-K3下载破125万点赞破万热度第一",
+      "GLM-5.2下载近240万成国产LLM重磅选手",
+      "MiniMax-H3视频模型累计下载超230万",
+      "DeepSeek-V4主版本周下载超263万",
+      "LFM2.5-2.6B轻量模型专为资源受限场景设计"
+    ],
+    "ai-community": [
+      "AWS Kiro Crew单次处理P1事件成本仅0.04美元",
+      "OpenAI发布10篇Lean认证数学和CS证明",
+      "LLM评估者存在单眼盲区需混合校验",
+      "AI Agent熔断器模式成高可用架构标配",
+      "全链路追踪在实际事故中仍无法定位根因",
+      "AI漏洞扫描器真实水位：权威基准下仅发现7%缺陷"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "OpenAI Codex v0.147.0 stable released",
+      "Gemini CLI v0.55.0-preview.2 drops",
+      "Qwen Code v0.21.7 and live-host ship",
+      "Pi v0.84.0 stable release lands",
+      "Copilot CLI v1.0.79-6 patch arrives",
+      "10 AI CLI tools tracked for activity"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues, 500 PRs daily",
+      "12 agent projects in ecosystem digest",
+      "Critical regressions under active triage",
+      "Security-adjacent bugs being tracked",
+      "Vector store status improvements merged",
+      "430 open issues in dense stab phase"
+    ],
+    "ai-trending": [
+      "Cloudflare Computer hits #1 with +2,802 stars",
+      "DeepSeek-Reasonix surges to +888 stars",
+      "TencentDB Agent Memory gains +1,057 stars",
+      "Ollama leads at 177,949 total stars",
+      "Skills framework by Matt Poock at +1,873",
+      "vLLM holds 88,382 stars for serving"
+    ],
+    "ai-web": [
+      "Claude Fable 5 biology fallbacks cut 85%",
+      "OpenAI GPT-5.6 SOL improvements in ChatGPT",
+      "OpenAI partners with APA for responsible AI",
+      "Claude Fable 5 supports more clinical tasks",
+      "OpenAI publishes 3 new index-page updates",
+      "Anthropic tightens dual-use biology guardrails"
+    ],
+    "ai-hn": [
+      "Google DeepMind leadership shakeup: 887 comments",
+      "Humans missed 1 in 3 AI agent threats",
+      "OpenAI signs unified agent standard deal",
+      "Qwen3.8 Max tops agentic index ranking",
+      "LLMs reward expertise: 1395 score, 566 comments",
+      "Mistral Shieldstral 3B moderation model drops"
+    ],
+    "ai-arxiv": [
+      "Six-dim taxonomy systematizes post-training methods",
+      "Causal audit challenges multimodal image reasoning",
+      "SAGA adapts LLMs for low-resource Nordic languages",
+      "Conformal prediction guarantees advance",
+      "Locally-deployable health AI assistants emerge",
+      "Metabolomics-specialized LLMs published"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 image-to-video spawns ComfyUI ecosystem",
+      "Kimi-K3 leads with 10,205 likes, 1.25M downloads",
+      "DeepSeek-V4-Flash hits 2.64M downloads",
+      "GLM-5.2 climbs with 2.4M downloads",
+      "Quantized open-weight LLMs dominate downloads",
+      "DeepSeek V4 Flash July checkpoint at 617K DLs"
+    ],
+    "ai-community": [
+      "AWS Kiro Crew costs $0.04 per incident",
+      "Circuit breaker pattern for AI agents explored",
+      "134 standing rules replace prompts for AI mgmt",
+      "LLM judge channel blindness flagged",
+      "Agent observability and guardrails dominate",
+      "Deterministic evaluation bridges capability gap"
+    ]
+  }
+}
