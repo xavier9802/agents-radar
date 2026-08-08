@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code推出v2.1.225，AGENTS.md相关Issue获4526票高关注",
+      "OpenAI Codex进入快速迭代期，v0.148.0-alpha系列修复内存泄漏",
+      "Gemini CLI v0.56.0修复SSRF漏洞，安全更新密集",
+      "GitHub Copilot Windows渲染回归，开发者社区热议稳定性",
+      "Qwen Code v0.21.7聚焦中文体验优化，社区热度持续上升",
+      "AI CLI生态共识转向稳定性，底层工程问题取代模型能力成痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw日处理500条Issue，维护团队响应迅速",
+      "OpenClaw修复子代理上下文溢出导致结果冻结的严重Bug",
+      "OpenClaw优化多代理协作网关性能，解决数十秒停滞问题",
+      "DeepSeek v4 Flash在OpenClaw遭遇静默失败，用户痛点显著",
+      "OpenClaw为飞书渠道添加消息发送失败重试机制",
+      "OpenClaw修复入口消息静默丢失，保障多租户环境可靠性"
+    ],
+    "ai-trending": [
+      "PrimeAgent单日暴涨2293 Stars，自我改进型RLM智能体引爆GitHub",
+      "Google官方发布Skills库，推动Agent标准化技能生态",
+      "Cloudflare Computer允许Agent访问真实计算环境，打破纯文本局限",
+      "Ollama发布新版本，支持Kimi-K2.6、GLM-5.2等最新模型",
+      "Matt Pocock工程技能集单日获2152 Stars，头部开发者热捧",
+      "AI开源趋势爆发：从检索转向高效执行，技能框架成最热概念"
+    ],
+    "ai-web": [
+      "Anthropic优化Fable 5生物安全护栏，回退现象减少85%",
+      "Claude Fable 5在医疗与教育场景实现更流畅的生物学响应",
+      "高风险病毒学与毒理学研究仍被限制在Opus 5模型之上",
+      "Anthropic战略转向：在生物医学领域扩张可及性同时管控风险",
+      "OpenAI官网今日零更新，专注于旗舰模型稳定性迭代",
+      "医疗开发者迎来利好，Fable 5改进将降低集成延迟"
+    ],
+    "ai-hn": [
+      "Qwen3.8 Max登顶Agentic Index榜首，引发国产模型热议",
+      "Google DeepMind高层地震，Hassabis转任主席Jeff Dean离职",
+      "AMD收购Taalas，拟通过硅片蚀刻技术大幅提升推理性能",
+      "Cloudflare OS发布，构建连接Agent与应用的开放基础设施",
+      "Tokenpocalypse引发焦虑，AI编码成本失控问题受到HN高度关注",
+      "Oracle禁止OpenJDK使用AI代码，引发开发者对合规性的深层担忧"
+    ],
+    "ai-arxiv": [
+      "提出选择性上下文优化，让模型在可信时利用信号、误导时拒绝",
+      "首次系统评估对话代理基准质量，揭示当前指标存在的可靠性盲区",
+      "发现多模态LLM使用视觉工具常仅获边际增益，挑战普遍假设",
+      "提出TRAJDEBUG方法，可追溯长程智能体轨迹中的关键失败步骤",
+      "利用概念激活向量检测语言评估系统偏见，守护高利害场景公平性",
+      "警示当前AI基准忽略搜索与引用维度，基于不完整数据的安全性存疑"
+    ],
+    "ai-hf": [
+      "Kimi-K3斩获超1万点赞，月之暗面最新多模态模型热度领跑",
+      "MiniMax-H3视频生成模型霸榜，相关社区衍生模型众多",
+      "DeepSeek-V4-Flash下载量破70万，开发者生态影响力持续扩大",
+      "GLM-5.2下载量超240万，智谱MoE架构兼顾效率与质量",
+      "百度Unlimited-OCR下载量近300万，国产实用型开源模型大放异彩",
+      "ComfyUI集成MiniMax-H3下载超310万，工作流生态强劲"
+    ],
+    "ai-community": [
+      "开源项目agent-exec-trace指出Agent可观测性核心在于轨迹追踪",
+      "基于GKE为AI Agent提供隔离Linux沙箱，成为生产安全关键实践",
+      "Kiro Crew方案每周仅需2.1美元，展示低成本AI自动化提效案例",
+      "AI独立编写政策测试用例49次成功，打破智能测试不可靠的刻板印象",
+      "警示训练数据隐性偏差不抛异常却致模型静默失败，清洁运行不等于正确",
+      "技术社区风向转变，开发者从模型崇拜转向工程化落地与可靠性验证"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code hits v2.1.225 with active iteration.",
+      "OpenAI Codex v0.148 Alpha series pushes PRs.",
+      "Gemini CLI v0.56.0 nightly stays active.",
+      "GitHub Copilot CLI micro-updates to v1.0.79.",
+      "Ecosystem shifts to enterprise agentic workflows.",
+      "Standards like AGENTS.md drive interoperability."
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and PRs in 24 hours.",
+      "Project focuses on session state and memory leaks.",
+      "92 PRs merged in active maintenance phase.",
+      "v2026.7.2 stability critical post-release.",
+      "Database migration bugs persist in v14 to v15.",
+      "Issue closure rate modest amid critical bugs."
+    ],
+    "ai-trending": [
+      "Ollama hits 178k stars, supports Kimi-K2.6.",
+      "Rust framework rig gains traction for agents.",
+      "Mise trends for reproducible AI workflows.",
+      "Agent Skills surge dominates open source trends.",
+      "Vector DBs like databend gain Rust momentum.",
+      "AutoGPT resurgence signals maturing market."
+    ],
+    "ai-web": [
+      "Anthropic cuts Fable 5 biology fallbacks 85%.",
+      "Fable 5 now aids healthcare and education.",
+      "Opus 5 fallback remains for dual-use risks.",
+      "Professional drug dev still gated behind trust.",
+      "OpenAI released zero new official content today.",
+      "Safeguard refinements expand Fable utility."
+    ],
+    "ai-hn": [
+      "Google DeepMind leadership shakeup tops HN.",
+      "Oracle bans AI code from OpenJDK, sparks debate.",
+      "Tokenpocalypse fears drive cost control anxiety.",
+      "GPT-5.6 Sol improves, Luna opens to free users.",
+      "Qwen 3.8-Max preview gets reverse-engineered.",
+      "Erdős problems falling to AI sparks discussion."
+    ],
+    "ai-arxiv": [
+      "Shift toward deployable AI in real-world systems.",
+      "Papers audit LLM causality and error propagation.",
+      "Selective context preference optimization proposed.",
+      "Medical and financial sectors drive benchmarks.",
+      "Neurosymbolic methods bridge logic and LLMs.",
+      "Critique of single-modality API evaluation gaps."
+    ],
+    "ai-hf": [
+      "MiniMax-H3 spawns image-to-video ecosystem.",
+      "DeepSeek-V4-Flash hits 700k+ downloads.",
+      "Kimi-K3 tops likes with 10,284 community votes.",
+      "GLM-5.2 surges with 2.4 million downloads.",
+      "Baidu Unlimited OCR gains traction fast.",
+      "Flash models dominate production-like usage."
+    ],
+    "ai-community": [
+      "Agent observability is about tracing paths.",
+      "Kubernetes sandboxes isolate AI agent risks.",
+      "Dev skepticism grows toward over-engineered agents.",
+      "Cost control drives production infrastructure focus.",
+      "Parser fidelity key for CI/CD autonomy.",
+      "Developer taste becomes primary AI value-add."
+    ]
+  }
+}
