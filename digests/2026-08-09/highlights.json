@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.226 released with bug fixes",
+      "OpenAI Codex hits v0.148.0-alpha.5",
+      "Gemini CLI ships v0.56.0-nightly build",
+      "Qwen Code releases v0.21.8 update",
+      "CodeWhale DeepSeek TUI lands v0.9.5",
+      "All top CLI tools show 10 hot issues"
+    ],
+    "ai-agents": [
+      "OpenClaw ships v2026.6.34 and .33 today",
+      "New releases harden browser and network security",
+      "500 issues and 500 PRs updated in 24h",
+      "448 open issues remain at OpenClaw",
+      "325 open PRs await review",
+      "Fixes target session-state and crash-loop bugs"
+    ],
+    "ai-trending": [
+      "Agent skills become hottest new category",
+      "Google launches its own skills repo",
+      "Three skills projects gain 400+ stars daily",
+      "Chinese-developed agents top the leaderboard",
+      "Vector-less PageIndex RAG challenges norms",
+      "Memory compression tools cut token costs"
+    ],
+    "ai-hn": [
+      "Hassabis to chair, Jeff Dean departs DeepMind",
+      "DeepMind WeatherNext models forecast cyclones",
+      "AI makes progress on Erdős math problems",
+      "OpenAI vs Hugging Face sparks debate",
+      "Oracle bans AI-generated code in OpenJDK",
+      "Community warns about sycophantic AI behavior"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 dominates video generation trending",
+      "Community spawns LoRAs for MiniMax-H3",
+      "DeepSeek-V4-Flash hits 785K downloads",
+      "GLM-5.2 MOE model hits 2.48M downloads",
+      "Mistral releases 3B Shieldstral safety model",
+      "NVIDIA NemotronLabs VoiceChat 11B trending"
+    ],
+    "ai-community": [
+      "Multi-RAG with knowledge graphs gains traction",
+      "MCP protocol enables persistent AI memory",
+      "Model routing cuts agent costs but not trust",
+      "Dev.to series explores ReAct pattern naming",
+      "Lobste.rs revisits cognitive science LLM skepticism",
+      "Agent evaluation and regression testing discussed"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.226 released with bug fixes",
+      "OpenAI Codex hits v0.148.0-alpha.5",
+      "Gemini CLI ships v0.56.0-nightly build",
+      "Qwen Code releases v0.21.8 update",
+      "CodeWhale DeepSeek TUI lands v0.9.5",
+      "All top CLI tools show 10 hot issues"
+    ],
+    "ai-agents": [
+      "OpenClaw ships v2026.6.34 and .33 today",
+      "New releases harden browser and network security",
+      "500 issues and 500 PRs updated in 24h",
+      "448 open issues remain at OpenClaw",
+      "325 open PRs await review",
+      "Fixes target session-state and crash-loop bugs"
+    ],
+    "ai-trending": [
+      "Agent skills become hottest new category",
+      "Google launches its own skills repo",
+      "Three skills projects gain 400+ stars daily",
+      "Chinese-developed agents top the leaderboard",
+      "Vector-less PageIndex RAG challenges norms",
+      "Memory compression tools cut token costs"
+    ],
+    "ai-hn": [
+      "Hassabis to chair, Jeff Dean departs DeepMind",
+      "DeepMind WeatherNext models forecast cyclones",
+      "AI makes progress on Erdős math problems",
+      "OpenAI vs Hugging Face sparks debate",
+      "Oracle bans AI-generated code in OpenJDK",
+      "Community warns about sycophantic AI behavior"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 dominates video generation trending",
+      "Community spawns LoRAs for MiniMax-H3",
+      "DeepSeek-V4-Flash hits 785K downloads",
+      "GLM-5.2 MOE model hits 2.48M downloads",
+      "Mistral releases 3B Shieldstral safety model",
+      "NVIDIA NemotronLabs VoiceChat 11B trending"
+    ],
+    "ai-community": [
+      "Multi-RAG with knowledge graphs gains traction",
+      "MCP protocol enables persistent AI memory",
+      "Model routing cuts agent costs but not trust",
+      "Dev.to series explores ReAct pattern naming",
+      "Lobste.rs revisits cognitive science LLM skepticism",
+      "Agent evaluation and regression testing discussed"
+    ]
+  }
+}
