@@ -97,6 +97,14 @@
       "Long-lived Telegram AI agent lessons shared",
       "EU AI Act officially entering enforcement",
       "DeepSeek Flash outperforms flagship via post-training"
+    ],
+    "ai-weekly": [
+      "prime-agent hits +2,356 stars in one day",
+      "Claude Code adds cross-session messaging",
+      "Google & Matt Pocock release Agent Skills",
+      "Cloudflare `computer` gains +2,802 stars",
+      "Qwen3.8-Max tops HN Agentic Index",
+      "Anthropic Fable 5 cuts fallback 85%"
     ]
   }
 }
