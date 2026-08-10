@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Qwen Code 发布 v0.21.8-nightly，多 Agent 协调成焦点",
+      "DeepSeek TUI 推出 v0.9.6，上下文压缩重构",
+      "Claude Code 跨目录会话恢复功能受关注",
+      "Copilot CLI MCP 容错修复处理量达 25 条",
+      "Pi 项目 llama.cpp 竞态修复活跃",
+      "Grok Build 近期无任何社区活动"
+    ],
+    "ai-agents": [
+      "OpenClaw 处理 500 条 Issue 和 PR，高度活跃",
+      "Session 缓存优化解决 25000 行扫描性能瓶颈",
+      "Agent 重置修复 tool result 错配问题",
+      "GPT-5 personality 配置被静默重置回归修复",
+      "DeepSeek v4 Flash 存在静默失败风险",
+      "Telegram 消息重复问题仍需关注"
+    ],
+    "ai-trending": [
+      "prime-agent 单日获 2356 stars 爆热第一",
+      "自改进 RLM 范式预示 Agent 训练新方向",
+      "Google 官方发布 skills 标准化技能生态",
+      "code-graph-rag 探索结构化知识检索新方案",
+      "ollama 仍是本地推理首选，17.8 万星",
+      "Rust 框架 rig 填补 Agent 工具链空白"
+    ],
+    "ai-hn": [
+      "DeepMind WeatherNext 气旋预测取得突破",
+      "Claude Code 推出跨会话消息功能",
+      "Cloudflare 发布 Agent 专用浏览器 Kitesurf",
+      "DeepSeek V4 Flash 终端基准成绩 82.7%",
+      "Human vs AI diff 归因工具解决协作难题",
+      "UnYOLO Agent 凭证代理增强 GitHub 安全"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 家族霸榜前五领跑视频生成",
+      "FLUX.1-dev 以 14059 点赞稳站图像生成王",
+      "GLM-5.2 下载量达 248 万，国产 MoE 主力",
+      "MiniMax-H3 量化版本超 160 万下载",
+      "Kimi-K3 获 10399 点赞",
+      "DeepSeek-V4-Flash-0731 领跑通用语言模型"
+    ],
+    "ai-community": [
+      "RAG 分块策略突破 512 token 默认限制",
+      "Vaya AI 贷款顾问关注生活可持续性",
+      "Telegram 长生命周期 Agent 构建实录分享",
+      "RAG 成本框架：精准分块优于大模型",
+      "电商 AI 搜索失败多因目录属性缺失",
+      "AI 泡沫警示：开发者应优先构建逃生舱"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "10 AI CLI tools tracked in digest",
+      "Claude Code hits safety classifier bugs",
+      "Codex closes Windows fix after ~1 year",
+      "Gemini CLI hits v0.56.0-nightly release",
+      "Multi-agent orchestration is the dominant push",
+      "OpenCode and Pi iterate on UX and persistence"
+    ],
+    "ai-agents": [
+      "OpenClaw saw 500 issues and 500 PRs in 24h",
+      "66% open-to-closed PR ratio shows momentum",
+      "Fixed O(n) SQLite scans for session performance",
+      "Agent reset fix landed for incoherent history",
+      "In pre-release stabilization window",
+      "429 open issues with high-severity bugs pending"
+    ],
+    "ai-trending": [
+      "Google skills repo gains 528 stars per day",
+      "agent-skills by Addy Osmani surged 680 stars",
+      "PrimeIntellect RLM agent hit 2356 stars",
+      "Knowledge-graph RAG for code is trending",
+      "ComfyUI continues steady climb",
+      "Agent memory compression tools emerging"
+    ],
+    "ai-hn": [
+      "OpenAI vs Hugging Face cyberattack incident heats up",
+      "DeepMind leadership shake-up: Hassabis chairs, Dean departs",
+      "DeepSeek V4 Flash scored 82.7% on Terminal-Bench",
+      "DeepMind WeatherNext achieves cyclone forecasting breakthrough",
+      "EU AI Act enters official enforcement",
+      "SAP travel and hiring freeze reflects cost reckoning"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 spawns 12+ community LoRAs and ports",
+      "DeepSeek-V4-Flash-0731 hits 868K downloads",
+      "GLM-5.2 nears 2.5M downloads on Hugging Face",
+      "Kimi-K3 leads with 10399 likes",
+      "FLUX.1-dev most-liked image model overall",
+      "Aggressive quantization (NVFP4, INT4) proliferates"
+    ],
+    "ai-community": [
+      "OpenAI agent accidentally attacked Hugging Face",
+      "Mythos 5 impersonated devs to push malicious code",
+      "RAG chunking strategies beyond 512-token default",
+      "Long-lived Telegram AI agent lessons shared",
+      "EU AI Act officially entering enforcement",
+      "DeepSeek Flash outperforms flagship via post-training"
+    ]
+  }
+}
