@@ -1,0 +1,126 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.227 正式版持续迭代，今日 10 个新 Issue",
+      "OpenAI Codex 0.148.0-alpha.6 活跃发布，今日 10 个 PR",
+      "Gemini CLI v0.56.0-nightly 进入夜间测试轮",
+      "GitHub Copilot CLI v1.0.79 稳定版推进中",
+      "Qwen Code 社区最活跃，全量 33 Issue 加 50 PR",
+      "DeepSeek TUI v0.9.6 正式版小步快跑"
+    ],
+    "ai-agents": [
+      "OpenClaw 日更 500 条 Issue 和 500 条 PR，热度爆表",
+      "修复 durable context 超 8MiB 后永久停滞严重 Bug",
+      "新增 WhatsApp phone-code 登录，解决无二维码环境",
+      "CLI 支持从文件读取消息，避免长 prompt 暴露终端",
+      "修复 Telegram 工具结果截断导致会话卡死问题",
+      "修复安全策略变更静默接受的隐私风险"
+    ],
+    "ai-web": [
+      "Claude Sonnet 5 正式发布，定位最强 Agentic 模型",
+      "Sonnet 5 性能逼近 Opus 4.8，定价仅$2/单位",
+      "Claude 将黎曼ζ函数零点下界从 41.6% 提升至 67.2%",
+      "首次产出可形式化验证的数学证明",
+      "Anthropic 发布 Agentic 构建最佳实践工程博客",
+      "Opus 4 安全评估显示 Sonnet 5 网络攻击能力大幅降低"
+    ],
+    "ai-hn": [
+      "Meta Muse Glimmer 30B 模型登顶 HN 榜首，获 1047 分",
+      "该模型定位始终在线本地 Agent，开源策略引热议",
+      "Docker 发布 AI Agent 专用沙箱产品，获 628 分",
+      "Zuckerberg 公开抨击封闭模型，呼吁开源",
+      "OpenAI 发布新硬件引发社区关注",
+      "Claude 数学突破：黎曼假设研究获 165 分热议"
+    ],
+    "ai-arxiv": [
+      "FailForge 从持续失败中蒸馏程序化能力的新训练方法",
+      "HoloAegis 提出零样本安全护栏，无需微调预训练模型",
+      "复现 LLM 推理可靠性方法揭示跨域泛化局限",
+      "分析低秩压缩中校准误差传播机制",
+      "发现多语言 LLM 复杂任务中的语言漂移现象",
+      "提出 13.8 万 SKILL.md 文件揭示智能体技能可重用性瓶颈"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 视频生成模型霸榜，社区衍生开发爆火",
+      "Kimi-K3 获 10472 赞全场最高，下载超 150 万",
+      "DeepSeek-V4-Flash 下载量近百万兼顾性能与效率",
+      "Qwen3.6 非审查 GGUF 版本下载超 240 万",
+      "LiquidAI LFM2.5-2.6B 液态架构模型受关注",
+      "社区 GGUF 量化和 ComfyUI 集成活动极为活跃"
+    ],
+    "ai-community": [
+      "AI Agent 测试全过但生产翻车成为热议话题",
+      "MCP 协议安全攻击面逐一暴露，开发者高度警惕",
+      "Meta 开源 30B 编码模型为本地 AI 注入新变量",
+      "Kimi 蒸馏 Qwen 仅模仿推理格式未迁移机制",
+      "Opus 5 量化指令冲突导致三重损耗",
+      "反思 AI 是让你变懒还是失去核心技能"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.227 released",
+      "OpenAI Codex two alpha releases posted",
+      "Gemini CLI nightly v0.56.0 available",
+      "Multi-agent fleets now dominant trend",
+      "OpenCode v1.18.16 latest release",
+      "GitHub Copilot CLI v1.0.79 stable"
+    ],
+    "ai-agents": [
+      "500 issues and 500 PRs in 24 hours",
+      "Telegram duplicate-reply regression fixed",
+      "Discord source reply now merged",
+      "P1 session-state bugs actively discussed",
+      "Clawsweeper labels automating triage",
+      "Community engagement at 30-50 comments"
+    ],
+    "ai-trending": [
+      "PrimeAgent surges 2600+ new stars",
+      "Agency-agents gains 1349 stars day one",
+      "ECC hits 239K stars across 5 tools",
+      "Agent-skills builds reusable capabilities",
+      "Graph-based RAG emerging as focus",
+      "DeepSeek-Reasonix growing in terminal space"
+    ],
+    "ai-web": [
+      "Claude Sonnet 5 announced as most agentic",
+      "Sonnet 5 approaches Opus 4.8 at lower cost",
+      "Claude Sonnet 5 now default on Free/Pro",
+      "Claude improves Riemann bound to 67.2%",
+      "OpenAI launches Premium Seats for Business",
+      "OpenAI expands Daybreak cyber defense"
+    ],
+    "ai-hn": [
+      "Meta Muse Glimmer 30B hits 1047 points",
+      "OpenAI working on hockey-puck-sized device",
+      "Docker launches disposable agent sandboxes",
+      "Claude Riemann breakthrough draws attention",
+      "Anthropomorphizing LLMs sparks debate",
+      "90-hour work weeks despite AI promises"
+    ],
+    "ai-arxiv": [
+      "RPC and LCF reliability tested across 4 domains",
+      "HoloAegis adds zero-shot guardrails frozen",
+      "KV-cache compression targets audio models",
+      "Low-rank LLM compression explored",
+      "Spiking neural network simulators emerge",
+      "Self-evolving guardrails gain traction"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 dominates video generation",
+      "Kimi-K3 tops LLMs with 10K+ likes",
+      "DeepSeek-V4-Flash nears 1M downloads",
+      "FLUX.1-dev most-liked image model ever",
+      "Unlimited-OCR hits nearly 3M downloads",
+      "GGUF variants expand MiniMax ecosystem"
+    ],
+    "ai-community": [
+      "Agent deployment gap from research to prod",
+      "MCP security attention surges heavily",
+      "Meta 30B coding model shifts local AI",
+      "Distilling Kimi into Qwen draws commentary",
+      "2283-passing tests still fail in wild",
+      "Every good MCP starts as passing tests"
+    ]
+  }
+}
