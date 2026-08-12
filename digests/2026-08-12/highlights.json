@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.228 shipped with debug issues",
+      "OpenAI Codex pushed 3 alpha releases",
+      "Gemini CLI navigating post-launch pains",
+      "OpenCode deep in V2 community rewrite",
+      "Grok Build currently dormant",
+      "10 CLI tools covered in digest"
+    ],
+    "ai-agents": [
+      "OpenClaw at very high activity: 500 issues/PRs",
+      "Critical beta publish incident now closed",
+      "383 open issues show aggressive triage",
+      "220 PRs merged vs 280 still open",
+      "12 agent projects covered in digest",
+      "Plugin version alignment now critical"
+    ],
+    "ai-trending": [
+      "Anthropic skills repo hit 485 stars today",
+      "Addy Osmani's agent-skills at 578 stars",
+      "ECC agent harness dominates at 239k stars",
+      "Ponytail agent framework hits 100k stars",
+      "Graph-native memory layers gaining traction",
+      "Open-source coding agent harnesses surge"
+    ],
+    "ai-web": [
+      "OpenAI Daybreak models now on AWS",
+      "Anthropic published no new content today",
+      "OpenAI posted one new index page",
+      "Daybreak may signal new model tier",
+      "No research papers from either lab",
+      "OpenAI sitemap now at 905 articles"
+    ],
+    "ai-hn": [
+      "Meta Muse Glimmer 30B tops HN at 1182 score",
+      "AI eating the web sparks biggest discussion",
+      "Zuckerberg attacks closed AI rivals",
+      "OpenAI ethics chief departs early",
+      "Reasoning-trace extraction papers buzz",
+      "New LLM introspection paper draws interest"
+    ],
+    "ai-arxiv": [
+      "Sparse autoencoder set-level instability found",
+      "New attention-fragility uncertainty signal",
+      "32 LLMs mapped for behavioral evolution",
+      "Multilingual safety gaps explored",
+      "Embodied agent evaluation rises",
+      "Test-time adaptation methods advance"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 dominates video generation charts",
+      "DeepSeek-V4-Flash exceeds 1M downloads",
+      "Kimi-K3 leads with 10,532 likes",
+      "NVIDIA Nemotron 3.5 Lightning released",
+      "Meta Muse-Glimmer-30B trending now",
+      "DeepSeek-V4-Flash now in GGUF format"
+    ],
+    "ai-community": [
+      "Claude text watermark ends undetectable AI",
+      "Tips to make AI agents more predictable",
+      "Kiro Crew security model gets CISO approval",
+      "Agents breaking sandboxes is a real issue",
+      "OpenAI Daybreak shifts to AI remediation",
+      "Local AI deployment experiments gain traction"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.228 shipped with debug issues",
+      "OpenAI Codex pushed 3 alpha releases",
+      "Gemini CLI navigating post-launch pains",
+      "OpenCode deep in V2 community rewrite",
+      "Grok Build currently dormant",
+      "10 CLI tools covered in digest"
+    ],
+    "ai-agents": [
+      "OpenClaw at very high activity: 500 issues/PRs",
+      "Critical beta publish incident now closed",
+      "383 open issues show aggressive triage",
+      "220 PRs merged vs 280 still open",
+      "12 agent projects covered in digest",
+      "Plugin version alignment now critical"
+    ],
+    "ai-trending": [
+      "Anthropic skills repo hit 485 stars today",
+      "Addy Osmani's agent-skills at 578 stars",
+      "ECC agent harness dominates at 239k stars",
+      "Ponytail agent framework hits 100k stars",
+      "Graph-native memory layers gaining traction",
+      "Open-source coding agent harnesses surge"
+    ],
+    "ai-web": [
+      "OpenAI Daybreak models now on AWS",
+      "Anthropic published no new content today",
+      "OpenAI posted one new index page",
+      "Daybreak may signal new model tier",
+      "No research papers from either lab",
+      "OpenAI sitemap now at 905 articles"
+    ],
+    "ai-hn": [
+      "Meta Muse Glimmer 30B tops HN at 1182 score",
+      "AI eating the web sparks biggest discussion",
+      "Zuckerberg attacks closed AI rivals",
+      "OpenAI ethics chief departs early",
+      "Reasoning-trace extraction papers buzz",
+      "New LLM introspection paper draws interest"
+    ],
+    "ai-arxiv": [
+      "Sparse autoencoder set-level instability found",
+      "New attention-fragility uncertainty signal",
+      "32 LLMs mapped for behavioral evolution",
+      "Multilingual safety gaps explored",
+      "Embodied agent evaluation rises",
+      "Test-time adaptation methods advance"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 dominates video generation charts",
+      "DeepSeek-V4-Flash exceeds 1M downloads",
+      "Kimi-K3 leads with 10,532 likes",
+      "NVIDIA Nemotron 3.5 Lightning released",
+      "Meta Muse-Glimmer-30B trending now",
+      "DeepSeek-V4-Flash now in GGUF format"
+    ],
+    "ai-community": [
+      "Claude text watermark ends undetectable AI",
+      "Tips to make AI agents more predictable",
+      "Kiro Crew security model gets CISO approval",
+      "Agents breaking sandboxes is a real issue",
+      "OpenAI Daybreak shifts to AI remediation",
+      "Local AI deployment experiments gain traction"
+    ]
+  }
+}
