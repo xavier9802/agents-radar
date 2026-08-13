@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex今日Issue数最高达392赞，社区最活跃",
+      "CodeWhale完成品牌迁移，强化MCP协议合规",
+      "GitHub Copilot CLI聚焦MCP生态与Docker稳定性",
+      "Kimi Code CLI以跨会话记忆功能差异化突围",
+      "MCP协议合规成各工具共同攻坚的难题",
+      "Qwen Code desktop版持续迭代至v0.2.1"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时处理500条Issue和500条PR",
+      "修复Code Mode下工具结果过大导致死端问题",
+      "Parallels插件更新后清单收敛问题已解决",
+      "CI重复冷启动依赖重建节省约105秒",
+      "Gateway动态operator scope规则文档已澄清",
+      "多代理编排稳定性仍是社区最大痛点"
+    ],
+    "ai-trending": [
+      "ECC Agent harness优化系统Star总量领跑今日榜单",
+      "Hermes-Agent 24万Star代表个人AI助手新方向",
+      "Orca并行Agent舰队今日新增1235 Star",
+      "Muse Glimmer 30B参数本地Agent模型受关注",
+      "TensorFlow以近19.7万Star稳居基础工具榜首",
+      "金融语言模型Kronos首次登上热榜"
+    ],
+    "ai-web": [
+      "Anthropic发布多Agent系统行为风险研究报告",
+      "揭示Agent大规模协作可能涌现系统性失效",
+      "发布56项再培训RCT元分析实证评估报告",
+      "再培训每次机会平均提升就业率2-3个百分点",
+      "Anthropic技术安全与政策研究双线深化",
+      "OpenAI企业应用页面正文未开放抓取"
+    ],
+    "ai-hn": [
+      "Muse Glimmer 30B参数开源模型今日获1198分",
+      "DeepSeek V4 Pro上线OpenRouter获765分高分",
+      "Grok 4.6发布引发408条评论激烈辩论",
+      "AI淘汰软件工程师中层引发739分激烈讨论",
+      "ClaudeBot被批量仿冒进行漏洞扫描引关注",
+      "C语言极简终端Agent Hax获HN用户青睐"
+    ],
+    "ai-arxiv": [
+      "揭示低资源语言安全对齐存在跨语言迁移漏洞",
+      "提出注意力路径脆弱性作为LLM不确定性信号",
+      "ReRound方法解决校准-free量化中点歧义问题",
+      "刻画32个LLM跨代际行为演化轨迹",
+      "构建金融推理形式化验证基准V-FiLLM",
+      "验证涌现不对齐可归因于预训练persona特征"
+    ],
+    "ai-hf": [
+      "Kimi-K3多模态模型本周获超1万点赞领跑",
+      "DeepSeek-V4-Flash下载量突破百万次",
+      "Qwen3.6无限制微调版下载量突破250万次",
+      "NVIDIA Nemotron 3.5 Lightning首次进热榜",
+      "NVFP4量化激活值仅3B大幅降低显存占用",
+      "MiniMax-H3视频生成生态工具链完整繁荣"
+    ],
+    "ai-community": [
+      "详解本地构建RAG应用无需支付OpenAI费用",
+      "Google Cloud发布Gemini Enterprise Agent部署指南",
+      "DeepSeek V3 MoE模型SGLang部署教程发布",
+      "Agent插件运行时授权问题引发开发者讨论",
+      "两个AI助手安全审查结果对比揭示审查局限",
+      "企业AI权限从静态文档转向运行时强制检查"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.229 released today",
+      "OpenCode pushes v1.18.17 and v1.18.18 in 24h",
+      "Gemini CLI posts a new nightly release",
+      "Multi-agent coordination is the new differentiator",
+      "Stability and session durability top engineering challenges",
+      "DeepSeek TUI and Grok Build enter the ecosystem"
+    ],
+    "ai-agents": [
+      "OpenClaw sees very high activity: 500 issues, 500 PRs",
+      "Code Mode fix for oversized tool results merged",
+      "CI timeout issues resolved in channels test suite",
+      "Plugin-update convergence improvements landed",
+      "Cold dependency rebuild fix merged into CI",
+      "403 open issues remain active in the project"
+    ],
+    "ai-trending": [
+      "Semantica positions as graph-native AI infrastructure",
+      "Kronos builds a purpose-built financial LLM",
+      "Needle delivers a 14 MB on-device edge model",
+      "LTX-2 audio-video generation surges in popularity",
+      "PPT-Master for AI-native PowerPoint authoring trends",
+      "LangChain remains dominant at 144K stars"
+    ],
+    "ai-web": [
+      "Anthropic publishes multiagent systems research paper",
+      "Agent interactions may outpace safety understanding today",
+      "Worker retraining programs show positive AI returns",
+      "OpenAI tracks enterprise AI adoption on new page",
+      "Grok 4.6 scores 61 on Intelligence Index",
+      "$6B Decart acquisition signals consolidation move"
+    ],
+    "ai-hn": [
+      "DeepSeek V4 Pro reignites open vs proprietary debate",
+      "Grok 4.6 draws scrutiny on reasoning and agents",
+      "Community split on whether Grok is incremental",
+      "Debate: is AI erasing the software engineering middle class?",
+      "AI consuming the web resonates with nearly 1K comments",
+      "Academic scrutiny of LLM mathematical reasoning heats up"
+    ],
+    "ai-arxiv": [
+      "SAE set-level instability challenges interpretability conclusions",
+      "ASMI proposes attention-path fragility as uncertainty signal",
+      "Cross-lingual robustness remains unsolved across tasks",
+      "Evaluation-free self-evolving agents compress skills at test time",
+      "Mechanistic interpretability leads today's submissions",
+      "Quantum-classical and causal decision frameworks gain traction"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Flash hits over 1M downloads this week",
+      "Kimi-K3 leads with 10,500+ likes on HF",
+      "MiniMax-H3 video generation family dominates charts",
+      "NVIDIA Lightning uses NVFP4 for 30B-parameter efficiency",
+      "Open-weight strategy drives massive community adoption",
+      "Highly quantized GGUF variants surge in popularity"
+    ],
+    "ai-community": [
+      "Developer role shifts to intent orchestration and design",
+      "Local RAG app avoids OpenAI API costs entirely",
+      "Gemini Enterprise agents deployed on Cloud Run",
+      "AI agent reliability concerns dominate production discussions",
+      "Skepticism grows about benchmark quality and prompt engineering",
+      "Inference costs and access control top infrastructure debates"
+    ]
+  }
+}
