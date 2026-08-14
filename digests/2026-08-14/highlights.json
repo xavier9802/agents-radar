@@ -1,0 +1,126 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.232 日更迭代，MCP集成加速",
+      "OpenAI Codex 极高频更新，日发4个alpha版",
+      "Gemini CLI v0.56.0-nightly日更，与Copilot竞争",
+      "DeepSeek TUI v0.9.7高频更新，27条PR活跃",
+      "OpenCode 20+ PR日增，社区贡献活跃",
+      "Qwen Code日更v0.21.11，国产力量持续发力"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h处理486 Issues，社区极度活跃",
+      "500条PR更新，126条已合并",
+      "修复跨渠道exec审批泄漏安全漏洞",
+      "OpenAI模型发现器改为profile-aware",
+      "记忆系统Phase 1C实现读写隔离",
+      "Control UI请求scope到选定Agent"
+    ],
+    "ai-web": [
+      "Claude将黎曼猜想零点下界提升至67.2%",
+      "Anthropic产出形式化可验证数学证明",
+      "OpenAI发布Ultrafast预览版优化推理",
+      "Dali Rajic出任OpenAI CRO推进商业化",
+      "Anthropic押注形式化验证+专家协同范式",
+      "OpenAI产品性能与企业营收双线推进"
+    ],
+    "ai-hn": [
+      "DeepSeek V4 Pro登顶HN，440条评论热议",
+      "Gemini 3.7 Flash获630分高分关注",
+      "Grok 4.6发布引发607条激烈讨论",
+      "Cerebras与OpenAI合作加速GPT-5.6 Sol推理",
+      "Netlify对比11模型揭示显著输出差异",
+      "Mistral OCR 4.1更新受开发者关注"
+    ],
+    "ai-arxiv": [
+      "长上下文训练可能削弱参数知识揭示悖论",
+      "AI4AI测试时蒸馏实现大模型到小模型转移",
+      "LLM评测结果对token预算高度敏感",
+      "VAKRA基准填补企业智能体多跳推理评估空白",
+      "单LLM模拟器在多智能体中会崩溃",
+      "HYDRA超双曲KAN架构带来基础创新"
+    ],
+    "ai-hf": [
+      "Kimi-K3以10624赞登顶，下载量187万",
+      "DeepSeek-V4-Flash下载量突破140万",
+      "MiniMax-H3视频生成模型霸榜",
+      "Qwen3.6社区微调版下载量近280万",
+      "NVIDIA Nemotron 3.5采用NVFP4量化",
+      "Muse-Glimmer-30B获unsloth社区加持"
+    ],
+    "ai-community": [
+      "AI Agent工具调用审批层开源项目引关注",
+      "AI生成通过全部测试但存在隐蔽缺陷",
+      "MCP C# SDK协议协商锁定关键版本",
+      "MCP无状态化后身份与持久化外溢平台层",
+      "AI Agent记忆系统公平基准设计思路",
+      "AI漏洞判定模式治理误报新思路"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.232 with daily patch cycle",
+      "OpenAI Codex rapid alpha sweep: 4 versions",
+      "Anthropic launches official Claude Code Skills repo",
+      "Gemini CLI ships v0.56.0-nightly builds",
+      "Kimi Code CLI lags with zero community activity",
+      "Copilot CLI releases v1.0.80-1 weekly patch"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 486 issues in heavy bug-triage phase",
+      "374 open PRs exceed 126 merged—growing review backlog",
+      "OpenAI model discovery now respects auth-profile order",
+      "P1 issues plague session reliability and subagent orchestration",
+      "No new releases—project in maintenance-focused window",
+      "Backup stall on large directories marked already-fixed"
+    ],
+    "ai-trending": [
+      "Anthropic releases first-party Claude Code Skills repo",
+      "needle: 14MB on-device model surges in popularity",
+      "headroom library achieves 60-95% token compression",
+      "semantica brings graph-native AI context infrastructure",
+      "local-first AI gaining traction with FluidVoice and modly",
+      "RAGFlow and Vectorless RAG challenge traditional stores"
+    ],
+    "ai-web": [
+      "Claude improves Riemann hypothesis bound to 67.2%",
+      "Claude produced formally verifiable mathematical proof",
+      "OpenAI announces 'Ultrafast' model or product name",
+      "Dali Rajic named OpenAI Chief Revenue Officer",
+      "Anthropic research version outperforms public Claude",
+      "AI-assisted math proof validated by external experts"
+    ],
+    "ai-hn": [
+      "DeepSeek V4 Pro 0813 tops HN with 1017 score",
+      "Google releases Gemini 3.7 Flash model",
+      "xAI launches Grok 4.6 amid frontier plateau debate",
+      "OpenAI's 'Ultrafast' sparks GPT-5.6 speculation",
+      "AI text watermarking reignites detectability debate",
+      "The Walrus AI-eating-the-internet hits near 1000 comments"
+    ],
+    "ai-arxiv": [
+      "Test-time capability transfer avoids costly updates",
+      "Long-context training undermines parametric knowledge",
+      "Simulator collapse documented in multi-agent RL",
+      "Hybrid attention reveals 'massive activation' patterns",
+      "New benchmark tests multi-hop API-tool reasoning",
+      "Query-aware caching improves RAG efficiency"
+    ],
+    "ai-hf": [
+      "Kimi-K3 tops HF with 10,600 weekly likes",
+      "DeepSeek V4 Flash hits 1.4M downloads this week",
+      "NVIDIA releases NVFP4 quantized Nemotron variant",
+      "MiniMax-H3 ecosystem surpasses 10M video downloads",
+      "Kimi-K3 reaches 1.87M total downloads",
+      "NVIDIA Nemotron Lightning targets constrained hardware"
+    ],
+    "ai-community": [
+      "New gatekeeper tool enforces AI agent trust boundaries",
+      "AI code passed all tests but broke in production",
+      "MCP C# SDK authors urge pinning to July 28 protocol",
+      "Agent protocol negotiation risks silent behavior changes",
+      "Benchmark fairness questioned for agent systems",
+      "EC2 GPU reports and 16-year SQLite bug resurface"
+    ]
+  }
+}
