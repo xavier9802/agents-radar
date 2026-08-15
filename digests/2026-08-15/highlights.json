@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.233新增GitLab MR支持",
+      "OpenAI Codex发布5个版本修复Windows性能回归",
+      "Gemini CLI v0.56.0修复PTY泄漏与超时控制",
+      "Kimi Code CLI记忆系统需求高涨，单Issue 39条评论",
+      "OpenCode紧急修复48-bit ID溢出Bug",
+      "DeepSeek TUI v0.9.8品牌迁移为CodeWhale"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时500条Issue与PR高度活跃",
+      "修复cron任务添加第二个Agent后全部失败的问题",
+      "限制Gateway worker bundle缓存无限增长",
+      "新增插件安装策略交互式确认安全机制",
+      "修复长会话branches.list阻塞约12秒性能问题",
+      "Silent reply failures Issue获94条评论持续热议"
+    ],
+    "ai-trending": [
+      "GitHub spec-kit单日新增1160星领跑今日",
+      "unsloth +501星反映本地微调需求回暖",
+      "ollama以178,512星持续领跑本地LLM部署",
+      "智能体生态与边缘部署成今日双主线",
+      "claude-mem持久记忆工具进入视野",
+      "RAG向量数据库赛道milvus qdrant lancedb并列头部"
+    ],
+    "ai-web": [
+      "Claude文本水印技术详解，满足欧盟AI法案合规",
+      "Anthropic发布56项RCT元分析评估再培训效果",
+      "水印方案不影响输出质量且不增加token成本",
+      "再培训人均成本约1.3万美元，政府可回收超一半",
+      "Anthropic以透明化策略抢占AI合规话语权",
+      "多家主要AI提供商签署同一行为准则推进协同"
+    ],
+    "ai-hn": [
+      "GLM-5.3获1028分霸榜，强调涌现式代码能力",
+      "DeepSeek V4 Pro上线OpenRouter获1027分",
+      "Gemini 3.7 Flash发布引中西模型对比热",
+      "Cerebras与OpenAI合作加速GPT-5.6推理",
+      "Netlify用同一prompt测11模型结果差异极大",
+      "GLM-5.3评论区对网络能力评价两极分化"
+    ],
+    "ai-hf": [
+      "Kimi-K3以10675赞领跑，周下载近200万",
+      "Qwen3.8-27B获9026赞，官方首发潜力大",
+      "DeepSeek V4 Flash周下载超160万，社区落地最大",
+      "Qwen3.8-2.4T MoE达2.4万亿参数规模天花板",
+      "NVIDIA推出NVFP4与BF16双版本轻量化模型",
+      "MiniMax-H3视频生成模型下载量突破199万"
+    ],
+    "ai-community": [
+      "向量数据库无法满足AI持久记忆的完整需求",
+      "Antigravity工具半天复活废弃开源项目",
+      "OpenAI Verified Defenders计划引发权限争议",
+      "非程序员用AI代理将作品集构建为MCP服务器",
+      "Gemini 3.7 Flash实现照片转短视频自动化",
+      "多数开发者从未审计过OpenAI账单"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code released v2.1.233 today",
+      "OpenAI Codex shipped 5 alpha versions",
+      "Gemini CLI hit v0.56.0-nightly",
+      "GitHub Copilot CLI released v1.0.81-0",
+      "Qwen Code released v0.21.12 preview",
+      "Pi agent reached v0.84.2 release"
+    ],
+    "ai-agents": [
+      "OpenClaw saw 500 issues and 500 PRs in 24h",
+      "Gateway memory growth and session corruption plague OpenClaw",
+      "WhatsApp, LINE, Telegram message delivery still failing",
+      "Agent-less cron schedules break when agent added",
+      "OpenClaw merged 100 PRs today but only 15 issues closed",
+      "Latest beta refs: 2026.7.2-beta.7, no new releases"
+    ],
+    "ai-trending": [
+      "14MB edge foundation model 'needle' gained 662 stars",
+      "Unsloth added local UI for LLM and diffusion training",
+      "Semantica graph-native AI gained 1,181 stars rapidly",
+      "GitHub Spec-kit for spec-driven dev hit 1,160 stars",
+      "Claude Code–centric agent tooling surging in popularity",
+      "RAG plus graph-native context layers gaining traction"
+    ],
+    "ai-web": [
+      "Anthropic detailed Claude's text watermarking system",
+      "Watermarking operates at token level with no detectable changes",
+      "Anthropic confirmed cross-industry EU AI Act Code of Practice",
+      "Anthropic published worker retraining economic research",
+      "OpenAI posted zero new content today",
+      "Watermark carries no identifiable user or org information"
+    ],
+    "ai-hn": [
+      "GLM-5.3 frontier coding model drew 1028 HN points",
+      "DeepSeek V4 Pro 0813 sparked 1027 points of discussion",
+      "Google Gemini 3.7 Flash hit 948 points on HN",
+      "Google breakthrough on homomorphic encryption for private AI",
+      "OpenAI pre-IPO turbulence with talent exodus reports",
+      "Community debating whether AI capabilities are plateauing"
+    ],
+    "ai-hf": [
+      "Kimi-K3 leads with 10,675 weekly likes and 1.97M downloads",
+      "Qwen3.8-27B amassed 9,026 likes despite few downloads",
+      "DeepSeek-V4-Flash-0731 hit 1.6M downloads milestone",
+      "MiniMax-H3 dominates video generation with 2M downloads",
+      "Chinese lab open models dominate the top 30 rankings",
+      "GGUF, FP8, and NVFP4 quant variants appearing side by side"
+    ],
+    "ai-community": [
+      "Vector databases alone can't solve durable agent memory",
+      "Nobody audits their OpenAI invoice for hidden costs",
+      "New tool checks whether your eval suite actually measures anything",
+      "DeepSeek token limit experiment sparks practical discussion",
+      "Turning a portfolio into an MCP server gains attention",
+      "Engineering experience now matters more than raw stack familiarity"
+    ]
+  }
+}
