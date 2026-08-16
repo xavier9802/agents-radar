@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "三巨头格局形成：Codex、Claude Code、Gemini CLI领跑",
+      "DeepSeek TUI v0.9.8收尾，24h 19条PR活跃",
+      "OpenAI Codex α.20发布，Windows性能修复",
+      "Qwen Code preview.5，审查流水线批量修复",
+      "长会话稳定性成共性痛点：压缩、OOM、进程泄漏",
+      "Grok Build无活动，社区焦点转向稳定性与成本"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.1-beta.2发布，500条Issue/PR",
+      "Secret egress host binding安全加固上线",
+      "新增GPT-5.6 Ultra模型运行时切换支持",
+      "修复Chrome扩展relay重连后标签页丢失",
+      "Telegram消息重复渲染问题修复",
+      "消息丢失与Gateway内存泄漏仍需攻坚"
+    ],
+    "ai-trending": [
+      "Cursor官方插件规范仓库首发，+149星",
+      "GitHub spec-kit工具包+892星增长迅猛",
+      "14MB端侧基础模型needle探索极致轻量化",
+      "ego-lite浏览器自动化工具+545星",
+      "Hermes Agent星标超23万，最热Agent Harness",
+      "ECC性能优化系统超24万星遥遥领先"
+    ],
+    "ai-web": [
+      "Anthropic首发多智能体系统安全研究",
+      "Claude文本水印技术落地合规EU AI Act",
+      "水印方法不影响文本质量且无额外token成本",
+      "多家AI厂商签署跨行业标准行为准则",
+      "OpenAI今日无新增内容处于议题跟随",
+      "Anthropic从单模型安全扩展至多智能体安全"
+    ],
+    "ai-hn": [
+      "GLM-5.3发布标注emergent cyber capabilities，561评论",
+      "Gemini 3.7 Flash获960分490评论热议",
+      "DeepSeek V4 Pro 0813在OpenRouter上线引关注",
+      "Cerebras联合OpenAI优化GPT-5.6 Sol推理速度",
+      "Mistral OCR 4.1更新，社区关注文档解析",
+      "与AI协作更像领导力而非编码成热门观点"
+    ],
+    "ai-hf": [
+      "Kimi-K3以10728点赞登顶，下载量210万",
+      "Qwen3.8-27B获9810点赞持续发力",
+      "Qwen3.8-2.4T-A95B MoE旗舰双路线齐发",
+      "DeepSeek-V4-Flash下载量近180万",
+      "NVIDIA Nemotron 3.5 Lightning NVFP4量化版",
+      "LiquidAI LFM2.5-2.6B新型架构轻量模型"
+    ],
+    "ai-community": [
+      "4200次实验揭示LLM Agent可靠性系统性陷阱",
+      "Qwen3.8-2.4T MoE模型vLLM部署实战分享",
+      "印度金融语音Agent项目10天上线获关注",
+      "MCP安全漏洞与OpenAI透明度承诺引警惕",
+      "评估LLM时'看起来不错'不是有效指标",
+      "AI代理治理：从能不能跑到能不能信"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "OpenAI Codex ships Rust SDK alpha v0.148.0",
+      "Gemini CLI drops nightly v0.56.0 update",
+      "Claude Code has 10 hot issues, no recent release",
+      "Qwen Code released 2 new versions today",
+      "MCP security hardening now urgent across tools",
+      "Windows parity remains top cross-tool friction"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.1-beta.2 adds secret egress binding",
+      "OpenClaw shows 500 PRs updated in 24h",
+      "OpenClaw beta adds GPT-5.6 Ultra runtime switch",
+      "Issue #121058 hits 96 comments on silent-reply bug",
+      "OpenClaw scaling to multi-agent deployments",
+      "12 projects tracked across OpenClaw ecosystem"
+    ],
+    "ai-trending": [
+      "Cactus-compute/needle: 14MB foundation model surges",
+      "ECC leads agent harnesses with 240k+ stars",
+      "Claude-mem hits 90k+ stars for session memory",
+      "On-device inference moving to production tools",
+      "Agent-native CLI tooling topping trending lists",
+      "FluidVoice brings local STT with AI enhancement"
+    ],
+    "ai-web": [
+      "Anthropic publishes multiagent safety research paper",
+      "Claude text watermarking announced for EU AI Act",
+      "OpenAI posted zero new content today",
+      "Anthropic shifts focus to emergent multiagent risks",
+      "Frontier Red Team examines systemic agent failures",
+      "Watermarking avoids degrading output quality"
+    ],
+    "ai-hn": [
+      "GLM-5.3 tops HN with 1140 points, 561 comments",
+      "DeepSeek V4 Pro scores 1032 on HN discussions",
+      "Gemini 3.7 Flash sparks massive community debate",
+      "Google breakthrough in homomorphic encryption for AI",
+      "OpenAI talent exodus ahead of IPO draws attention",
+      "AI coding now debated as leadership skill"
+    ],
+    "ai-hf": [
+      "Kimi-K3 leads HF with 10,728 likes, 2.1M downloads",
+      "Qwen3.8-27B tops language model category in likes",
+      "DeepSeek V4 Flash hits 1.8M downloads",
+      "MiniMax-H3 surges with 12.7M ComfyUI downloads",
+      "Three quant variants now standard per major model",
+      "Chinese open-weight LLMs capturing global attention"
+    ],
+    "ai-community": [
+      "4,200 LLM agent reliability trials reveal what broke",
+      "MCP signing vulnerabilities surface in security talk",
+      "FinEd Saathi: 10-day financial literacy voice agent",
+      "AI badge limits questioned under EU AI Act rules",
+      "Fine-tuning vs RAG vs prompting decision framework",
+      "OpenAI verified-defender access sparks controversy"
+    ]
+  }
+}
