@@ -1,0 +1,86 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Qwen Code活跃度登顶，v0.21.11修复agent-team核心缺陷",
+      "Claude Code支持MCP draft-07兼容，安全glob修复上线",
+      "OpenAI CodexWindows稳定性修复潮，codex doctor增强",
+      "Gemini CLI发版v0.56.0，子代理恢复与--list-models新增",
+      "DeepSeek TUI终版v0.9.8发布，bwrap沙箱扩展上线",
+      "OpenCode计费逻辑引争议，Desktop渲染优化推进"
+    ],
+    "ai-agents": [
+      "OpenClaw日更500条Issue/PR，消息丢失成最大痛点",
+      "控制面轮询卡顿P1修复已就绪，多秒级UI停滞待解",
+      "Gateway性能分析数据发布，事件循环热点基准出炉",
+      "安装策略警告需人工确认，安全升级收紧权限",
+      "Agent创建溯源保留，解决委托工具来源被覆盖问题",
+      "Zod类型验证重构Wave2上线，持久化边界统一校验"
+    ],
+    "ai-trending": [
+      "Unsloth今日狂揽572星，全面适配Qwen3.8与DeepSeek-V4",
+      "14MB微型模型needle直击手机端与机器人场景",
+      "ToolJet企业App平台今日增452星，Agent需求旺盛",
+      "DeepSeek-Reasonix编程Agent超3.4万星，支持长时挂机",
+      "无向量纯推理RAG工具PageIndex快速获关注",
+      "vLLM以8.9万星领跑本地推理引擎，持续巩固首选地位"
+    ],
+    "ai-hf": [
+      "Kimi-K3周赞破万，下载量超213万居榜单榜首",
+      "Qwen3.8-27B周赞破万，支持图文多模态对话",
+      "MiniMax-H3视频生成模型下载量超230万领跑",
+      "Qwen3.8-2.4T-A95B超大MoE模型专为高吞吐场景设计",
+      "DeepSeek-V4-Pro旗舰推理版本对标顶级闭源模型",
+      "NVIDIA Nemotron 30B采用NVFP4量化兼顾显存效率"
+    ],
+    "ai-community": [
+      "LLM直出图表无需碰像素，AI前端新范式引关注",
+      "AI工程师2026书单发布，10本核心书籍覆盖RAG与Agent",
+      "Kimi K3部署难在工程不在参数，基础设施优化是关键",
+      "Rust构建MCP服务器教程发布，rmcp框架上手指南",
+      "LLM调用真实API的安全边界设计，Agent防护新思路",
+      "TypeScript多Agent系统构建实践，突破上下文窗口限制"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Qwen Code活跃度登顶，v0.21.11修复agent-team核心缺陷",
+      "Claude Code支持MCP draft-07兼容，安全glob修复上线",
+      "OpenAI CodexWindows稳定性修复潮，codex doctor增强",
+      "Gemini CLI发版v0.56.0，子代理恢复与--list-models新增",
+      "DeepSeek TUI终版v0.9.8发布，bwrap沙箱扩展上线",
+      "OpenCode计费逻辑引争议，Desktop渲染优化推进"
+    ],
+    "ai-agents": [
+      "OpenClaw日更500条Issue/PR，消息丢失成最大痛点",
+      "控制面轮询卡顿P1修复已就绪，多秒级UI停滞待解",
+      "Gateway性能分析数据发布，事件循环热点基准出炉",
+      "安装策略警告需人工确认，安全升级收紧权限",
+      "Agent创建溯源保留，解决委托工具来源被覆盖问题",
+      "Zod类型验证重构Wave2上线，持久化边界统一校验"
+    ],
+    "ai-trending": [
+      "Unsloth今日狂揽572星，全面适配Qwen3.8与DeepSeek-V4",
+      "14MB微型模型needle直击手机端与机器人场景",
+      "ToolJet企业App平台今日增452星，Agent需求旺盛",
+      "DeepSeek-Reasonix编程Agent超3.4万星，支持长时挂机",
+      "无向量纯推理RAG工具PageIndex快速获关注",
+      "vLLM以8.9万星领跑本地推理引擎，持续巩固首选地位"
+    ],
+    "ai-hf": [
+      "Kimi-K3周赞破万，下载量超213万居榜单榜首",
+      "Qwen3.8-27B周赞破万，支持图文多模态对话",
+      "MiniMax-H3视频生成模型下载量超230万领跑",
+      "Qwen3.8-2.4T-A95B超大MoE模型专为高吞吐场景设计",
+      "DeepSeek-V4-Pro旗舰推理版本对标顶级闭源模型",
+      "NVIDIA Nemotron 30B采用NVFP4量化兼顾显存效率"
+    ],
+    "ai-community": [
+      "LLM直出图表无需碰像素，AI前端新范式引关注",
+      "AI工程师2026书单发布，10本核心书籍覆盖RAG与Agent",
+      "Kimi K3部署难在工程不在参数，基础设施优化是关键",
+      "Rust构建MCP服务器教程发布，rmcp框架上手指南",
+      "LLM调用真实API的安全边界设计，Agent防护新思路",
+      "TypeScript多Agent系统构建实践，突破上下文窗口限制"
+    ]
+  }
+}
