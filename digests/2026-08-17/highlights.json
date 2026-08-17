@@ -39,24 +39,26 @@
       "Rust构建MCP服务器教程发布，rmcp框架上手指南",
       "LLM调用真实API的安全边界设计，Agent防护新思路",
       "TypeScript多Agent系统构建实践，突破上下文窗口限制"
+    ],
+    "ai-weekly": [
+      "Anthropic发布Claude Sonnet 5，Agentic能力逼近Opus 4.8",
+      "OpenAI Daybreak模型正式上线AWS云平台",
+      "Meta开源Muse Glimmer 30B，HN获1047分热议",
+      "Docker发布AI Agent专用隔离沙箱产品",
+      "GLM-5.3/Gemini 3.7/DeepSeek V4 Pro同日发布",
+      "Claude文本水印技术签署跨厂商Code of Practice"
     ]
   },
   "en": {
     "ai-cli": [
-      "Qwen Code活跃度登顶，v0.21.11修复agent-team核心缺陷",
-      "Claude Code支持MCP draft-07兼容，安全glob修复上线",
-      "OpenAI CodexWindows稳定性修复潮，codex doctor增强",
-      "Gemini CLI发版v0.56.0，子代理恢复与--list-models新增",
-      "DeepSeek TUI终版v0.9.8发布，bwrap沙箱扩展上线",
-      "OpenCode计费逻辑引争议，Desktop渲染优化推进"
+      "DeepSeek TUI v0.9.8 released with brand migration",
+      "Qwen Code v0.21.11 most active CLI tool this week",
+      "OpenClaw v2026.8.1-beta.2 adds egress security"
     ],
     "ai-agents": [
-      "OpenClaw日更500条Issue/PR，消息丢失成最大痛点",
-      "控制面轮询卡顿P1修复已就绪，多秒级UI停滞待解",
-      "Gateway性能分析数据发布，事件循环热点基准出炉",
-      "安装策略警告需人工确认，安全升级收紧权限",
-      "Agent创建溯源保留，解决委托工具来源被覆盖问题",
-      "Zod类型验证重构Wave2上线，持久化边界统一校验"
+      "Anthropic reveals multiagent failure cascades",
+      "Claude Sonnet 5 is Anthropic's most agentic",
+      "GLM-5.3/Gemini 3.7/DeepSeek V4 dominate HN"
     ],
     "ai-trending": [
       "Unsloth今日狂揽572星，全面适配Qwen3.8与DeepSeek-V4",
