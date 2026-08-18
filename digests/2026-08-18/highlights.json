@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenCode 单日 50 issues/PRs 领跑全生态",
+      "Claude Code 发布 v2.1.234 修复回归问题",
+      "MCP 集成成为跨平台竞争核心焦点",
+      "Gemini CLI v0.56.0-nightly 保持高频迭代",
+      "DeepSeek TUI v0.9.9 强化代理系统能力",
+      "工具差异化转向平台兼容与计费透明度"
+    ],
+    "ai-agents": [
+      "OpenClaw 单日处理 500 条 issues 与 PRs",
+      "修复 Slack 进度消息残留关键 bug",
+      "修复 result middleware 消息投递丢失问题",
+      "修复 Gateway 子代理重复重试循环",
+      "安装策略警告审查 UI 增强安全透明",
+      "多 Agent 并行能力持续推进中"
+    ],
+    "ai-trending": [
+      "Agent 记忆与上下文管理成爆发焦点",
+      "MoneyPrinterTurbo 单日涨 1189 stars 领跑",
+      "ollama 突破 17.8 万 star 持续领跑",
+      "vllm 达 8.9 万 star 成推理引擎核心",
+      "AI 安全工具首次密集登上热榜",
+      "ECC 项目 24 万 star 聚焦 Agent 性能优化"
+    ],
+    "ai-web": [
+      "Anthropic 官网今日零更新进入静默期",
+      "OpenAI 参与港口基础设施项目",
+      "OpenAI 文章正文暂未获取到",
+      "Anthropic 或处于新品发布前窗口期",
+      "OpenAI 加速向传统行业渗透",
+      "两家均无安全政策类新内容发布"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 视频模型登顶下载榜超 240 万",
+      "Qwen3.8 系列构建最完整开源生态链",
+      "DeepSeek-V4-Flash 下载量近 200 万居第二",
+      "Kimi K3 周赞超 1 万下载量 216 万",
+      "NVIDIA Nemotron 采用 NVFP4 极致量化",
+      "多模态爆发与效率量化成双主线"
+    ],
+    "ai-community": [
+      "AI 编码风险转向理解已部署代码",
+      "MCP 评估方法成开发者关注焦点",
+      "加单工具竟导致 prompt 缓存全量失效",
+      "Docker 发布供应链安全五项建议",
+      "实验证明直接给模型 SQL 更易出错",
+      "CI 中捕获 agent 失败调用成关键议题"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.234 released with minor features",
+      "OpenAI Codex alpha increment: rust-v0.148.0-alpha.21",
+      "Gemini CLI v0.56.0-nightly updated with 11 PRs",
+      "Qwen Code v0.21.13 released for niche workflows",
+      "Pi saw 10 hot issues and 10 PRs in 24h",
+      "Subagent reliability the top challenge across tools"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues and 500 PRs in 24h",
+      "Focus on session-state reliability fixes",
+      "Codex integration regressions being patched",
+      "Plugin compatibility errors now labeled correctly",
+      "Control-UI review flow added for security",
+      "Subagent settle-wake dispatch deferred to gateway"
+    ],
+    "ai-trending": [
+      "langchain-ai/langchain leads at 144K stars",
+      "ollama/ollama hits 178K stars as top local LLM",
+      "vllm-project/vllm at 89K for inference serving",
+      "Hermes-Agent reaches 232K stars milestone",
+      "ECC surges to 240K stars in agent harness space",
+      "MoneyPrinterTurbo hits 106K stars for video gen"
+    ],
+    "ai-web": [
+      "OpenAI joins Ports Pike Project initiative",
+      "No new Anthropic content published today",
+      "Single OpenAI announcement with metadata only",
+      "Low release cadence from both companies today",
+      "Possible quiet period before major updates",
+      "Article text unavailable for deeper analysis"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol pricing cut by 50% sparks debate",
+      "GPT-5.6 Sol called best OpenAI vision model yet",
+      "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "Dario Amodei AI regulation tweet has 498 comments",
+      "John Gruber's 673-comment Claude watermarking takedown",
+      "Copilot autofix vuln compromised Snowflake Jira"
+    ],
+    "ai-community": [
+      "AI coding risk is shipping code you can't explain",
+      "MCP evals often pass unit tests but fail in wild",
+      "Coding agents got boring when they became reliable",
+      "Dev.to guides on catching agent failures in CI",
+      "Lobste.rs discusses Amazon AI training facility",
+      "OpenAI-Hugging Face security incident discussed"
+    ]
+  }
+}
