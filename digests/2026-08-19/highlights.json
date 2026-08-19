@@ -1,0 +1,126 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.235发布，社区Issue热度超20条",
+      "OpenAI Codex v0.148.0/v0.149.0-alpha.1双版本发布",
+      "Gemini CLI v0.56.0持续迭代，PR合并近50条",
+      "GitHub Copilot CLI v1.0.81更新，进入Top 10",
+      "多智能体协作与MCP集成成主流工具共同关注方向",
+      "Kimi Code CLI等中小工具通过垂直场景寻求差异化突破"
+    ],
+    "ai-agents": [
+      "OpenClaw保持极高活跃度，24小时500条Issues与PRs",
+      "auth认证修复PR已合并，避免误清除有效凭据",
+      "session状态管理与SQLite事务阻塞成P0级关注点",
+      "Gateway重启恢复等关键路径得到改进",
+      "iOS/macOS原生连接失败错误可见性提升",
+      "当前为2026.7.x版本周期，无新版本发布"
+    ],
+    "ai-trending": [
+      "MoneyPrinterTurbo单日暴涨2304星登顶Trending榜首",
+      "Agent记忆层项目ai-memory等集中涌现成热点",
+      "jundot/omlx支持Apple Silicon推理获370星增长",
+      "esengine/DeepSeek-Reasonix原生Agent关注度高",
+      "Rust语言在AI基础设施领域加速渗透",
+      "ollama与vLLM持续领跑本地LLM部署赛道"
+    ],
+    "ai-web": [
+      "Claude成功设计14个蛋白结合剂，成功率超行业均值",
+      "Claude Opus 5仅需23分钟完成核磁共振解析任务",
+      "Anthropic持续强化AI for Science垂直场景叙事",
+      "OpenAI与Codeai达成合作，生态布局再下一子",
+      "OpenAI发布青少年版ChatGPT，合规设计引关注",
+      "OpenAI公布网络安全能力 pacing 政策框架"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol在OpenRouter与Devin平台大幅降价引热议",
+      "Copilot Autofix漏洞曝光推高安全焦虑",
+      "OpenAI暂停前沿模型训练引发社区讨论",
+      "Google收购Spirit航空数据触及数据主权争议",
+      "AI推理成本骤降推动普惠化期待升温",
+      "五国联合发布自治AI安全指南，合规门槛提升"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以11,148点赞位居榜单榜首",
+      "Kimi-K3获10,826点赞，下载量超220万",
+      "DeepSeek-V4-Pro与Flash双版本并列榜单中段",
+      "MiniMax-H3视频模型下载量突破280万次",
+      "NVIDIA Nemotron MoE模型NVFP4量化引关注",
+      "FP8/GGUF量化活跃度极高，端侧部署需求升温"
+    ],
+    "ai-community": [
+      "COSP让LLM自我评估输出成提示工程新技巧",
+      "Google AI分享评估设计方法论：先清晰后可视化",
+      "Kiro Crew App五分钟内快速构建Agent应用教程走红",
+      "本地语音识别因隐私与成本优势受开发者青睐",
+      "五国联合发布自治AI Agent安全指南",
+      "多Agent协作交接模式引发工程实践讨论"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.235 ships today",
+      "OpenAI Codex releases v0.148.0",
+      "Gemini CLI gets v0.56.0-nightly",
+      "Copilot CLI hits v1.0.81-1",
+      "DeepSeek TUI ships new release",
+      "OpenCode and Pi report 10 hot issues"
+    ],
+    "ai-agents": [
+      "OpenClaw processed 500 issues in 24h",
+      "98 PRs merged during stability push",
+      "Security policy now requires confirm",
+      "Session-state bugs dominate tracker",
+      "Diamond-rated bugs in event loop",
+      "Plugin install needs operator confirm"
+    ],
+    "ai-trending": [
+      "omlx hits 370 stars in one day",
+      "Rig Rust framework at 8.3k stars",
+      "DeepSeek-Reasonix reaches 34.8k stars",
+      "Three new agent harnesses trend",
+      "OpenViking adds self-evolving memory",
+      "Local Apple Silicon inference rises"
+    ],
+    "ai-web": [
+      "Claude designed binders for 14 of 15 targets",
+      "Claude Opus 5 matches lab NMR in 25min",
+      "OpenAI publishes 5 new articles",
+      "Teen-focused product expansion noted",
+      "Claude accelerates drug discovery",
+      "Protein binder affinity doubles results"
+    ],
+    "ai-hn": [
+      "OpenAI hacking Hugging Face discussed",
+      "Norway buy OpenAI sparks 228 comments",
+      "GPT-5.6 Sol drops 70% across providers",
+      "Copilot autofix breached Snowflake Jira",
+      "GLM-5.3 benchmarks hit Artificial Analysis",
+      "Google buys Spirit Airlines data for AI"
+    ],
+    "ai-arxiv": [
+      "Robot manipulation via transition memory",
+      "Model hypnosis via subliminal prompt cues",
+      "Incremental memory for long-context建模",
+      "Neurosymbolic methods for multi-agent",
+      "Historical backtesting benchmark introduced",
+      "Symbolic regression for auto discovery"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B tops likes at 11,148",
+      "Kimi-K3 surges to 10,826 likes",
+      "MiniMax-H3 hits 2.8M downloads",
+      "DeepSeek-V4-Flash at 3.5k likes",
+      "GGUF and FP8 quantization diversity grows",
+      "Qwen3.8 family dominates Hugging Face"
+    ],
+    "ai-community": [
+      "COSP lets LLM grade its own outputs",
+      "Google on designing clear AI evals",
+      "Kiro Crew app built in 5 minutes",
+      "Amazon AI training data pipeline exposed",
+      "MCP server tutorials trend on Dev.to",
+      "Token cost traps plague agent systems"
+    ]
+  }
+}
