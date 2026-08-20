@@ -1,0 +1,132 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.237发布，简洁输出风格上线",
+      "OpenAI Codex强化安全信任链，重构Git命令分类",
+      "Gemini CLI支持Gemini 3.x Flash，修复子代理恢复",
+      "Qwen Code v0.21.14全量通过SWE-bench评测",
+      "OpenCode社区最活跃，Issues和PR均达50条",
+      "GitHub Copilot CLI高频迭代，MCP权限问题集中爆发"
+    ],
+    "ai-agents": [
+      "OpenClaw单日500 Issues/500 PRs保持极高活跃度",
+      "v2026.8.1-beta.2进入Release Validation阶段",
+      "Docker latest标签曾回退引发用户报警",
+      "重构llama.cpp provider统一服务路径",
+      "Skill Workshop更新后路由描述丢失问题修复",
+      "新增安装策略警告确认机制提升安全性"
+    ],
+    "ai-trending": [
+      "MoneyPrinterTurbo单日+2221 stars强势登顶热榜",
+      "jundot/omlx专注Apple Silicon LLM推理",
+      "OpenViking解决多Agent上下文管理痛点",
+      "mattpocock/skills单日+1894 stars引爆技能框架",
+      "DeepSeek-Reasonix获34878 stars领跑终端AI代理",
+      "rig Rust框持续渗透AI工具链生态"
+    ],
+    "ai-web": [
+      "OpenAI推出零数据保留政策面向企业客户",
+      "ChatGPT广告业务向欧洲全面扩展",
+      "Anthropic今日无新增官方内容发布",
+      "OpenAI聚焦企业合规与商业化双线布局"
+    ],
+    "ai-hn": [
+      "GLM-5.3基准测试引发国产模型性能热议",
+      "Unsloth动态GGUF 3.0提升本地部署效率",
+      "Claude手写macOS驱动故事获311分218评",
+      "OpenRouter并入Stripe引发AI支付标准化讨论",
+      "Cerebras CS-4发布引爆硬件算力热点",
+      "Ornith自改进框架展示AI自主迭代新路径"
+    ],
+    "ai-arxiv": [
+      "研究揭示AI自我训练仍缺关键执行能力",
+      "量化后训练放大LLM主动干扰效应",
+      "安全对齐过度压制视觉 grounding 能力",
+      "测试时推理在代码外领域收益受限",
+      "翻译评估存在可读性与忠实性鸿沟",
+      "提出LLM提示敏感性交互效应评估方法"
+    ],
+    "ai-hf": [
+      "Kimi-K3获10854赞超228万次下载",
+      "Qwen3.8-27B获11487赞超100万次下载",
+      "MiniMax-H3视频生成模型下载突破300万",
+      "Qwen3.8量化版被社区密集搬运微调",
+      "DeepSeek-V4-Pro进入热门榜单前列",
+      "本地化部署与自由化微调趋势强劲"
+    ],
+    "ai-community": [
+      "Agent记忆缺乏权威分层被指核心缺陷",
+      "Qwen3.8-27B视觉语言模型深度技术解析",
+      "Prompt Caching可节省70-90% LLM账单",
+      "5个AI引擎对同一项目评估结论不一致",
+      "Claude辅助编程后代码量自然下降引反思",
+      "数据溯源与AI训练隐私安全引社区热议"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.237 released with high AGENTS.md engagement",
+      "OpenAI Codex ships rust v0.149.0-alpha",
+      "10 AI CLI tools tracked across major vendors",
+      "Packaging instability eroding trust in Claude Code",
+      "CLI ecosystem consolidating around security and reliability",
+      "Focus on agent hangs, token leakage, session persistence fixes"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs updated in 24h",
+      "38 issues closed and 81 PRs merged in single day",
+      "v2026.8.1-beta.2 validation in active community testing",
+      "462 open issues remain in substantial backlog",
+      "llama-cpp server paths consolidated into one provider",
+      "endpoint auth transitions made reproducible"
+    ],
+    "ai-trending": [
+      "MoneyPrinterTurbo surges with +2,221 new stars",
+      "Claude Code skills dominate agent harness wave",
+      "OpenViking offers self-evolving context database",
+      "ollama reaches 178,987 stars with Kimi-K2.6 support",
+      "PageIndex pursues vectorless reasoning-based RAG",
+      "omlx brings Apple Silicon LLM inference server"
+    ],
+    "ai-web": [
+      "OpenAI announces zero-data-retention for frontier models",
+      "ChatGPT ads expand across European markets",
+      "Anthropic posts no new content today",
+      "OpenAI sitemap totals 918 indexed articles",
+      "Dual strategy: enterprise privacy and consumer ads",
+      "Duplicate crawl entries noted in metadata"
+    ],
+    "ai-hn": [
+      "Ornith-1.5 enables self-improving agent architecture",
+      "Japan mandates AI training data disclosure",
+      "US warns of AI-powered PLC attacks",
+      "Cerebras CS-4 launch signals inference consolidation",
+      "OpenRouter acquisition by Stripe reported",
+      "Mathematics in the age of AI sparks 123 comments"
+    ],
+    "ai-arxiv": [
+      "Test-time scaling bottleneck is exploitation, not exploration",
+      "AI post-training conflates execution with design and planning",
+      "bitsandbytes quantization amplifies proactive interference",
+      "Field maturing toward reliability and real-world robustness",
+      "Hallucination mitigation and verification autonomy prioritized",
+      "AI-for-AI recursive self-improvement pipelines rising"
+    ],
+    "ai-hf": [
+      "Kimi-K3 leads with 10,854 weekly likes",
+      "DeepSeek-V4-Flash hits 2.33M downloads",
+      "Qwen3.8-27B family dominates quantization variants",
+      "MiniMax-H3 ComfyUI port exceeds 15M downloads",
+      "MiniMax-Music3 tops text-to-music trending",
+      "DeepSeek-V4-Pro-0813 released in August 2026"
+    ],
+    "ai-community": [
+      "Agent memory architecture and debugging shared",
+      "Qwen3.8-27B and Gemma 4 on TPU deployment tips",
+      "Open-weight model deployment guides popular",
+      "Invoice auditing for LLM cost optimization discussed",
+      "Investigative piece on AI training data sourcing sparks debate",
+      "Constraints shape better AI engineering outcomes, developer argues"
+    ]
+  }
+}
