@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Gemini CLI v0.56.0-nightly发布，活跃度排行第一",
+      "Claude Code v2.1.238更新，转向平台稳定性打磨",
+      "OpenCode v1.18.19发布，PR活跃社区驱动明显",
+      "多代理跨会话协作成各工具共同关注方向",
+      "开源工具在插件生态和上下文管理领域加速差异化",
+      "Grok Build近一日无更新，活跃度垫底"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.1-beta.2验证中，处于beta迭代期",
+      "单日500条Issue和PR更新，社区参与度旺盛",
+      "修复Nostr SecretRef配置账户消失关键Bug",
+      "Claude CLI OAuth功能修复已合并上线",
+      "Sessions --json记录身份修复通过审查",
+      "维护团队集中处理Session状态和消息丢失等P0级问题"
+    ],
+    "ai-trending": [
+      "ollama新增支持Kimi-K2.6和GLM-5.2模型",
+      "LangChain稳定热榜前列，持续支撑上层应用",
+      "Volcengine OpenViking今日新增950星",
+      "agent memory项目集体升温，成本控制成焦点",
+      "akitaonrails/ai-memory填补跨厂商记忆空白",
+      "MoneyPrinterTurbo新增2761星，AI应用落地加速"
+    ],
+    "ai-web": [
+      "Claude蛋白质设计成功率14/15，显著优于行业基准",
+      "Claude Opus 5仅用20分钟完成化学分析",
+      "Anthropic强化科学AI定位，差异化竞争明显",
+      "Claude设计结合力数倍于已有最优结果",
+      "OpenAI官网今日无新内容发布，保持沉默",
+      "Claude可降低药物研发和化学分析的时间门槛"
+    ],
+    "ai-hn": [
+      "Ornith-1.5展示AI从自我架构到自我改进路径",
+      "Unsloth Dynamic 3.0 GGUF优化本地部署效率",
+      "OpenRouter并入Stripe，AI基础设施加速主流化",
+      "942分热帖讨论AI推理基础设施生态融合",
+      "Don't Paste AI获987分，开发者警醒盲目依赖",
+      "Google AI自拍估体脂引发隐私数据边界讨论"
+    ],
+    "ai-arxiv": [
+      "SPADE提出自适应合成环境自博弈训练框架",
+      "Eureka构建任务条件化Meta-Agent科学发现架构",
+      "VLA框架可监控多智能体隐性有害协调",
+      "群校准离线策略蒸馏解决长上下文推理缺陷",
+      "论文揭示AI翻译可评价性与忠实度存在鸿沟",
+      "事后辩论评判理论框架统一信息分布与准确性"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以11751赞登顶周榜，下载超137万",
+      "Kimi-K3获10884赞，下载量超234万紧随其后",
+      "DeepSeek-V4-Flash下载量突破254万，居榜单最高",
+      "MiniMax-H3视频生成能力持续吸引社区关注",
+      "Qwen3.8-2.4T-A95B MoE架构探索稀疏专家路径",
+      "社区贡献十余个GGUF/FP8/MLX变体，一核多翼格局"
+    ],
+    "ai-community": [
+      "推理账本替代传统数据记忆，让Agent可回溯推理链",
+      "Bootcamp学员将AI月费从500刀压缩至12刀",
+      "MCP符号索引从30秒优化至98毫秒，性能提升显著",
+      "RAG管道被检索文本劫持，prompt注入风险引警惕",
+      "安全测试通过但攻击仍成功，揭示LLM评估盲区",
+      "Agentic RAG让检索从步骤变为决策循环"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.238 released amid quality regression fixes",
+      "Performance bloat flagged across CLI tools under multi-session loads",
+      "Windows/Linux/Wayland bugs persist in nearly every CLI agent",
+      "DeepSeek and Kimi invest in foundational architecture over features",
+      "Agent orchestration reliability emerging as key development track",
+      "Nightly builds and dashboards ship from Claude Code, Codex, Gemini"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.1-beta.2 validation underway with live gateways",
+      "500 issues and PRs updated in 24 hours signals intense cycle",
+      "Nostr SecretRef accounts bug fixed in merged PR #126934",
+      "466 open issues remain despite 34 closed today",
+      "Session-state reliability and message delivery are top priorities",
+      "12 open-source agent projects tracked in this digest"
+    ],
+    "ai-trending": [
+      "MoneyPrinterTurbo surges with 2,600 new stars today",
+      "Claude Code, Codex, Cursor skills projects hit the hot list",
+      "Modular MAX platform gains 268 stars for self-hosted ML infra",
+      "Ollama adds support for Kimi-K2.6, GLM-5.2, DeepSeek, Qwen",
+      "PostHog expands with AI observability for agent debugging",
+      "Vectorless RAG and token-compression gain developer interest"
+    ],
+    "ai-web": [
+      "Claude designs protein binders against 14 of 15 targets at 22-35% rate",
+      "Claude Opus 5 completes NMR and LC-MS analysis in under 23 minutes",
+      "Binding success 22-35% vs industry norm of 10-15%",
+      "Several designs exceed previously published binding affinities",
+      "Anthropic publishes protein design and chemistry research post",
+      "OpenAI publishes no new content today"
+    ],
+    "ai-hn": [
+      "OpenRouter Stripe acquisition sparks nearly 500 comments",
+      "Asana case study: 5 years of engineering cleared in 2 weeks with Codex",
+      "Ornith-1.5 pushes self-improving AI beyond scaffolding (208 points)",
+      "Unsloth Dynamic 3.0 GGUFs enable runtime precision switching",
+      "Don't Paste the AI clipboard hygiene debate trends top 15",
+      "OpenAI releases policy paper on pacing model development"
+    ],
+    "ai-arxiv": [
+      "Group-calibrated on-policy distillation fixes long-context reasoning",
+      "Open-MOPD resolves multi-teacher distillation optimization instability",
+      "Self-play and adaptive environments drive autonomous agent improvement",
+      "Meta-agent architectures proposed for scientific discovery",
+      "Verifiable latent alignment monitors covert multi-agent coordination",
+      "New work proposes precision over capability as quality metric"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 11,751 likes and 1.37M downloads",
+      "Kimi-K3 hits 2.35M downloads in first week on Hugging Face",
+      "DeepSeek-V4-Flash tops list with 2.5M downloads",
+      "MiniMax-H3 multimodal video model gains 4,200+ likes",
+      "Qwen3.8-27B spawns a dozen community GGUF and variant models",
+      "Kimi-K3 and Kimi-K2.6 both rank on trending lists"
+    ],
+    "ai-community": [
+      "Reasoning Ledger article explores persisting agent decisions not data",
+      "MCP memory server for one user draws 15 comments and strong interest",
+      "Prompt injection test passes while real attack succeeds",
+      "Memory persistence and retrieval security dominate developer talk",
+      "OpenAI privacy features and Replit free tier shape enterprise adoption",
+      "Cost optimization and performance engineering drive discussion"
+    ]
+  }
+}
