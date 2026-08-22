@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.239 聚焦 Agent 可靠性与 Review 系统",
+      "Gemini CLI 社区最活跃，24h 10+ PR 含 4 合并",
+      "GitHub Copilot CLI 正式走向 v1.0 稳定化",
+      "Qwen Code 新增 Review/Aone 核心功能 PR",
+      "多 Agent 可靠性成行业共同关注方向",
+      "Pi 以高社区活跃度成独立 CLI 代表"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h 处理 500 Issues 与 500 PRs",
+      "beta.2 版本暴露 Gateway 内存泄漏等 P0 问题",
+      "Claude CLI OAuth 修复已合并",
+      "Telegram inline button 修复已合并",
+      "新增安全安装策略警告确认功能",
+      "项目处于 beta.2 回归修复阶段"
+    ],
+    "ai-trending": [
+      "ECC 项目今日狂揽 3500+ stars 累计突破 24 万",
+      "skills 项目 3 小时狂揽 3362 stars 刷新热榜",
+      "DeepSeek-Reasonix 基于 prefix-cache 设计支持长期运行",
+      "Ollama 支持 Kimi-K2.6/GLM-5.2 等最新模型",
+      "modular 平台今日 trending 获 913 stars",
+      "minimind 两小时训练 LLM 教程累计 54,913 stars"
+    ],
+    "ai-hn": [
+      "Claude Code 原生支持 AGENTS.md 规范提案获 370 分",
+      "Huzzah 新 AI 编程工作流获 361 分热烈讨论",
+      "Ox Alpha 新模型低调发布获 227 分",
+      "LFM2.5-DSpark 宣称实现 3.2 倍推理加速",
+      "AI 教育影响引发审慎反思：作业提升考试下降",
+      "社区关注 Agent 可靠性与工具链成熟度"
+    ],
+    "ai-arxiv": [
+      "自改进评估存在易被伪影掩盖的幽灵增益现象",
+      "三阶段后训练实现无检索文档知识内化",
+      "LLM 记忆基准填补空白，关注记忆陷阱问题",
+      "系统比较 FIFO/LRU/LFU 等缓存驱逐策略",
+      "首个情境敏感知识遗忘基准发布",
+      "时序基础模型加速走向通用化"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 家族霸榜，单日下载超 170 万",
+      "Kimi-K3 获 10,913 点赞下载量近 250 万",
+      "DeepSeek-V4-Flash 下载量破 283 万领跑开源文本",
+      "MiniMax-H3 视频生成模型下载突破 360 万",
+      "Qwen MoE 模型 2.4T 参数仅激活 95B",
+      "Ornith-1.5 以 35B 总参数仅激活 3B 实现高效推理"
+    ],
+    "ai-community": [
+      "实测 157 个 Agent 规划案例，瓶颈在规划不在执行",
+      "发布验证 LLM 规划实验可靠性的 7 个检查项",
+      "Pi Agent 与 OpenCode 100+ 小时真实使用对比",
+      "提出用搜索历史替代传统记忆机制的新思路",
+      "深入分析误差反馈与梯度压缩在 Adam 下的问题",
+      "关注 128k 上下文窗口实际使用与 Lost in the Middle 现象"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code ships v2.1.239 with stable release cycle",
+      "OpenAI Codex active alpha series with 9 updated PRs",
+      "Gemini CLI on nightly track with 10 open PRs",
+      "Kimi Code CLI nearly pristine with just 1 open issue",
+      "OpenCode at v1.18.21 with 9 active PRs",
+      "Ecosystem shifting to agent orchestration and MCP"
+    ],
+    "ai-agents": [
+      "OpenClaw at 500 issues and 500 PRs in 24 hours",
+      "Two P0 issues: gateway memory leak and SQLite corruption",
+      "114 PRs merged or closed in stabilization sprint",
+      "Active beta track at v2026.8.1-beta.2",
+      "No new releases published today",
+      "Codex integration hardening underway"
+    ],
+    "ai-trending": [
+      "modular platform surges with 913 stars in one day",
+      "ECC agent harness gains 357 stars, 241K total",
+      "vllm holding strong at 89,661 stars",
+      "ollama leads with 179,128 stars",
+      "Graphify and PageIndex pioneer vectorless knowledge",
+      "Headroom proxy tackles token-compression frontier"
+    ],
+    "ai-hn": [
+      "AI boosts homework but erodes exam scores, study finds",
+      "OpenAI cuts GPT-5.6 Sol developer pricing 20%",
+      "Nvidia signs $6B Poolside license deal",
+      "Claude writes macOS printer driver from scratch",
+      "Community debates AI hollowing out genuine learning",
+      "OpenRouter announces Stripe integration"
+    ],
+    "ai-arxiv": [
+      "ConceptGuard benchmarks context-sensitive LLM unlearning",
+      "Phantom Gains audits self-improvement claims rigorously",
+      "Staged post-training for retrieval-free document knowledge",
+      "Multi-agent topology design gains research momentum",
+      "CPU-targeted efficient model architectures emerge",
+      "Novel inference-time controls for discrete diffusion"
+    ],
+    "ai-hf": [
+      "Kimi-K3 hits #2 with 11K likes and 2.4M downloads",
+      "DeepSeek V4 Flash trending for production speed",
+      "DeepSeek V4 Pro ranks top 30 for reasoning tasks",
+      "Qwen3.8-27B spawns wave of community fine-tunes",
+      "MiniMax expands with video and music generation models",
+      "Compressed-tensor quantization powers efficient deployment"
+    ],
+    "ai-community": [
+      "157 agent plans reveal planning beats execution",
+      "Pi Agent vs OpenCode: 100+ hours of real-world testing",
+      "Prompt injection remains critical security gap",
+      "Speculative decoding moves from research to production",
+      "Wake-word runs at 5.3% RTF on $15 Raspberry Pi Zero",
+      "7 checks before trusting an LLM planner experiment"
+    ]
+  }
+}
