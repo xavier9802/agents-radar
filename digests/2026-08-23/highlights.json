@@ -1,0 +1,94 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.240/241 修复关键 Bug",
+      "OpenAI Codex 每日增星 1544 个，迭代迅猛",
+      "Gemini CLI 发布 v0.56.0-nightly 新版本",
+      "OpenCode 社区超活跃，50+ Issue 持续更新",
+      "Pi 项目 10+ PR 合入主线，开发者参与热烈",
+      "跨平台稳定性成 AI CLI 工具核心战场"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时 500 条 Issue 和 PR 更新",
+      "修复 Claude CLI OAuth 认证失效关键问题",
+      "P1 级问题：子代理完成消息丢失亟待修复",
+      "v2026.8.1-beta.2 版本发布验证中",
+      "暴露 SQLite 数据库 corruption 严重 Bug",
+      "网关事件循环阻塞约 100 秒引发关注"
+    ],
+    "ai-trending": [
+      "OpenAI Codex 今日爆发性增星 1544 个",
+      "ECC Agent harness 获 24 万 stars 登顶",
+      "Skills 智能体技能集单增 2683 颗星",
+      "Claude Code 今日增星 127 个引爆社区",
+      "Ollama 持续更新支持 Kimi、GLM 等新模型",
+      "minimind 项目 54927 stars 成训练入门教材"
+    ],
+    "ai-hn": [
+      "AI 辅助提升作业分但考试分下降引热议",
+      "OpenRouter 加入 Stripe 成当日最高分讨论",
+      "开发者实地对比 Codex 与 Claude 使用体验",
+      "OpenAI 发布模型开发节奏与安全管控论述",
+      "AI 水印检测互动测试引发社区参与",
+      "开发者反思 AI 让我更快但未必更好"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 获 1.2 万赞本周最高",
+      "Kimi-K3 下载量突破 260 万强势上榜",
+      "DeepSeek-V4-Flash 下载量近 300 万",
+      "Qwen3.8-2.4T-A95B MoE 大模型发布",
+      "MiniMax-H3 视频生成模型获 4300+ 赞",
+      "LTX-2.5 领跑图生视频赛道受关注"
+    ],
+    "ai-community": [
+      "大模型规模无法解决 Agent 规划固有问题",
+      "OpenAI Codex CLI 正式成为 Pipeline 步骤",
+      "AI 编程真正挑战在于何时不信任 AI",
+      "LLM 应用用户关闭标签页后资源浪费严重",
+      "模型升级后 Agent 行为变化需重视回归测试",
+      "无需登录即可自动化回复 Instagram DM 方案"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code ships v2.1.240 and v2.1.241 patch releases",
+      "OpenAI Codex pushes 2 alpha builds with regression fixes",
+      "Gemini CLI adds security hardening and UX improvements",
+      "GitHub Copilot CLI shows stagnant release activity",
+      "Kimi Code CLI still establishing core reliability",
+      "Memory persistence emerges as top cross-community demand"
+    ],
+    "ai-agents": [
+      "OpenClaw updated 500 issues and 500 PRs in 24 hours",
+      "SQLite corruption regression recurs in v2026.8.1-beta.2",
+      "Install policy warnings now require user acknowledgement",
+      "474 issues remain open versus only 26 closed",
+      "Project in beta validation phase, no new release cut",
+      "65 PRs merged despite heavy bug influx"
+    ],
+    "ai-hn": [
+      "Claude Code verbosity debate ignites 154 comments on HN",
+      "Economist study: AI homework scores up, exam scores down",
+      "OpenRouter stealth model Ox Alpha draws 195 comments",
+      "AI watermark quiz reveals public skepticism on detection",
+      "NanoGPT speedrun benchmark pushes small model limits",
+      "Texas student whistleblower story sparks AI safety debate"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hits 12,143 likes and 2.1M downloads",
+      "Kimi-K3 surges to #27 with 10,929 likes and 2.6M downloads",
+      "DeepSeek-V4-Flash racks up nearly 3M downloads",
+      "Video generation models see robust community adoption",
+      "Qwen3.8 abliterated fine-tunes ecosystem expands rapidly",
+      "Open-weight multimodal models gaining major traction"
+    ],
+    "ai-community": [
+      "Bigger models didn't fix PlannerCritic's systematic errors",
+      "Tab closure causes hidden cost waste in LLM apps",
+      "Dev.to writers push back on bigger model assumptions",
+      "Multi-agent routing and CI/CD agents mature in production",
+      "Security review lessons shared across the community",
+      "Skepticism grows toward AI-generated content hype"
+    ]
+  }
+}
