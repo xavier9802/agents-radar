@@ -1,0 +1,22 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.243 has Linux segfault regression",
+      "OpenAI Codex alpha v0.150.0 actively in development",
+      "Gemini CLI offers nightly and preview channels",
+      "OpenCode shows high issue density vs release pace",
+      "10 AI CLI tools compared across ecosystem",
+      "GitHub Copilot CLI v1.0.81-9 stable patch released"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.243 has Linux segfault regression",
+      "OpenAI Codex alpha v0.150.0 actively in development",
+      "Gemini CLI offers nightly and preview channels",
+      "OpenCode shows high issue density vs release pace",
+      "10 AI CLI tools compared across ecosystem",
+      "GitHub Copilot CLI v1.0.81-9 stable patch released"
+    ]
+  }
+}
