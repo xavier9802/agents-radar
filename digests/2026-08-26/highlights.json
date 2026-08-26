@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code daily hotfixes release v2.1.246",
+      "Gemini CLI ships three release channels",
+      "DeepSeek TUI and OpenCode lean modularity",
+      "Vendor-locked architectures face scrutiny",
+      "Windows MSIX and Linux ARM64 regressions",
+      "8 of 9 tools ship active releases daily"
+    ],
+    "ai-agents": [
+      "500 issues, 500 PRs in 24 hours",
+      "OpenClaw validates v2026.8.1-beta.3",
+      "P0 SQLite corruption flagged but not blocker",
+      "OAuth refresh ownership regression fixed",
+      "Parent agent completion settling fixed",
+      "Maintainer engagement high with PRs ready"
+    ],
+    "ai-trending": [
+      "GPT-Image-2 prompt lib hits 1,700 stars",
+      "Local-first AI memory tools gaining traction",
+      "Ollama supports Kimi-K2.6 and GLM-5.2",
+      "ECC agent harness hits 243K stars",
+      "LangGraph and LangChain stay popular",
+      "Rust-native agent frameworks emerge"
+    ],
+    "ai-web": [
+      "Anthropic launches $200M Economic Futures Fund",
+      "$5M wellbeing research grant program announced",
+      "Clio rebranded as Anthropic Insights",
+      "Economic Index connector now live for Claude",
+      "Anthropic publishes most comprehensive portfolio",
+      "OpenAI posts only 3 metadata entries"
+    ],
+    "ai-hn": [
+      "OpenAI Jalapeño silicon beats Blackwell",
+      "Apple M6 launch reignites silicon race",
+      "Byte-identical inference across AMD and Nvidia",
+      "Anthropic struggles retaining users vs cheaper rivals",
+      "LLMs may exploit inference engines to control hosts",
+      "Skyrim companion and Minecraft sandboxing trend"
+    ],
+    "ai-arxiv": [
+      "Stable critic-training replaces GRPO overhead",
+      "ConvergeFlow guarantees token embedding convergence",
+      "Long-horizon agent autonomy benchmarks advance",
+      "ProxyFormer tackles ultra-long context bottlenecks",
+      "Memory injection attacks on LLM agents exposed",
+      "Earth systems and exoplanet detection benchmarks"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B spawns over a dozen community variants",
+      "DeepSeek-V4-Flash hits 3.5M downloads",
+      "Kimi-K3 leads Chinese multimodal space",
+      "MiniMax H3 video model gains traction",
+      "LTX-2.5 accelerates multimodal momentum",
+      "Abliteration techniques proliferate for alignment removal"
+    ],
+    "ai-community": [
+      "RAG retrieval checklist for confident answers",
+      "AI coding creates 5-20 min idle workflow gaps",
+      "Home-based inference fleet modeling gains traction",
+      "Skepticism toward hype vibe coding grows",
+      "Deterministic testing and security prioritized",
+      "Local and distributed inference rising fast"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code daily hotfixes release v2.1.246",
+      "Gemini CLI ships three release channels",
+      "DeepSeek TUI and OpenCode lean modularity",
+      "Vendor-locked architectures face scrutiny",
+      "Windows MSIX and Linux ARM64 regressions",
+      "8 of 9 tools ship active releases daily"
+    ],
+    "ai-agents": [
+      "500 issues, 500 PRs in 24 hours",
+      "OpenClaw validates v2026.8.1-beta.3",
+      "P0 SQLite corruption flagged but not blocker",
+      "OAuth refresh ownership regression fixed",
+      "Parent agent completion settling fixed",
+      "Maintainer engagement high with PRs ready"
+    ],
+    "ai-trending": [
+      "GPT-Image-2 prompt lib hits 1,700 stars",
+      "Local-first AI memory tools gaining traction",
+      "Ollama supports Kimi-K2.6 and GLM-5.2",
+      "ECC agent harness hits 243K stars",
+      "LangGraph and LangChain stay popular",
+      "Rust-native agent frameworks emerge"
+    ],
+    "ai-web": [
+      "Anthropic launches $200M Economic Futures Fund",
+      "$5M wellbeing research grant program announced",
+      "Clio rebranded as Anthropic Insights",
+      "Economic Index connector now live for Claude",
+      "Anthropic publishes most comprehensive portfolio",
+      "OpenAI posts only 3 metadata entries"
+    ],
+    "ai-hn": [
+      "OpenAI Jalapeño silicon beats Blackwell",
+      "Apple M6 launch reignites silicon race",
+      "Byte-identical inference across AMD and Nvidia",
+      "Anthropic struggles retaining users vs cheaper rivals",
+      "LLMs may exploit inference engines to control hosts",
+      "Skyrim companion and Minecraft sandboxing trend"
+    ],
+    "ai-arxiv": [
+      "Stable critic-training replaces GRPO overhead",
+      "ConvergeFlow guarantees token embedding convergence",
+      "Long-horizon agent autonomy benchmarks advance",
+      "ProxyFormer tackles ultra-long context bottlenecks",
+      "Memory injection attacks on LLM agents exposed",
+      "Earth systems and exoplanet detection benchmarks"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B spawns over a dozen community variants",
+      "DeepSeek-V4-Flash hits 3.5M downloads",
+      "Kimi-K3 leads Chinese multimodal space",
+      "MiniMax H3 video model gains traction",
+      "LTX-2.5 accelerates multimodal momentum",
+      "Abliteration techniques proliferate for alignment removal"
+    ],
+    "ai-community": [
+      "RAG retrieval checklist for confident answers",
+      "AI coding creates 5-20 min idle workflow gaps",
+      "Home-based inference fleet modeling gains traction",
+      "Skepticism toward hype vibe coding grows",
+      "Deterministic testing and security prioritized",
+      "Local and distributed inference rising fast"
+    ]
+  }
+}
