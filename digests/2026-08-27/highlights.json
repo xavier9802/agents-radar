@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.247发布，OAuth安全漏洞修复引关注",
+      "Gemini CLI v0.59.0-nightly，11条PR中6条涉安全",
+      "Copilot CLI v1.0.81，MCP token暴增问题成焦点",
+      "Qwen Code v0.22.2修复死循环，内存重构推进中",
+      "OpenCode暴露Agent循环缺陷，架构问题引发担忧",
+      "Kimi Code日活仅1条Issue，活跃度垫底"
+    ],
+    "ai-agents": [
+      "OpenClaw日处理500条Issue和PR，修复密集型阶段",
+      "多Agent场景跨绑定泄露漏洞修复，全通道覆盖",
+      "Session操作全面暴露至聊天头部菜单",
+      "新增安装策略警告审查流程，管理员可确认风险",
+      "僵尸编译器进程问题修复，新增看门狗机制",
+      "无新版本发布，v2026.8.1-beta.3持续迭代"
+    ],
+    "ai-trending": [
+      "Ollama突破17.9万星，国产模型首次纳入支持",
+      "Claude Code生态爆发，插件目录社区库同日登榜",
+      "GPT-Image2引擎530+案例，提示词赛道新星",
+      "LangGraph成复杂Agent项目标配，星数达4万+",
+      "AutoGPT以18.6万星稳居开源Agent鼻祖",
+      "Hermes Agent获23.7万星，成长型设计理念获赞"
+    ],
+    "ai-web": [
+      "Anthropic发布15篇研究，安全能力化战略清晰",
+      "Claude机器人任务评测，揭示接口抽象层关键作用",
+      "核安全分类器96%准确率，与DOE合作部署",
+      "宪法分类器防御通用越狱，拒绝率仅增0.38%",
+      "人格向量技术可监测调控大模型人格特质",
+      "Anthropic加速政企渗透，白宫LLNL合作落子"
+    ],
+    "ai-hn": [
+      "GLM-5.3-Flash 1013分508评论登顶，国产模型攻势",
+      "Z.ai确认Ox Alpha为GLM系列，开源权重引关注",
+      "被AI替代开发者开源AI CEO项目，537分热议",
+      "Paul Graham17岁从头学LLM，681评论争议激烈",
+      "RAG复杂度被过度夸大，文章454分引发讨论",
+      "OpenAI发Jalapeño芯片、Apple推M6，硬件竞争升温"
+    ],
+    "ai-arxiv": [
+      "Prefix Sliding实现长推理更低显存开销的test-time scaling",
+      "LoRA秩首次建立任务依赖理论框架，告别经验调参",
+      "Muon超越Adam的谱分析机制被揭示",
+      "VBVR-Pro将视觉生成视为推理介质，范式转移",
+      "DualOPSD自蒸馏动态演化教师模型，缓解分布漂移",
+      "追溯完整性概念面向LLM数据代理，审计计算过程"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B获1.3万点赞，329万下载量领跑",
+      "Kimi-K3以1.1万点赞登顶，国产模型持续火爆",
+      "DeepSeek-V4-Flash下载破320万，热度不减",
+      "MiniMax-H3视频生成479万下载，赛道爆发",
+      "GLM-5.3-Flash托管仅说明，权重未开放下载",
+      "Ornith 1.5 MoE架构兼顾性能与成本，83万下载"
+    ],
+    "ai-community": [
+      "FlashPrefillV2实现47倍长上下文速度提升",
+      "14MB Needle 2模型，小体积大能力受关注",
+      "GLM-5.3-Flash工程影响分析，团队选型参考",
+      "传统WAF无法感知Agent多步调用，安全架构待升级",
+      "8款模型规划正确却压垮基础设施，工程盲区揭示",
+      "Vibe Coding生成快调试慢，5条规则助跳出死循环"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.247 released with stability focus",
+      "OpenAI Codex posted 10 PRs in 24 hours",
+      "Windows desktop stability remains a pain point",
+      "Qwen Code and Pi lead structured memory push",
+      "Security hardening spotted in Gemini CLI and OpenCode",
+      "Ecosystem differentiating on agent architecture"
+    ],
+    "ai-agents": [
+      "OpenClaw saw 500 issues and 500 PRs in 24h",
+      "Beta track iterating toward 2026.8.1 release",
+      "319 open vs 181 closed issues signal growing backlog",
+      "Multiple P0/P1 bugs tagged with high impact",
+      "Prior 2026.7.1-2 release surfacing regressions",
+      "Focus on gateway stability and session lifecycle"
+    ],
+    "ai-trending": [
+      "Claude Code ecosystem tooling dominates trending",
+      "Agent skills paradigm crystallizing as category",
+      "Ollama leads with 179,535 total stars",
+      "Local-first AI momentum sustained",
+      "LangChain holds 145,098 stars as default platform",
+      "Community agent skills hitting thousands of stars"
+    ],
+    "ai-web": [
+      "Anthropic published Claude robotics research paper",
+      "Claude tested on real Unitree Go2 quadruped",
+      "Nuclear safeguards classifier hits 96% accuracy",
+      "Persona vectors introduced for trait monitoring",
+      "OpenAI update contained only metadata today",
+      "Robotics capability depends on abstraction level"
+    ],
+    "ai-hn": [
+      "GLM-5.3-Flash sparks 1013-point HN discussion",
+      "Z.AI confirms Ox Alpha as new GLM-series model",
+      "Qwen3.8-Flash-Next drives community debate",
+      "Apple M6/M5 Ultra launch heating up",
+      "OpenAI Jalapeño chip claims drawing engagement",
+      "Community skepticism growing on AI workflows"
+    ],
+    "ai-arxiv": [
+      "Prefix Sliding cuts cost of long-chain reasoning",
+      "SwarmWorld explores stigmergic agent coordination",
+      "VISA and LivingRAG add persistent reasoning memory",
+      "Semantic Allocation explains Muon vs Adam",
+      "Domain AI advancing in physics and medicine",
+      "Trace Integrity demands auditable reasoning"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B passes 3.2 million downloads",
+      "DeepSeek-V4-Flash reaches 3.8 million downloads",
+      "Kimi-K3 hits nearly 3 million downloads",
+      "Community abliterated Qwen variants surging",
+      "MiniMax-H3 leads open video generation",
+      "LTX-2.5 gains traction in video category"
+    ],
+    "ai-community": [
+      "Five design-to-code tools tested with same dashboard",
+      "Latency changes expose AI failure modes in agents",
+      "Public audit found contradictions in PlannerCritic",
+      "Multi-GPU drift remains a live scaling problem",
+      "Apple local-AI push drawing community attention",
+      "Developers shifting from hype to pragmatic evals"
+    ]
+  }
+}
