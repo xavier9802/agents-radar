@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex三连发0.151.0-alpha.6~8，极速试错节奏",
+      "Claude Code发布v2.1.250安全更新，优先稳定性",
+      "GitHub Copilot CLI正式拥抱MCP 2026标准",
+      "Qwen Code进入架构重构期，v0.22.2-nightly",
+      "DeepSeek TUI多会话锁回归问题受关注",
+      "Grok Build项目停滞无活动"
+    ],
+    "ai-agents": [
+      "OpenClaw日处理500 Issue和500 PR，社区活跃度高位",
+      "修复Gateway重启后Claude OAuth刷新令牌丢失",
+      "修复Control UI会话目录焦点刷新风暴",
+      "新增安装策略警告审查功能供管理员确认",
+      "v2026.8.1-beta.3仍在征集测试反馈",
+      "消除Telegram会话重复消息修复转录污染"
+    ],
+    "ai-trending": [
+      "JetBrains发布现代Go编码规范优化AI编程(+300 stars)",
+      "Archify架构图生成技能日增4239 stars爆发",
+      "Anthropic官方Claude Code插件目录上线",
+      "Scientific-Agent-Skills库覆盖163个验证技能",
+      "Ollama本地大模型引擎突破179616 stars",
+      "DeepSeek-Reasonix终端Agent获35232 stars"
+    ],
+    "ai-web": [
+      "Anthropic开放10000个免费科学家Claude席位",
+      "MHS研究预览让AI安全操作物理实验室设备",
+      "Claude Science整合PubMed和Jupyter的科研工作台",
+      "Claude Corps招募1000名研究员深入非营利组织",
+      "盖茨基金会2亿美元合作推进教育部署",
+      "冰岛全国教师试点到卢旺达政府MOU快速延伸"
+    ],
+    "ai-hn": [
+      "GLM-5.3-Flash获1113分561评，国产模型引热议",
+      "Qwen3.8-Flash-Next获694分，开源降本增效代表",
+      "Apple M6芯片发布，端侧AI推理成热点",
+      "Google发布Gemini-3.5-Transcribe音频转录模型",
+      "Terminal-Bench-Science填补AI科研评测空白",
+      "Anthropic遭五角大楼拉黑后胜诉引安全讨论"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B获13078点赞，下载量超340万领跑",
+      "Kimi-K3获11047点赞，下载量超260万紧随",
+      "DeepSeek-V4-Flash下载量接近400万性价比高",
+      "MiniMax-H3视频生成模型下载突破480万",
+      "GLM-5.3-Flash点赞高但下载量尚在积累",
+      "Qwen3.8 Flash-Next代表多模态快速迭代"
+    ],
+    "ai-community": [
+      "AI加速交付但维护成本未降，技术债务警示",
+      "NexPath提示质量层拦截Cursor和Claude Code模糊提示",
+      "Agent拒绝96次被论证为正确输出",
+      "多数AI代码审查缺乏真正独立性",
+      "对照实验揭示AI安全审查确认偏误倾向",
+      "eval语句成安全攻击重点而非LLM本身"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "OpenAI Codex ships 3 alpha releases in sprint",
+      "Claude Code v2.1.250 adds security-focused mode",
+      "Gemini CLI hits v0.59.0-nightly with core fixes",
+      "GitHub Copilot CLI faces regression churn",
+      "Kimi Code CLI activity is slow with no releases",
+      "OpenCode hits v1.18.2 with 9 key PRs merged"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and PRs in 24 hours",
+      "Session-state integrity bugs remain top concern",
+      "Alias resolution fix merged in PR #128223",
+      "Session catalog refresh storms fixed in UI",
+      "P0/P1 issues still unresolved in stabilization",
+      "Latest beta: v2026.8.1-beta.3 under validation"
+    ],
+    "ai-trending": [
+      "Claude Code skills ecosystem surges in popularity",
+      "Persistent agent memory projects like mem0 trend",
+      "Graphify brings AST-based RAG to the forefront",
+      "TensorFlow holds 197K stars as ML baseline",
+      "Ollama supports Kimi-K2.6 and GLM-5.2",
+      "Transformers reaches 164K stars as de facto standard"
+    ],
+    "ai-web": [
+      "Anthropic opens 10,000 free scientist seats",
+      "Claude Team Plan for Scientists launched today",
+      "Model Hardware Standard previewed for lab agents",
+      "Anthropic publishes multiagent system failures paper",
+      "AI for Science expands beyond biology focus",
+      "OpenAI posts only 3 articles today quietly"
+    ],
+    "ai-hn": [
+      "GLM-5.3-Flash tops HN with 1113 points",
+      "Gemini-3.5-Transcribe draws speed and accuracy buzz",
+      "Gemini Omni 1.1 Flash sparks developer interest",
+      "Anthropic Pentagon blacklist ruling sparks debate",
+      "Open-source AI CEO viral after developer termination",
+      "Gates turbulent AI era essay re-ranked today"
+    ],
+    "ai-arxiv": [
+      "CritICL uses small LLM failures for weak-to-strong gain",
+      "TTPO enables test-time policy optimization without labels",
+      "Puro-2B proves quality pretraining under $5,000",
+      "Successive Capacity Growth scales JEPA models dynamically",
+      "RedEvoAgent evolves red-teaming skills autonomously",
+      "LLM-Judge audit warns of manufactured statistical effects"
+    ],
+    "ai-community": [
+      "AI delivery speed up but maintenance costs unchanged",
+      "NexPath adds prompt quality layer for Cursor and Claude",
+      "Agent refusing 96 times proves valuable output",
+      "Structured-output refusal handling gains traction",
+      "Fault injection in agent frameworks discussed widely",
+      "Gap between AI demos and production reality highlighted"
+    ]
+  }
+}
