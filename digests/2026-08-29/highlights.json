@@ -1,0 +1,126 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.251发布，安全审查误报引发164条讨论",
+      "OpenAI Codex连发5个alpha版，Windows启动崩溃问题突出",
+      "Gemini CLI v0.59.0-nightly，7个安全修复集中发布",
+      "Kimi Code CLI MCP安全绕过漏洞已修复关闭",
+      "DeepSeek TUI达成v0.9.12里程碑，国产模型原生搜索受关注",
+      "MCP生态稳定性成共同焦点，OAuth持久化成核心诉求"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.1-beta.1发布，修复Gateway重启恢复问题",
+      "24小时内产生500条Issue和500条PR，开发节奏极快",
+      "Gateway内存泄漏问题(#91588)获23条评论，生产稳定性成核心痛点",
+      "会话目录刷新风暴已合并修复，提升系统稳定性",
+      "安装策略安全增强：警告需人工确认，已合并",
+      "消息截断问题(#84516)引发13条评论关注"
+    ],
+    "ai-web": [
+      "Anthropic发布研究：Claude可自动化缓解AI对齐失败",
+      "Claude for Teachers正式推出，面向美国K-12教师免费开放",
+      "OpenAI公布Cursor被SpaceX收购后战略调整决定",
+      "Anthropic双线推进：对齐安全研究+教育垂类渗透",
+      "Claude作为自动化研究工具，完成文献到测试完整闭环",
+      "Anthropic将自动化研究升级为对齐安全生产力引擎"
+    ],
+    "ai-hn": [
+      "GLM-5.3-Flash获1124分，中国模型引国际社区高度关注",
+      "被裁员开发者开源AI CEO替代产品，获1010分703条评论",
+      "Gemini Omni 1.1 Flash更新，推理速度与成本成讨论焦点",
+      "Claude词汇负担可视化分析获655分，引发可解释性兴趣",
+      "Anthropic在美国政府诉讼中获胜，最高分567受关注",
+      "RAG实现简化文章获501分，打破行业复杂化宣传"
+    ],
+    "ai-arxiv": [
+      "CritICL提出推理时弱到强泛化，从小模型失败提取知识",
+      "TTPO将测试时训练引入RLVR，用自生成标签取代真实标签",
+      "Puro-2B用RTX 5090以极低预算完成有竞争力LLM预训练",
+      "MCR-Bench成首个动态代码审查基准，捕捉真实协作交互",
+      "WikiSkill将Agent交互经验编译为可持久化知识",
+      "朴素提示优化挑战复杂范式，多数场景已足够高效"
+    ],
+    "ai-hf": [
+      "Qwen3.8系列统治热门榜，27B版本下载超345万次",
+      "Kimi-K3以11069点赞位居榜二，国产模型势头强劲",
+      "DeepSeek-V4-Flash下载近400万，延续开源对话竞争力",
+      "GLM-5.3系列发布，采用MoE DSA架构探索下一代",
+      "MiniMax-H3视频生成模型下载突破484万",
+      "ABLITERATED去抑制与量化社区活动活跃，本地部署需求强"
+    ],
+    "ai-community": [
+      "Strands Agent让Claude Opus 5在ARC-AGI-3从30%飙升至99.95%",
+      "SQLite FTS5替代向量数据库，RAG性能提升10倍",
+      "LLM自我批判系统揭示内在矛盾，AI拒绝输出反而更可靠",
+      "幻觉被定位为架构问题而非提示词问题，跳出传统框架",
+      "AI记忆架构成热点，向量库与SQL取舍引发讨论",
+      "MCP安全实践与开源闭源监管取舍成高频话题"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code ships v2.1.251 with active PRs",
+      "OpenAI Codex releases 5 alpha versions",
+      "Gemini CLI surges with security PR wave",
+      "GitHub Copilot CLI reaches v1.0.82",
+      "Kimi Code CLI holds with no new release",
+      "Enterprise auth and Windows stability frustrate users"
+    ],
+    "ai-agents": [
+      "OpenClaw touches 500 issues and 500 PRs daily",
+      "New beta v2026.9.1-beta.1 released today",
+      "Gateway restart recovery preserves admitted turns",
+      "190 PRs merged in 24-hour stabilization push",
+      "Focus shifts to gateway and session-lane resilience",
+      "408 open issues and 310 open PRs remain"
+    ],
+    "ai-trending": [
+      "tensorflow/tensorflow tops dataset at 197K stars",
+      "ollama/ollama reaches 179K stars",
+      "huggingface/transformers holds 164K stars",
+      "langchain-ai/langchain anchors agent engineering",
+      "pytorch/pytorch maintains 102K stars",
+      "Ecosystem shifts to specialized agent skill ecosystems"
+    ],
+    "ai-web": [
+      "Anthropic: automated researchers can mitigate alignment failures",
+      "Claude for Teachers launched for K-12 education",
+      "Claude autonomously closes safety gaps across 10 categories",
+      "OpenAI has limited new content today",
+      "Cursor acquisition by SpaceX noted on OpenAI blog",
+      "Anthropic publishes two major updates"
+    ],
+    "ai-hn": [
+      "GLM-5.3-Flash leads HN with 1124 points",
+      "Anthropic v.s. US government ruling tops discussion",
+      "Gemini Omni 1.1 Flash draws strong developer interest",
+      "OpenAI Cursor acquisition sparks debate",
+      "Autonomous mathematical discovery paper discussed",
+      "Community raises AI copyright and engineering concerns"
+    ],
+    "ai-arxiv": [
+      "CritICL enables inference-time weak-to-strong correction",
+      "TTPO introduces test-time policy optimization",
+      "Puro-2B achieves pretraining under $6,000",
+      "WikiSkill paper explores persistent agent skills",
+      "RedEvoAgent proposes experience-driven red-teaming",
+      "Test-time scaling emerges as dominant research theme"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B family surpasses 3.4M downloads",
+      "DeepSeek-V4-Flash-0731 hits 3.9M downloads",
+      "Kimi-K3 earns 11K likes on Hugging Face",
+      "MiniMax-H3 video model explodes with 5M downloads",
+      "GLM-5.3-Flash debuts on trending charts",
+      "Abliterated and uncensored Qwen3.8 variants surge"
+    ],
+    "ai-community": [
+      "Agents need structural fixes over better prompting",
+      "SQLite FTS5 challenges vector database hype for RAG",
+      "MCP transitions from niche to essential developer skill",
+      "Strands agent lifts Claude Opus 5 to 99.95% on ARC-AGI-3",
+      "AI memory systems criticized as fundamentally flawed",
+      "Nvidia valuation reframed through Matrix economic allegory"
+    ]
+  }
+}
