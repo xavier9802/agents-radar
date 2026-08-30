@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex发布rust-v0.151.0新版本",
+      "Gemini CLI推出v0.59.0-nightly版本",
+      "Claude Code Windows GPU进程崩溃问题引关注",
+      "全行业聚焦Windows平台稳定性优化",
+      "Qwen Code有9个开放PR积极开发",
+      "Pi项目社区活跃度达高水准"
+    ],
+    "ai-agents": [
+      "OpenClaw单日500条Issues和PR更新",
+      "Gateway内存泄漏导致OOM成P0级问题",
+      "LINE渠道消息丢失重复投递获修复",
+      "沙箱内存刷新竞态问题获PR解决",
+      "会话状态一致性修复持续推进",
+      "覆盖12个项目生态活跃"
+    ],
+    "ai-trending": [
+      "Agent Skills生态爆发式增长",
+      "K-Dense-AI科学智能体库单日1587 star",
+      "ECC达244k star成Agent性能优化头部",
+      "RAG基础设施项目集中亮相热榜",
+      "ollama保持179k star稳定领跑",
+      "Hermes-Agent以238k star位居Agent框架前列"
+    ],
+    "ai-web": [
+      "Anthropic发布Model Hardware Standard研究预览",
+      "AI代理可并行操作显微镜和液体处理机器人",
+      "与HHMI Janelia合作开发硬件集成规范",
+      "硬件集成时间从数周缩短至数分钟",
+      "Anthropic向具身智能和物理交互延伸",
+      "OpenAI官网今日无新增内容"
+    ],
+    "ai-hn": [
+      "GLM-5.3-Flash获1126分574评论引热议",
+      "Cursor被SpaceX收购争议806分494评论",
+      "Anthropic被列入黑名单案法院裁定违法",
+      "开源AI CEO讨论达1022分712评论",
+      "Debian AI政策引发475分激烈讨论",
+      "Luanti AI版权争议516分受关注"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B获13269点赞下载超400万",
+      "Kimi-K3以超万赞登顶语言模型热度榜",
+      "MiniMax-H3视频模型下载突破500万",
+      "LTX-2.5持续领跑图像生成赛道",
+      "unsloth GGUF系列下载量超830万",
+      "abliterated社区微调活动异常活跃"
+    ],
+    "ai-community": [
+      "最佳模型组合恰恰最不可信引发讨论",
+      "Qwen3.8-Flash-Next用6B超越17B模型",
+      "PlannerCritic与AdversarialDebate设计缺陷被揭示",
+      "GraphRAG评测结果因工具不同结论相反",
+      "Claude Code配置开销成社区关注点",
+      "Rust实现Agent安全写入机制强调验证优先"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "OpenAI Codex releases v0.151.0 and alpha.1 today",
+      "Claude Code leads with 10 hot community issues",
+      "Gemini CLI and Kimi Code push rapid nightly builds",
+      "OpenCode and Pi show strong merged PR momentum",
+      "Agent reliability remains top pain point across tools",
+      "Windows desktop stability frustrates multiple communities"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs updated in 24h",
+      "129 issues closed and 154 PRs merged today",
+      "No new releases as team focuses on stabilization",
+      "Memory search timeout issue correctly diagnosed",
+      "Matrix channel dispatch regression fixed in v2026.6.1",
+      "Healthy 1.1:1 open issue-to-PR ratio maintained"
+    ],
+    "ai-trending": [
+      "scientific-agent-skills surged +1,587 stars today",
+      "ollama/ollama reaches 179,752 total stars",
+      "firecrawl hits 174,139 stars for web scraping",
+      "ECC agent harness tops LLM stars at 244K+",
+      "workweave/router enables agentic model routing",
+      "Token compression projects headroom and caveman rise"
+    ],
+    "ai-web": [
+      "Anthropic previews Model Hardware Standard spec",
+      "MHS lets agents operate lab devices in parallel",
+      "HHMI Janelia Research Campus collaborates on MHS",
+      "Hardware integration cut from weeks to minutes",
+      "Claude expands beyond digital into physical labs",
+      "First MHS preview group: scientific and manufacturing"
+    ],
+    "ai-hn": [
+      "GLM-5.3-Flash dominates HN at 1,126 points",
+      "Federal judge strikes down Anthropic blacklisting",
+      "OpenAI Cursor post-SpaceX sparks 494 comments",
+      "Gemini-3.5-Transcribe draws transcription interest",
+      "AI CEO Show HN tops opinion at 1,000+ points",
+      "Gemini Omni 1.1 Flash sparks omni capability debate"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hits 4M downloads with 13K likes",
+      "DeepSeek-V4-Flash reaches 4.3M downloads",
+      "Kimi-K3 accumulates 2.7M downloads and 11K likes",
+      "MiniMax-H3 surpasses 5M downloads for video",
+      "Qwen3.8-Flash-Next climbs weekly likes chart",
+      "Efficient open-weight models dominate Hugging Face"
+    ],
+    "ai-community": [
+      "6B-active Qwen beats 17B-active competitors",
+      "Best field test model pair was least trustworthy",
+      "Lobste.rs warns rumors surface real exploits",
+      "Qwen3.8-Flash-Next architectural improvements detailed",
+      "GLM-5.3 release sparks open-weight economics talk",
+      "PlannerCritic and AdversarialDebate lessons shared"
+    ]
+  }
+}
