@@ -81,6 +81,14 @@
       "OpenAI model pulled from Cursor",
       "NVIDIA inference margins under fire",
       "GKE Gateway adds native CORS support"
+    ],
+    "ai-weekly": [
+      "OpenClaw v2026.8.1 adds history search, cross-session continuity",
+      "Anthropic launches Model Hardware Standard for lab equipment",
+      "OpenAI posts Cursor decision after SpaceX acquisition (806 pts)",
+      "GLM-5.3-Flash tops HN with 1126 pts on open-weight debate",
+      "OpenAI Codex Client opensourced, 1,181 stars on debut",
+      "Anthropic offers 10K free scientist seats, $200M Gates deal"
     ]
   }
 }
