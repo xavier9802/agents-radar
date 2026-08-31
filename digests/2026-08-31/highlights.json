@@ -1,0 +1,86 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code's top issue #38335 has 839 comments",
+      "OpenAI Codex shipped 3 alpha releases",
+      "Gemini CLI dropped v0.59.0-nightly",
+      "Stability regressions plague all CLI tools",
+      "Competition shifted to session reliability",
+      "10 AI CLI tools tracked this digest"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.1 adds conversation search",
+      "Scheduler migration drops legacy cron jobs",
+      "500 issues and 500 PRs in 24h at OpenClaw",
+      "Beta updates may misplace plugins on latest",
+      "High velocity but stability pressure mounting",
+      "Cross-device sessions now supported"
+    ],
+    "ai-trending": [
+      "K-Dense-AI skills surged 1,100 stars daily",
+      "OpenMAIC gained 1,370 stars as multi-agent class",
+      "Skill ecosystem is fastest open-source frontier",
+      "Vectorless and memory-first RAG approaches rise",
+      "huggingface/transformers leads at 164K stars",
+      "ollama/ollama dominates at 179K stars"
+    ],
+    "ai-hf": [
+      "Qwen3.8-Flash-Next tops HF with 4,400 likes",
+      "MiniMax-H3 hit 5.2M+ video model downloads",
+      "GLM-5.3-Flash garnered 346K downloads",
+      "Uncensored Qwen3.8-27B variants surge",
+      "Unsloth GGUF quantized models gain adoption",
+      "Qwen3.8 combines Qwen4_exp with multimodal chat"
+    ],
+    "ai-community": [
+      "AI agent safety dominates community discussions",
+      "Criticism of silently broken approval gates",
+      "RAG evolving beyond vector-only retrieval",
+      "OpenAI model pulled from Cursor",
+      "NVIDIA inference margins under fire",
+      "GKE Gateway adds native CORS support"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code's top issue #38335 has 839 comments",
+      "OpenAI Codex shipped 3 alpha releases",
+      "Gemini CLI dropped v0.59.0-nightly",
+      "Stability regressions plague all CLI tools",
+      "Competition shifted to session reliability",
+      "10 AI CLI tools tracked this digest"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.1 adds conversation search",
+      "Scheduler migration drops legacy cron jobs",
+      "500 issues and 500 PRs in 24h at OpenClaw",
+      "Beta updates may misplace plugins on latest",
+      "High velocity but stability pressure mounting",
+      "Cross-device sessions now supported"
+    ],
+    "ai-trending": [
+      "K-Dense-AI skills surged 1,100 stars daily",
+      "OpenMAIC gained 1,370 stars as multi-agent class",
+      "Skill ecosystem is fastest open-source frontier",
+      "Vectorless and memory-first RAG approaches rise",
+      "huggingface/transformers leads at 164K stars",
+      "ollama/ollama dominates at 179K stars"
+    ],
+    "ai-hf": [
+      "Qwen3.8-Flash-Next tops HF with 4,400 likes",
+      "MiniMax-H3 hit 5.2M+ video model downloads",
+      "GLM-5.3-Flash garnered 346K downloads",
+      "Uncensored Qwen3.8-27B variants surge",
+      "Unsloth GGUF quantized models gain adoption",
+      "Qwen3.8 combines Qwen4_exp with multimodal chat"
+    ],
+    "ai-community": [
+      "AI agent safety dominates community discussions",
+      "Criticism of silently broken approval gates",
+      "RAG evolving beyond vector-only retrieval",
+      "OpenAI model pulled from Cursor",
+      "NVIDIA inference margins under fire",
+      "GKE Gateway adds native CORS support"
+    ]
+  }
+}
