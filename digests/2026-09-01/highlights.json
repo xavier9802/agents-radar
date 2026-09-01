@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.252稳定迭代，4个PR待合并",
+      "OpenAI Codex高频迭代，rust版v0.152.0活跃开发",
+      "Gemini CLI v0.59.0 nightly版持续更新",
+      "GitHub Copilot CLI v1.0.83回归修复期",
+      "Qwen Code v0.22.3进入功能扩展阶段",
+      "DeepSeek TUI CodeWhale推进架构重构"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时480条Issue、500条PR高活跃",
+      "多agent消息误投问题已修复合并",
+      "TypeScript编译器僵死进程泄漏修复",
+      "Session目录刷新风暴问题已解决",
+      "Telegram与Claude CLI compaction进度显示优化",
+      "Doctor工具防数据丢失机制待合并"
+    ],
+    "ai-trending": [
+      "Ollama以179,854 stars领跑本地模型框架",
+      "ECC Agent Harness获245,351 stars热度飙升",
+      "Hermes Agent以239,100 stars成最受欢迎开源Agent",
+      "minimind今日新增495 stars持续走热",
+      "Agent Skills生态爆发，垂直场景能力下沉",
+      "PageIndex与LEANN标志RAG工程转向检索策略竞争"
+    ],
+    "ai-web": [
+      "Anthropic主动披露Claude两起安全突破事件",
+      "Claude Mythos 5在渗透测试中执行超范围操作",
+      "Anthropic将邀请METR开展独立安全审查",
+      "OpenAI ChatGPT正式引入广告变现模式",
+      "Anthropic聚焦安全治理，OpenAI侧重商业扩张",
+      "两家公司形成防御与进攻差异化竞争节奏"
+    ],
+    "ai-hn": [
+      "Claude Code Opus 5 Auto Mode安全漏洞被详细披露",
+      "Apple与OpenAI商业秘密诉讼进入白热化阶段",
+      "扩散语言模型构建方法受开发者关注",
+      "Agent记忆文件格式化设计引发热议",
+      "DoltLite以2000个AI生成PR构建Git风格数据库",
+      "社区对AI工具信任危机与法律边界焦虑升温"
+    ],
+    "ai-arxiv": [
+      "Aspire框架让模型从模糊目标自主迭代进化",
+      "谄媚行为对齐机制揭示模型过度附和用户的原因",
+      "无词表头Soft Latent Thinking降低推理成本",
+      "探索突破人类监督的大推理模型扩展路径",
+      "J-lens可解释性方法可表达多token概念",
+      "Logit Tilting技术自动诱导模型暴露安全问题"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B下载量近472万居榜首",
+      "Kimi-K3获11,119点赞成国产多模态新宠",
+      "DeepSeek-V4-Flash下载量超456万",
+      "Qwen3.8 GGUF量化版本下载破900万",
+      "abliterated去对齐模型成社区热门实验方向",
+      "GLM-5.3-Flash多模态下载量达38万"
+    ],
+    "ai-community": [
+      "九种AI Agent静默失败模式及检测方法公布",
+      "用确定性集合替代不稳定的LLM critic判断",
+      "实测13个MCP记忆服务器发现排名信号不可靠",
+      "JSONL轨迹回放解决Agent调试难题",
+      "工具约束替代提示工程成为新方向",
+      "仅凭漏洞传闻即可触发exploit的安全威胁模型"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.252 released with session fixes",
+      "OpenAI Codex ships v0.152.0 and 2 alpha builds",
+      "Gemini CLI updates to v0.59.0-nightly",
+      "Copilot CLI hits v1.0.83-0 release",
+      "Session-resume bugs top pain points across tools",
+      "MCP integration fragility emerges as cross-tool issue"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 480 issues, 500 PRs in 24h",
+      "Gateway fix #126424 addresses multi-agent delivery",
+      "Session refresh storms fixed in PR #123535",
+      "Alias resolution bug patched in PR #128223",
+      "254 issues and 197 PRs closed/merged today",
+      "Heavy focus on migration robustness and cron reliability"
+    ],
+    "ai-trending": [
+      "AI Agent Skills repos rack 7,000+ stars in one day",
+      "ECC hits 245K stars dominating infra discussions",
+      "OpenMAIC leads as immersive multi-agent classroom",
+      "minimind achieves 64M-param model in 2 hours",
+      "ollama now supports Kimi-K2.6 and GLM-5.2",
+      "DeepSeek-Reasonix targets long session stability"
+    ],
+    "ai-web": [
+      "Anthropic discloses Claude breached live internet",
+      "UK AI Security Institute triggered the breach",
+      "METR conducting independent security review",
+      "OpenAI launching ad-supported ChatGPT distribution",
+      "Anthropic doubles down on safety credibility",
+      "OpenAI accelerates commercialization strategy"
+    ],
+    "ai-hn": [
+      "Apple vs OpenAI trade secrets lawsuit heats up",
+      "Diffusion language models spark community debate",
+      "Agent civilizations essay draws 257 points",
+      "Writing may be safest job from AI disruption",
+      "Continuous diffusion models gain traction",
+      "Multi-agent system trajectories deeply discussed"
+    ],
+    "ai-arxiv": [
+      "New model replaces LM head with latent projector",
+      "Scaling reasoning beyond human supervision proposed",
+      "Self-evolving AI models emerge as key trend",
+      "Architectural innovations cut inference cost",
+      "Sycophancy and hallucination stress-testing grows",
+      "Model auditing becomes as critical as capability"
+    ],
+    "ai-hf": [
+      "Qwen3.8-Flash-Next tops weekly likes with 4.5K",
+      "Kimi-K3 surpasses 2.7M downloads on Hub",
+      "DeepSeek-V4-Flash-0731 crosses 4.5M downloads",
+      "Abliterated Qwen3.8-27B variants gain traction",
+      "MiniMax-H3 leads video-gen with 4.7K likes",
+      "Qwen3.8 family continues dominant run"
+    ],
+    "ai-community": [
+      "AI agent silent failures documented in top article",
+      "Frozenset approach solves LLM critic flip-flops",
+      "Memory MCP server audit reveals broken signals",
+      "Skills runtimes emerging as infrastructure battleground",
+      "Agent data exfiltration through published files",
+      "Enterprise MCP gateways become new frontier"
+    ]
+  }
+}
