@@ -63,24 +63,32 @@
       "JSONL轨迹回放解决Agent调试难题",
       "工具约束替代提示工程成为新方向",
       "仅凭漏洞传闻即可触发exploit的安全威胁模型"
+    ],
+    "ai-monthly": [
+      "Claude Sonnet 5发布，Agentic能力逼近Opus，价格大幅下探",
+      "DeepMind高层地震：Jeff Dean离职，Hassabis转任主席",
+      "Meta开源Muse Glimmer 30B，专为端侧Agent优化",
+      "Docker发布Sandboxes，专为AI Agent设计隔离沙箱",
+      "OpenAI Codex客户端开源，首日斩获1994 stars",
+      "Claude Code插件目录上线，生态标准化启动"
     ]
   },
   "en": {
     "ai-cli": [
-      "Claude Code v2.1.252 released with session fixes",
-      "OpenAI Codex ships v0.152.0 and 2 alpha builds",
-      "Gemini CLI updates to v0.59.0-nightly",
-      "Copilot CLI hits v1.0.83-0 release",
-      "Session-resume bugs top pain points across tools",
-      "MCP integration fragility emerges as cross-tool issue"
+      "Oracle blocks AI-generated code from OpenJDK",
+      "OpenAI Codex open-source release hits +1,544 stars",
+      "AGENTS.md proposal garners 4,677 👍 on Claude Code repo",
+      "Docker launches Sandboxes for AI agent execution",
+      "Anthropic releases Claude Sonnet 5 at lower price",
+      "OpenAI Daybreak models ship on AWS for enterprise"
     ],
     "ai-agents": [
-      "OpenClaw sees 480 issues, 500 PRs in 24h",
-      "Gateway fix #126424 addresses multi-agent delivery",
-      "Session refresh storms fixed in PR #123535",
-      "Alias resolution bug patched in PR #128223",
-      "254 issues and 197 PRs closed/merged today",
-      "Heavy focus on migration robustness and cron reliability"
+      "OpenClaw v2026.7.2-beta.7 adds Quarantine Store",
+      "Cloudflare launches Computer + OS for agents",
+      "Meta opensources Muse Glimmer 30B for local agents",
+      "Anthropic appoints Tino Cuéllar as CGAO",
+      "DeepMind shakes up leadership — Jeff Dean departs",
+      "Demis Hassabis becomes DeepMind Chair"
     ],
     "ai-trending": [
       "AI Agent Skills repos rack 7,000+ stars in one day",
