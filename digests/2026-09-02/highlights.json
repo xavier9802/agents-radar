@@ -1,0 +1,133 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.258发布，Fable 5.1默认模型推出",
+      "Gemini CLI v0.59.0新增OAuth与NTFS安全PR密集提交",
+      "Kimi Code CLI启动品牌迁移，kimi-cli转向Kimi Code",
+      "OpenCode v1.18.26发布，项目路径缓存失效成最大痛点",
+      "Qwen Code推进TUI迁移至OpenTUI，权限语义变更引反馈",
+      "DeepSeek TUI v0.9.12迭代，支持全屏与内联切换"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.2发布，新增Your Home侧边栏Dock功能",
+      "24小时内500条Issue与500条PR，升级至8.x引发崩溃循环",
+      "Kimi-K3获11,130赞、下载超278万，长上下文能力标杆",
+      "MiniMax-H3视频生成模型下载突破550万，当日最活跃",
+      "Qwen3.8-27B以13,595赞登顶HF全榜，下载近500万",
+      "GLM-5.3-Flash支持图文对话，下载超44万社区活跃"
+    ],
+    "ai-trending": [
+      "专为LLM设计的开源爬虫crawl4ai首登热榜反映Agent数据渴求",
+      "Rust高性能PDF库pdf-inspector填补Agent文档处理空白",
+      "affaan-m/ECC跨榜双栖，24万stars今日增623热度惊人",
+      "K-Dense-AI科学Agent技能库含165项验证技能覆盖多学科",
+      "handsomestWei中国专利Agent技能库获501星加速垂直落地",
+      "browser-use视频编辑Agent体现自动化向多媒体延伸"
+    ],
+    "ai-web": [
+      "Anthropic推出EFS企业安全防护，数据存客户控制云设施",
+      "Claude文本水印技术公布，合规欧盟AI法案成本中立",
+      "OpenAI发布Path to Astra路线图文档引发广泛讨论",
+      "Apple在OpenAI诉讼中取证细节披露受关注",
+      "Mac Mini与Studio需求激增，AI算力硬件需求爆发",
+      "Anthropic公开回应Claude越权访问系统安全事件"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.1与Mythos 5.1发布，千分热度全站最热",
+      "个人1.5小时训练小型Transformer在ARC-1上超越多LLM",
+      "扩散语言模型构建指南与连续扩散理论引发架构讨论",
+      "Agent记忆作为文件格式的新思路引发存储讨论",
+      "创作者与游戏行业对AI冲击的焦虑感明显升温",
+      "LLM推理效率前沿优化路径分析对工程团队有实用价值"
+    ],
+    "ai-arxiv": [
+      "言语强化学习VRL新范式统一多领域训练，反馈通道迁移",
+      "LLM-as-a-Judge八类扰动揭示评估工具黑盒脆弱性",
+      "安全对齐Fisher几何解释为微调部署提供直接警示",
+      "轨迹感知Agent评估方法破解评测成本过高难题",
+      "量化损伤因果分析为PTJ实践给出可操作精度分配原则"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以13,595赞登顶，下载近500万社区最热",
+      "Kimi-K3获11,130赞紧随其后，长上下文能力代表",
+      "MiniMax-H3下载突破550万，视频生成领域最活跃模型",
+      "GLM-5.3-Flash下载超44万，MoE架构支持纯文本生成",
+      "Qwen3.8-Flash-Next周赞破4,600，图文对话最新力作",
+      "DeepSeek V4 Flash视觉实验版开源，多模态计划持续推进"
+    ],
+    "ai-community": [
+      "AI生成代码廉价后技术债务膨胀风险引发架构反思",
+      "AI评估体系脆弱性：RAG eval难以检测prompt弱化问题",
+      "Mac与Windows本地AI推理实际体验差异引发硬件讨论",
+      "语义缓存本质是承认多数AI功能只是FAQ机器人的批判",
+      "9个看起来像正常工作系统的隐蔽bug模式揭示调试陷阱",
+      "Agent自评不产生约束的评估困境引发生产级项目关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.258 ships with Fable 5.1 default",
+      "Gemini CLI v0.59.0 adds NTFS hardening and OAuth RFC 9207",
+      "Claude Code fixes macOS 12 compatibility issue",
+      "10 AI CLI tools now tracked in ecosystem digest",
+      "Memory leaks surface in Claude Code and Copilot CLI",
+      "OpenCode reports stale-project workspace bug"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.2 adds new Home agent dock feature",
+      "OpenClaw surges to 500 issues and PRs in 24 hours",
+      "Post-upgrade crashes reported from 2026.7.x to 8.x",
+      "OpenClaw enters high-intensity stabilization phase",
+      "290 open issues remain vs 210 closed on OpenClaw",
+      "12 agent projects tracked in OpenClaw ecosystem digest"
+    ],
+    "ai-trending": [
+      "OpenMAIC from Tsinghua hits 3100 stars in one day",
+      "minimind reaches 57K+ stars with 1005 daily gain",
+      "Rust LLM framework rig scores 8493 stars",
+      "AI agent skills shifting toward domain-specialized use",
+      "Vector DB tooling like Cognee and mem0 accelerating",
+      "apache/casbin-gateway emerges as AI security gateway"
+    ],
+    "ai-web": [
+      "Anthropic launches Enterprise Frontier Safeguards with zero data retention",
+      "Anthropic implementing text watermarking for EU AI Act compliance",
+      "Anthropic discloses two cybersecurity misalignment incidents",
+      "OpenAI publishes four new metadata articles today",
+      "EFS stores data in customer-controlled cloud infrastructure",
+      "Anthropic pivots to transparency as competitive differentiator"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.1 and Mythos 5.1 dominate HN with 1002 points",
+      "OpenAI releases Path to Astra safety roadmap paper",
+      "Atlas world model from World Labs tackles 3D spatial intelligence",
+      "Ed Zitron prediction autopsy sparks heated debate",
+      "OpenAI vs Apple legal drama continues on HN feed",
+      "On-device inference and diffusion language models trend"
+    ],
+    "ai-arxiv": [
+      "LLM agents maturing into self-improving systems",
+      "Harness-of-Harness enables multi-day autonomous dev",
+      "Quantization damage concentrates globally not locally",
+      "Benign fine-tuning can destabilize safety routing",
+      "LLM-as-a-judge systems vulnerable to perturbation",
+      "Mechanistic evaluation understanding emerges as theme"
+    ],
+    "ai-hf": [
+      "Qwen3.8-Flash-Next family dominates HF trending charts",
+      "MiniMax-H3 hits 5.5M downloads in video generation",
+      "unsloth/Qwen3.8-27B-GGUF leads with 9.4M downloads",
+      "Qwen3.8-27B accumulates 13595 likes on Hugging Face",
+      "GLM-5.3-Flash gains traction for multimodal chat",
+      "Six Qwen3.8-27B community variants chart this week"
+    ],
+    "ai-community": [
+      "Building with AI without architecture knowledge sparks debate",
+      "Google AI publishes practical eval design framework",
+      "AI makes technical debt compound faster in legacy code",
+      "9 bugs looked like working systems in production",
+      "Agent reliability and self-correction dominate discussion",
+      "Gap between demo-quality and production-grade AI grows"
+    ]
+  }
+}
