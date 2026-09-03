@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.259 ships enterprise features",
+      "OpenAI Codex rust-v0.153.0 on UX polish wave",
+      "Gemini CLI shifts to security focus after nightly failure",
+      "70+ issues and 60+ PRs filed daily across CLI tools",
+      "Windows stability remains top cross-platform weakness",
+      "Multi-model support now table stakes for enterprise"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs in 24 hours",
+      "500-claw ecosystem covers 12 projects total",
+      "OpenClaw 2026.8.1 triggers migration regression wave",
+      "Native realtime audio feature advances in OpenClaw",
+      "Fix PRs shipping across cron, Telegram, Slack, mobile",
+      "Operator-configured task lanes under development"
+    ],
+    "ai-trending": [
+      "Google TimesFM and Hermes-Agent are standout releases",
+      "Ollama hits 180K stars, now supports Kimi-K2.6",
+      "Llama Index at 52K stars leads RAG orchestration",
+      "Langchain holds 145K stars as de facto LLM framework",
+      "Local-first AI tooling growth accelerates rapidly",
+      "RAG infrastructure consolidates into production stacks"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.1 sparks 1339-comment HN debate",
+      "Gemini 3.8 Flash Cyber variant draws HN interest",
+      "Meta Muse Spark 1.3 faces open-license scrutiny",
+      "US government sided with OpenAI on training data",
+      "NYC school AI ban thread dominates opinion debate",
+      "Ed Zitron skepticism retrospective gains traction"
+    ],
+    "ai-arxiv": [
+      "Graph Machine enables O(n) state via sparse routing",
+      "Linguistic illegibility challenges LLM safety tools",
+      "LLMs can now control their own attention mechanisms",
+      "4-bit training papers target efficient model scaling",
+      "Agent evaluation emerges as critical research bottleneck",
+      "Medicine and telecom show mature LLM application use"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 4.9M downloads, 13.7K likes",
+      "GLM-5.3-Flash surges to 441K downloads rapidly",
+      "MiniMax-H3 hits 5.5M downloads in video gen",
+      "Uncensored Qwen3.8 variants climb likes charts",
+      "GLM-5.3 dense model reaches 94K downloads",
+      "Qwen3.8-Flash-Next offers lighter multimodal option"
+    ],
+    "ai-community": [
+      "Debug AI agents with execution trees, not logs",
+      "Agents need guardrails more than raw capability",
+      "AI gateway adds 400ms latency per request",
+      "Pair programmed with three AI tools for a month",
+      "Bug rumors now surfacing real security exploits",
+      "Bill Gates Human Reserved concept stress-tested"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.259 ships enterprise features",
+      "OpenAI Codex rust-v0.153.0 on UX polish wave",
+      "Gemini CLI shifts to security focus after nightly failure",
+      "70+ issues and 60+ PRs filed daily across CLI tools",
+      "Windows stability remains top cross-platform weakness",
+      "Multi-model support now table stakes for enterprise"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs in 24 hours",
+      "500-claw ecosystem covers 12 projects total",
+      "OpenClaw 2026.8.1 triggers migration regression wave",
+      "Native realtime audio feature advances in OpenClaw",
+      "Fix PRs shipping across cron, Telegram, Slack, mobile",
+      "Operator-configured task lanes under development"
+    ],
+    "ai-trending": [
+      "Google TimesFM and Hermes-Agent are standout releases",
+      "Ollama hits 180K stars, now supports Kimi-K2.6",
+      "Llama Index at 52K stars leads RAG orchestration",
+      "Langchain holds 145K stars as de facto LLM framework",
+      "Local-first AI tooling growth accelerates rapidly",
+      "RAG infrastructure consolidates into production stacks"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.1 sparks 1339-comment HN debate",
+      "Gemini 3.8 Flash Cyber variant draws HN interest",
+      "Meta Muse Spark 1.3 faces open-license scrutiny",
+      "US government sided with OpenAI on training data",
+      "NYC school AI ban thread dominates opinion debate",
+      "Ed Zitron skepticism retrospective gains traction"
+    ],
+    "ai-arxiv": [
+      "Graph Machine enables O(n) state via sparse routing",
+      "Linguistic illegibility challenges LLM safety tools",
+      "LLMs can now control their own attention mechanisms",
+      "4-bit training papers target efficient model scaling",
+      "Agent evaluation emerges as critical research bottleneck",
+      "Medicine and telecom show mature LLM application use"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 4.9M downloads, 13.7K likes",
+      "GLM-5.3-Flash surges to 441K downloads rapidly",
+      "MiniMax-H3 hits 5.5M downloads in video gen",
+      "Uncensored Qwen3.8 variants climb likes charts",
+      "GLM-5.3 dense model reaches 94K downloads",
+      "Qwen3.8-Flash-Next offers lighter multimodal option"
+    ],
+    "ai-community": [
+      "Debug AI agents with execution trees, not logs",
+      "Agents need guardrails more than raw capability",
+      "AI gateway adds 400ms latency per request",
+      "Pair programmed with three AI tools for a month",
+      "Bug rumors now surfacing real security exploits",
+      "Bill Gates Human Reserved concept stress-tested"
+    ]
+  }
+}
