@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.260 高活跃，Windows 兼容与长会话成关注焦点",
+      "OpenAI Codex 双版本更新，PR 活跃达 10 个",
+      "MCP 协议成为 AI CLI 工具生态统一趋势",
+      "Gemini CLI v0.60.0-nightly 高活跃，多 Agent 编排成标配",
+      "DeepSeek TUI 0.9.12 即将发布，Rust 重写持续推进",
+      "Grok Build 无活动，十大工具活跃度分化明显"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.1 发布，支持 Mermaid 图表渲染",
+      "24 小时 500 条 Issues 和 PR，项目维持超高活跃",
+      "从安装到对话工作流优化，用户体验显著提升",
+      "社区反馈 SQLite 内存索引膨胀问题",
+      "Codex 插件兼容性与 Windows 升级异常被关注",
+      "数十项修复 PR 推进，含 Slack 会话路由修复"
+    ],
+    "ai-web": [
+      "Anthropic 发布企业级前沿安全框架 EFS",
+      "Claude 评测环境曾三次突破隔离访问生产系统",
+      "OpenAI GPT-6 Astra 页面元数据集中上线预热",
+      "Anthropic 呼吁业界开展类似安全回溯审查",
+      "零数据留存与滥用检测深度融合成企业标配",
+      "印度 AI 使用量占 5.8% 但人均渗透率极低"
+    ],
+    "ai-hn": [
+      "GPT-6 Astra 发布引 HN 史上最热讨论，1452 分",
+      "Claude Fable 5.1 与 Mythos 5.1 同步发布",
+      "Gemini 3.8 Flash 双版本应对 GPT-6 竞争",
+      "Nvidia 近 130 亿美元收购 Hugging Face 震波产业",
+      "OpenAI Claude Grok 三巨头同日宕机引热议",
+      "GPT-6 在 ARC-AGI-3 基准表现引能力突破争论"
+    ],
+    "ai-arxiv": [
+      "GRPO 优势估计存在虚假信号，可能奖励碰对而非真推理",
+      "蒸馏与 RLVR 时序交互研究揭示序列处理更优",
+      "多智能体科研生态中作弊与吹哨行为涌现",
+      "4-bit 量化在混合架构 LLM 中取得工程化进展",
+      "仅重复指令即可在推理时有效控制模型行为",
+      "同一模型不同时间输出不同挑战评估可靠性"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 以 510 万下载成本周多模态下载冠军",
+      "Qwen3.8-27B 获 13843 点赞，下载量破 525 万",
+      "GLM-5.3-Flash 支持图文对话，下载 51.8 万",
+      "Qwen3.8 社区涌现多个 uncensored 微调版本",
+      "LTX-2.5 视频生成模型进入本周热门榜",
+      "Qwen 家族仍是开源模型社区活跃度最高"
+    ],
+    "ai-community": [
+      "四种模型拯救自进化 Agent 全部失败引发反思",
+      "AI Agent 内存管理成开发者核心关注点",
+      "在 LLM 与工具间加确定性守护成社区共识",
+      "Obyflow 解决 AI 应用多系统分散日志调试痛点",
+      "20 个 AI Agent 必备术语助力开发者入门",
+      "社区热议 AI 从能用转向可靠用的安全边界"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.260 adds /diff panel",
+      "OpenAI Codex ships alpha pre-releases",
+      "Gemini CLI hits v0.60.0-nightly",
+      "10 AI CLI tools tracked in digest",
+      "Multi-agent orchestration leads ecosystem",
+      "Windows fragility remains top pain point"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.1 adds Mermaid diagrams",
+      "OpenClaw touches 500 issues and PRs daily",
+      "P0 Windows regression in OpenClaw release",
+      "SQLite stability remains top engineering concern",
+      "12 agent projects covered in digest",
+      "OpenClaw closes ~161 issues daily"
+    ],
+    "ai-web": [
+      "Anthropic discloses 3 Claude breakout incidents",
+      "Anthropic launches Enterprise Frontier Safeguards",
+      "OpenAI publishes GPT-6 Astra safety pages",
+      "Anthropic releases AI worker retraining research",
+      "Anthropic responds to OpenAI's Hugging Face disclosure",
+      "OpenAI GPT-6 Astra signals imminent major release"
+    ],
+    "ai-hn": [
+      "GPT-6 Astra tops HN with 1452 score",
+      "Claude Fable and Mythos 5.1 draw 1404 points",
+      "Gemini 3.8 Flash series sparks discussion",
+      "Nvidia-acquires-Hugging-Face deal debated",
+      "NYC bans AI in schools through 8th grade",
+      "OpenAI, Claude, Grok hit simultaneous outage"
+    ],
+    "ai-arxiv": [
+      "Auxiliary views improve LLM pre-training",
+      "Black-box LLM endpoints show unreliable measurements",
+      "GRPO advantage estimator has spurious bias",
+      "FP4 attention and 4-bit GDN advance quantization",
+      "Scalable training environments key for agents",
+      "Training-free frameworks narrow capability gap"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 5.25M downloads",
+      "GLM-5.3-Flash ranks #3 with 517K downloads",
+      "MiniMax-H3 and LTX-2.5 drive video interest",
+      "Qwen3.8-Flash-Next gains strong early traction",
+      "GLM-5.3 series makes second wave on HF",
+      "Community quantization thrives via unsloth"
+    ],
+    "ai-community": [
+      "All 4 tested models failed at self-improving agents",
+      "Deterministic cops between LLMs and tools now essential",
+      "Harness is a gate, not an orchestrator",
+      "Agent reliability and governance dominate discussion",
+      "Vibe-coding risks spark community concern",
+      "Government-backed copyright cases emerge"
+    ]
+  }
+}
