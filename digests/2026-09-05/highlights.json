@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.261 adds org policy diagnostics",
+      "OpenAI Codex releases rust-v0.153.4 with Astra hotfixes",
+      "Gemini CLI and GitHub Copilot CLI harden security",
+      "Qwen Code migrates to OpenTUI architecture",
+      "OpenCode and Pi close capability gaps via community",
+      "10 AI CLI tools tracked in September 2026 digest"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs in 24 hours",
+      "OpenClaw in stabilization cycle, no new releases",
+      "Multiple P0 bugs hit session-state and crash loops",
+      "PR #138731 fixes A2A task preservation bug",
+      "105 of 500 OpenClaw issues closed today",
+      "12 agent projects tracked in OpenClaw ecosystem digest"
+    ],
+    "ai-trending": [
+      "affaan-m/ECC surges 1,135 stars to 248K total",
+      "headroomlabs-ai/headroom cuts tokens 20-95%",
+      "anthropic/skills trends with 511 daily stars",
+      "magnitude gains 391 stars as local inference server",
+      "Agent skills and token optimization dominate trends",
+      "ECC optimizes Claude Code, Codex, Opencode, Cursor"
+    ],
+    "ai-web": [
+      "Claude autonomously proved Fermat's Last Theorem in Lean",
+      "Proof took Claude 11 days over 11 days autonomously",
+      "First complete computer-checked Fermat proof achieved",
+      "Anthropic published India AI adoption economic research",
+      "Anthropic released worker retraining AI disruption study",
+      "OpenAI published no new content this cycle"
+    ],
+    "ai-hn": [
+      "GPT-6 Astra tops HN with 2,160 points, 1,978 comments",
+      "GPT-6 Astra ARC-AGI-3 benchmark fuels debate",
+      "Nvidia acquires Hugging Face for $13 billion",
+      "Private OpenAI agent message board discovered",
+      "Fermat Lean 4 formalization excites academic community",
+      "Gemini 3.8 Flash and Cyber models announced"
+    ],
+    "ai-arxiv": [
+      "LLM judge reliability fails preregistered audit",
+      "Gap found between judged and actual CoT interpretability",
+      "FP4 quantization advances for hybrid LLM components",
+      "Papers emerge on secure multi-agent coordination",
+      "Reproducible terminal environments for agents studied",
+      "Cross-agent interoperability protocols proposed"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hits 5.7M downloads, 14K likes",
+      "DeepSeek-V4-Flash-Vision-Exp climbs with 133K weekly downloads",
+      "Qwen3.8-Flash-Next gains 351K downloads fast",
+      "MiniMax-H3 and LTX-2.5 pull massive video interest",
+      "GLM-5.3 and Flash variant strong from zai-org lab",
+      "Community GGUF quantizations surge for top models"
+    ],
+    "ai-community": [
+      "Developers shift from agents to resilient AI systems",
+      "Stratagems #28: AI exploits structured human weaknesses",
+      "Author argues best systems skip the LLM entirely",
+      "GPT-6 Astra shows zero-day chaining capability",
+      "67 cents earns 44% score on ARC-AGI-1",
+      "AI-generated tests expose AI blind spots"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.261 adds org policy diagnostics",
+      "OpenAI Codex releases rust-v0.153.4 with Astra hotfixes",
+      "Gemini CLI and GitHub Copilot CLI harden security",
+      "Qwen Code migrates to OpenTUI architecture",
+      "OpenCode and Pi close capability gaps via community",
+      "10 AI CLI tools tracked in September 2026 digest"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs in 24 hours",
+      "OpenClaw in stabilization cycle, no new releases",
+      "Multiple P0 bugs hit session-state and crash loops",
+      "PR #138731 fixes A2A task preservation bug",
+      "105 of 500 OpenClaw issues closed today",
+      "12 agent projects tracked in OpenClaw ecosystem digest"
+    ],
+    "ai-trending": [
+      "affaan-m/ECC surges 1,135 stars to 248K total",
+      "headroomlabs-ai/headroom cuts tokens 20-95%",
+      "anthropic/skills trends with 511 daily stars",
+      "magnitude gains 391 stars as local inference server",
+      "Agent skills and token optimization dominate trends",
+      "ECC optimizes Claude Code, Codex, Opencode, Cursor"
+    ],
+    "ai-web": [
+      "Claude autonomously proved Fermat's Last Theorem in Lean",
+      "Proof took Claude 11 days over 11 days autonomously",
+      "First complete computer-checked Fermat proof achieved",
+      "Anthropic published India AI adoption economic research",
+      "Anthropic released worker retraining AI disruption study",
+      "OpenAI published no new content this cycle"
+    ],
+    "ai-hn": [
+      "GPT-6 Astra tops HN with 2,160 points, 1,978 comments",
+      "GPT-6 Astra ARC-AGI-3 benchmark fuels debate",
+      "Nvidia acquires Hugging Face for $13 billion",
+      "Private OpenAI agent message board discovered",
+      "Fermat Lean 4 formalization excites academic community",
+      "Gemini 3.8 Flash and Cyber models announced"
+    ],
+    "ai-arxiv": [
+      "LLM judge reliability fails preregistered audit",
+      "Gap found between judged and actual CoT interpretability",
+      "FP4 quantization advances for hybrid LLM components",
+      "Papers emerge on secure multi-agent coordination",
+      "Reproducible terminal environments for agents studied",
+      "Cross-agent interoperability protocols proposed"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hits 5.7M downloads, 14K likes",
+      "DeepSeek-V4-Flash-Vision-Exp climbs with 133K weekly downloads",
+      "Qwen3.8-Flash-Next gains 351K downloads fast",
+      "MiniMax-H3 and LTX-2.5 pull massive video interest",
+      "GLM-5.3 and Flash variant strong from zai-org lab",
+      "Community GGUF quantizations surge for top models"
+    ],
+    "ai-community": [
+      "Developers shift from agents to resilient AI systems",
+      "Stratagems #28: AI exploits structured human weaknesses",
+      "Author argues best systems skip the LLM entirely",
+      "GPT-6 Astra shows zero-day chaining capability",
+      "67 cents earns 44% score on ARC-AGI-1",
+      "AI-generated tests expose AI blind spots"
+    ]
+  }
+}
