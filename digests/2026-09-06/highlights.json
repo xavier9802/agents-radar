@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.263 发布，Bug 修复 + 稳定性提升",
+      "Qwen Code 三周内发布 v0.23.0/v0.23.1 及三个预览版",
+      "Pi 新增 GPT-6 Astra 支持，版本更新至 v0.85.1",
+      "Gemini CLI 夜间版本高频迭代，v0.60.0-nightly 持续更新",
+      "OpenCode 社区驱动，Issues 与 PR 均超 10 条",
+      "MCP 集成稳定性成行业共同关注焦点"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.2 发布，聊天响应性能优化",
+      "修复超时后排队消息丢失，5 分钟后消息可恢复重试",
+      "持久化历史读取移出事件循环，避免阻塞主线程",
+      "Issues 与 PR 均约 500 条，维护团队处理速度近贡献速度",
+      "P0/P1 集中 session-state 丢失、消息丢失、Gateway 阻塞三大类",
+      "项目高吞吐迭代但技术债积累明显"
+    ],
+    "ai-trending": [
+      "ECC Agent Harness 系统增星 1314，总量达 250,061",
+      "Ponytail 今日增星 2845，Agent 性能优化赛道最热",
+      "ollama 以 180,256 stars 领跑本地多模型推理",
+      "Codewhale（Rust）与 DeepSeek-Reasonix（Go）首登热榜",
+      "Anthropic 官方 skills 仓库发布，Agent Skills 走向平台规范",
+      "minimind 两小时从零训练 64M 参数 LLM 成最佳实践"
+    ],
+    "ai-hn": [
+      "GPT-6 Astra 正式发布，HN 评分 2221 评论 2043 条",
+      "Anthropic AI 辅助完成费马大定理 Lean 4 形式化证明",
+      "Gemini 3.8 Flash 系列发布，主打速度与成本优势",
+      "Claude Fable 5.1 与 Mythos 5.1 子模型同步发布",
+      "Qwen 3.8 27B 上线 Cerebras，吞吐达 1500 tok/s",
+      "Google AI Mode 被指偏向高价商品，引发公正性争议"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 获 14,004 点赞，下载量突破 600 万",
+      "MiniMax-H3 视频生成模型下载超 500 万，双强竞争",
+      "DeepSeek-V4-Flash-Vision-Exp 视觉语言实验版受关注",
+      "TimesFM 3.0 时间序列模型正式开源",
+      "all-MiniLM-L6-v2 累计下载超 2.5 亿，嵌入模型标杆",
+      "GLM-5.3 Flash 版兼顾图文效率与质量，下载 72 万"
+    ],
+    "ai-community": [
+      "多数 AI Agent 在 Demo 流畅却在生产环境崩溃",
+      "专用 OCR 准确率全面胜出却被通用模型 300 倍速度降维",
+      "编码 Agent 能修复测试却感知不到 UI 视觉退化",
+      "GPT-6 Astra、Claude Sonnet 4.5、Mistral Small 3.2 密集发布对比",
+      "生产级 Agent 需可观测、可拦截、可审计的工程化方案",
+      "可靠 Agent 失败要足够无聊——可记录可回滚可重试"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.263 released with bug fixes",
+      "OpenAI Codex merged 9 PRs recently",
+      "Gemini CLI dropped v0.60.0-nightly build",
+      "MCP integration remains fragile across tools",
+      "Subagent lifecycle is cross-tool pain point",
+      "Claude Code Skills repo now public"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.2 released today",
+      "500 issues and 500 PRs in 24 hours",
+      "Faster chat and dashboard performance",
+      "Session-state integrity remains top bug",
+      "Steipete highly active as maintainer",
+      "Gateway event-loop blocking bugs persist"
+    ],
+    "ai-trending": [
+      "ECC and ponytail surge tens of thousands stars",
+      "Anthropic publishes public skills repository",
+      "mem0 self-hosted memory platform gains traction",
+      "ollama now supports Kimi-K2.6 and GLM-5.2",
+      "magnitude and DeepSeek-Reasonix local surge",
+      "Agent skills ecosystem consolidating rapidly"
+    ],
+    "ai-hn": [
+      "GPT-6 Astra draws 3000+ comments on HN",
+      "Hacked OpenAI agent message board discussed",
+      "Claude Fable 5.1/Mythos 5.1 sparks debate",
+      "Gemini 3.8 Flash draws heavy HN traffic",
+      "Critical discourse on AI systemic risks rises",
+      "Papers question next-token predictor framing"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Flash-Vision-Exp leads with 684 likes",
+      "Qwen3.8-27B dominates with 6M+ downloads",
+      "8 uncensored GGUF variants trending",
+      "MiniMax-H3 maintains near 5K likes",
+      "LTX-2.5 offers streamlined diffusion pipeline",
+      "Unsloth pushes mixed-precision GGUF further"
+    ],
+    "ai-community": [
+      "Why Most AI Agents Fail in Production discussed",
+      "7 Production Patterns for Laravel agents shared",
+      "RAG Solved the Wrong Problem article popular",
+      "GPT-6 Astra migration guides hitting dev.to",
+      "Security concerns around agent trust prompts",
+      "Greedy benchmarks mask sampling degradation"
+    ]
+  }
+}
