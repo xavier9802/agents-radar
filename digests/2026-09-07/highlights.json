@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Pi热度爆表，当日45个热点Issue大量关闭，响应速度极快",
+      "DeepSeek TUI以极速响应和11个新增PR成为黑马",
+      "Claude Code与Gemini CLI活跃度接近，各有10个热点",
+      "Qwen Code发布preview版本，开启差异化竞争",
+      "Grok Build生态停滞，零更新零issue",
+      "跨平台稳定性与上下文管理成全行业共同痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw无新版本发布，建议暂缓升级",
+      "最新稳定版2026.8.2，Beta版2026.9.1-beta.1",
+      "社区活跃度健康，Issue关闭率36.6%，PR合并率45%",
+      "多个P0/P1级Bug修复PR已提交，含Windows路径溢出问题",
+      "子代理索引逻辑重构已合并，统一latest-generation选择",
+      "500条Issue与500条PR更新，开发流水线高效运转"
+    ],
+    "ai-trending": [
+      "ECC斩获25万星，今日新增1485星领跑趋势榜",
+      "mattpocock/skills首日狂揽2207星，极简Shell赋能Agent",
+      "magnitude开源本地推理服务器，自动选优模型对接Pi/Codex",
+      "headroom可压缩20%-95% token消耗，降本效果显著",
+      "hermes-agent达24万星，成长型记忆与自我进化能力受关注",
+      "opencode今日增速551星，反映可控编码助手需求强烈"
+    ],
+    "ai-web": [
+      "Anthropic官网今日零更新，保持静默状态",
+      "OpenAI推送5条新链接，主题为Research Acceleration",
+      "OpenAI新发布An Alien Mind，或涉模型可解释性研究",
+      "Research Acceleration主题三条重复，疑为内部工具发布",
+      "仅获元数据无法确认正文，需等待内容抓取",
+      "Anthropic与OpenAI发布节奏形成鲜明对比"
+    ],
+    "ai-hn": [
+      "GPT-6 Astra正式发布，2246分2059评论成绝对热点",
+      "Gemini 3.8 Flash Cyber发布，专为安全红队场景设计",
+      "Anthropic展示形式化费马大定理进展，AI数学验证引热议",
+      "Qwen 3.8 27B在Cerebras达1500 tokens/s推理速度",
+      "社区质疑next-token预测模型，引发LLM本质理论争论",
+      "OpenAI发布An Alien Mind博客，探讨AI意识与可解释性"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以1.4万赞和619万下载领跑开源模型榜",
+      "GPT-2下载量达1461万，经典模型生命力持久",
+      "DeepSeek-V4-Flash-Vision单日下载21万，多模态新贵崛起",
+      "GLM-5.3-Flash下载76万，MoE-DSA架构成国产新亮点",
+      "MiniMax-H3视频生成赛道近500万下载热度惊人",
+      "GGUF量化生态繁荣，同一模型衍生十余个变体"
+    ],
+    "ai-community": [
+      "CauterRule v0.1.0发布，将重复agent调用转为可测试断言",
+      "Postgres被证实比专用向量数据库更快更省成本",
+      "RAG管道弃用LangChain后的得失分析引发热议",
+      "n8n AI自动生成工作流带来潜在安全风险",
+      "提示词测试体系缺失成行业普遍盲点",
+      "MCMC算法在现代AI中的隐藏作用引发开发者好奇"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Gemini CLI released v0.60.0-nightly.20260907",
+      "Claude Code has 10 tracked hot issues",
+      "OpenAI Codex in 26.901.x release cycle",
+      "Kimi Code CLI has 4 tracked issues",
+      "Cross-device session continuity in demand",
+      "Windows regressions remain top concern"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues and PRs in 24h",
+      "PR #140712 refactors indexing across registry",
+      "PR #140741 updates memory-lancedb tests",
+      "Session metrics now computed once per render",
+      "P1/P0 regressions and session stability persist",
+      "Telegram bot-to-bot support closed as stale"
+    ],
+    "ai-trending": [
+      "ECC gained 1,485 stars in one day",
+      "ponytail gained 1,539 stars trending",
+      "Hermes Agent at 242,637 total stars",
+      "Magnitude local inference server surging",
+      "Five new skill-catalog projects trending",
+      "Graphify and LEANN lead RAG alternatives"
+    ],
+    "ai-web": [
+      "Anthropic published zero new articles today",
+      "OpenAI posted five new index entries",
+      "Research Acceleration View Inside OpenAI surfaced",
+      "An Alien Mind philosophical piece emerged",
+      "All OpenAI content is metadata-only",
+      "OpenAI sitemap now at 945 total entries"
+    ],
+    "ai-hn": [
+      "GPT-6 Astra tops HN with 2246 score, 2059 comments",
+      "Gemini 3.8 Flash Cyber draws 1157 score",
+      "Qwen 3.8 27B on Cerebras at 1500 tok/s hits 689",
+      "OpenAI agent message board sparks 1500+ comments",
+      "GPT-6 Astra sparks benchmark and robot arm debates",
+      "LLM as cognitive virus thread heats up"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 14,142 likes and 6.19M downloads",
+      "Qwen3.8-Flash-Next gains 4,946 likes fast",
+      "MiniMax-H3 image-to-video hits 4.99M downloads",
+      "LTX-2.5 leads text-to-video wave",
+      "TimesFM 3.0 extends time-series forecasting",
+      "NVIDIA NVFP4 and Unsloth GGUF for Qwen3.8"
+    ],
+    "ai-community": [
+      "Dev log: deleting 180k lines hunting socket leaks in Rust",
+      "MCMC 1953 algorithm underpins modern AI sampling",
+      "Authors argue prompt engineering won't fix agents",
+      "Developers ditching vector DBs for Postgres",
+      "LangChain being replaced by leaner RAG pipelines",
+      "JSON/YAML format-based attack vectors raise alarms"
+    ]
+  }
+}
