@@ -55,6 +55,14 @@
       "n8n AI自动生成工作流带来潜在安全风险",
       "提示词测试体系缺失成行业普遍盲点",
       "MCMC算法在现代AI中的隐藏作用引发开发者好奇"
+    ],
+    "ai-weekly": [
+      "OpenAI 发布 GPT-6 Astra，ARC-AGI-3 成绩公开，HN 超 2800 分",
+      "Anthropic 发布 Claude Mythos 5.1，专攻叙事创意写作",
+      "Google 推出 Gemini 3.8 Flash 及安全红队 Cyber 版",
+      "Claude 11 天自主完成费马大定理形式化验证，AI 数学里程碑",
+      "OpenAI 上线 ChatGPT Ads 广告变现模式",
+      "Anthropic 零数据留存安全框架 EFS 首批覆盖三大云厂商"
     ]
   },
   "en": {
@@ -113,6 +121,16 @@
       "Developers ditching vector DBs for Postgres",
       "LangChain being replaced by leaner RAG pipelines",
       "JSON/YAML format-based attack vectors raise alarms"
+    ],
+    "ai-weekly": [
+      "GPT-6 Astra launched by OpenAI, 2,200+ HN score",
+      "Anthropic released Claude Fable 5.1 & Mythos 5.1",
+      "Anthropic proved Fermat's Last Theorem with AI",
+      "Anthropic launched Enterprise Frontier Safeguards",
+      "Anthropic skills repos hit 2,758 stars on Trending",
+      "Spotify's Portal tool cut Claude tokens by 90%",
+      "OpenClaw v2026.8.2 released with migration failures",
+      "Google launched Gemini 3.8 Flash & Flash Cyber"
     ]
   }
 }
