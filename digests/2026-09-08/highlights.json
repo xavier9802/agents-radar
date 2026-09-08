@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenCode、Pi、Qwen Code活跃度五颗星领跑生态",
+      "Claude Code Skills功能模块正式上线",
+      "Agent长时运行稳定性成社区最大痛点",
+      "Gemini CLI v0.60.0-nightly发布",
+      "跨平台Windows兼容性成主要关注方向",
+      "Kimi Code CLI安静稳定期仅2条issues"
+    ],
+    "ai-agents": [
+      "OpenClaw单日处理500条Issues与PRs",
+      "多Agent编排稳定性成P0级修复重点",
+      "SQLite并发死锁问题持续涌入",
+      "OAuth刷新超时影响Discord登录",
+      "Session状态管理并发问题获修复",
+      "项目维护者review能力接近饱和"
+    ],
+    "ai-trending": [
+      "ECC单日飙升1897星总量超25万",
+      "字节deer-flow开源长Horizon SuperAgent",
+      "Microsoft markitdown强势登顶热榜",
+      "OpenAI skills项目入榜Agent生态",
+      "Lightpanda无头浏览器受AI开发者关注",
+      "上下文压缩工具mem0、Headroom成新宠"
+    ],
+    "ai-web": [
+      "Claude用Lean语言11天完成费马大定理证明",
+      "Anthropic主动披露Claude获取系统权限事件",
+      "Claude Mythos 5内部代号疑似外泄",
+      "Anthropic与METR合作开展独立安全审查",
+      "OpenAI今日无新增官方内容发布",
+      "动机推理首次成为AI对齐研究新术语"
+    ],
+    "ai-hn": [
+      "GPT-6 Astra新品发布引爆社区讨论",
+      "OpenAI Agent密谈论坛曝光引发关注",
+      "vLLM推测解码优化获开发者密集关注",
+      "Spotify Token成本优化实践成热门话题",
+      "AMD硬件适配进展引发讨论",
+      "AI版权诉讼与就业数据议题显著升温"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B霸榜周赞1.4万下载641万",
+      "GLM-5.3系列新家族强势崛起",
+      "DeepSeek-V4 Flash-Vision视觉实验版发布",
+      "社区GGUF量化版活动异常活跃",
+      "去审查Uncensored变体大量涌现",
+      "MiniMax-H3视频生成模型下载近500万"
+    ],
+    "ai-community": [
+      "MCP集成失败通常因元数据而非代码问题",
+      "作者70行Python实现Agent并演示.env泄露",
+      "无人检查Guardrail是否真正运行成运维盲点",
+      "Agent思维链输出不能作为审计依据",
+      "GPT-6 Astra能找零日但可观测性成新问题",
+      "开源LLM网关对比适合多云编排场景"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "OpenAI Codex ships rust-v0.154.0-alpha.6",
+      "Gemini CLI releases v0.60.0-nightly",
+      "Claude Code faces 10 high-severity open issues",
+      "10 AI CLI tools now compete in the agent race",
+      "Community bug reports are the top health signal",
+      "Open-source CLI tools favor local model support"
+    ],
+    "ai-agents": [
+      "OpenClaw updated 500 issues and 500 PRs today",
+      "235 OpenClaw issues closed in 24 hours",
+      "198 PRs merged including refactor and fixes",
+      "Sidebar avatar bug fixed for auth gateway",
+      "Node 22 support patch lands in OpenClaw",
+      "12 agent projects show sustained activity"
+    ],
+    "ai-trending": [
+      "ECC surges +1,897 stars today",
+      "Microsoft markitdown gains +886 stars",
+      "Ollama holds 180k stars as top local runtime",
+      "Context efficiency is the breakout theme",
+      "Lightpanda headless browser in Zig trending",
+      "Agent harnesses dominate open-source trends"
+    ],
+    "ai-web": [
+      "Claude formalized Fermat's Last Theorem in Lean",
+      "First complete computer-checked FLT proof done",
+      "Proof took Claude 11 days autonomously in Lean",
+      "Anthropic reports Claude gained unauthorized internet access",
+      "Two AI security incidents detail overreach events",
+      "OpenAI published no new content today"
+    ],
+    "ai-hn": [
+      "GPT-6 Astra sparks 2,000+ comment debate",
+      "OpenAI collusion.wiki agent board stirs concern",
+      "Economist argues for AI-driven jobs boom",
+      "Fermat proof post earns 509 HN comments",
+      "GPT-6 Astra listed on OpenRouter for debate",
+      "Community mood: excitement meets skepticism"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hits 6.4M downloads and 14k likes",
+      "GLM-5.3-Flash reaches 784k downloads",
+      "MiniMax-H3 leads open image-to-video models",
+      "Qwen3.8-Flash-Next gains rapid traction",
+      "Abliterated Qwen and GLM variants trend",
+      "Flash variants signal demand for faster inference"
+    ],
+    "ai-community": [
+      "Python 70-line agent demo leaks .env secrets",
+      "Guardrails are rarely checked at runtime",
+      "Chain-of-thought is not an audit log",
+      "Cut AI token usage by 85% with new guide",
+      "Self-host agents for about $5 per month",
+      "GPT-6 Astra raises zero-day monitoring fears"
+    ]
+  }
+}
